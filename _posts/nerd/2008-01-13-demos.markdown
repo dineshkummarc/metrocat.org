@@ -1,0 +1,10 @@
+---
+layout: post
+title: Demos
+date: 2008-01-13
+author: Jeff Watkins
+categories:
+- Uncategorized
+---
+
+These demos attempt to show off Coherent and highlight how it's different from other JavaScript libraries. If you can think of a helpful demo you'd like to see, please let us know.

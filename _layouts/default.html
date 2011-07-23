@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>
+      {% if page.tag %}
+      Posts tagged &ldquo;{{ page.tag }}&rdquo; &mdash; 
+      {% elsif page.title %}
+      {{ page.title }} &mdash; 
+      {% elsif page.month %}
+      Archived posts from {{ page.month | to_month }}, {{ page.year }} &mdash;
+      {% elsif page.year %}
+      Archived posts from {{ page.year }} &mdash;
+      {% endif %}
+      Coherent
+    </title>
+    <link rel="stylesheet" href="/css/syntax.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="/css/typography.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <link rel="edit" href="txmt://open?url=file://{{page.path}}">
+  </head>
+  
+  <body>
+    {{ content }}
+  </body>
+</html>

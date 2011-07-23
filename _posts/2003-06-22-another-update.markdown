@@ -1,0 +1,400 @@
+---
+layout: post
+title: Another Update
+date: 2003-06-22
+author: Jeff Watkins
+categories:
+- Travel
+---
+
+<p>It's been almost a year since my last update about my travels. I've
+finally written an account of the last six weeks of my sabbatical last
+summer. It's rather long; so be forewarned...</p>
+<p>When last you heard from your lazy friend Jeff, I had reached
+Florida where I spent a quiet week visiting my cats and, of course, my
+parents. My sister, Dianne, flew in from Denver to join us for a few
+days. One evening we went to the Hobe Sound Beach to watch Loggerhead
+turtles squirt eggs out of their behinds. I know that's not quite what
+they were up to, but hey, it was dark and I was fast becoming a feast
+for the local mosquitos (who weren't as nasty as the mosquitos I was to
+meet later).</p>
+<p>On Thursday, 18 July, I left the kids and my parents behind and
+drove a couple hours north to visit my buddy Brad in Gainesville, FL.
+For some reason, Brad is the only one of my former High School chums
+with whom I'm still in touch. Some might say it's because we share the
+same birthday; but I'm not willing to speculate. We had quite a bit of
+catching up to do: I hadn't seen Brad in a number of years.</p>
+<p>Whenever I have the opportunity to visit Gainesville, and sometimes
+when I'm only passing through, I'm drawn to the Burrito Bros: a little
+hole in the wall that makes simple burritos slightly smaller than my
+head. I was a little surprised to find they were still in business.
+After lunch, while Brad endured his Doctoral exam, I headed over to the
+campus to read and ogle nubile coeds. No sooner had I sat down than the
+first clap of thunder echoed across the campus.</p>
+<p>Florida is prone to afternoon thunderstorms and the clock had just
+struck 4 PM. Naturally, I'd forgotten to put the top up on the Miata.
+So I marched back to the house at double speed; and just as I arrived
+the first fat drop of warm rain splashed down. By the time I had the
+top up and made it into the house, the deluge had begun.</p>
+<p>Brad has the most unique way of starting a charcoal grill: an
+electric leaf blower. It really works a treat. Granted sparks flew
+about 200 feet into the air and probably set fire to a dozen nearby
+houses; but, we were able to start grilling dinner in no time. True to
+form, that evening found Brad, another fellow named Jeff, and myself
+discussing the finer points of Tom Waits' genius and arguing over which
+of his songs were the best.</p>
+<p>On Sunday, while it drizzled, we went tubing on the second shortest
+river in Florida: <a href="http://www.ichetucknee.org/">the Ichetucknee
+river</a> or Itch-me-scratch-me as it is colloquially known. The
+aquifer fed waters are crystal clear and the cypress trees, with their
+knees sticking up all over the place, quite a change from the scenery
+of the NW. Regrettably, we didn't see too much in the way of wild life
+-- the day was well advanced -- although we were fortunate enough to be
+part of a group that included a couple cute young ladies wearing
+bikinis.</p>
+<p>Brad recommended I visit the Moon River brewery while passing
+through Savannah, GA on Monday. So after leaving Gainesville around 9
+AM, I stopped in to sample their excellent Heffe-weizen and enjoy a
+gigantic cheeseburger. Outside of brewing circles, Savannah is renowned
+for its public squares. Just down the street from the Moon River
+brewery is Warren Square, where 6 really old oak trees with three
+junior siblings provide ideal shade for a hot and sweaty July
+afternoon.</p>
+<p>Monday night I stayed at Hunting Island State Park in South
+Carolina: the source of all mosquitos in the United States. I know this
+is a bold statement; and I'll go so far as to say the source of all
+mosquitos in the continental US, because the nuclear mosquitos in
+Alaska aren't from this planet let alone from SC. I think they've
+disguised their breeding ground as a State Park to ensure a never
+ending supply of fresh blood. Clever devils.</p>
+<p>While setting up camp, at least two hundred and fifty-seven
+mosquitos landed on my arms and legs and tucked into an early dinner.
+The rest of the seven hundred and fifty-two thousand, three hundred and
+sixty-two mosquitos hovered around me in a dark cloud which nearly
+occluded the sun completely. Although there were reports of hatching
+turtle eggs on the beach, I retired early and finished the novel I'd
+been reading rather than brave the insectile perils.</p>
+<p>The actual tenting sites at Hunting Island are very nice -- trail
+side and primitive accommodations were half price because they lack H2O
+and electric hook ups. However, I'm convinced the real reason was
+because they had a double allotment of mosquitos.</p>
+<p>I probably could have made some great photographs the next morning
+-- I was certainly up early enough. But I just wanted to get away from
+the blood letting. The rain began at Charleston and continued through
+the giant strip mall known as Myrtle Beach.</p>
+<p>The next night I stayed at Carolina Beach State Park in North
+Carolina -- the place was almost completely empty as is typical for
+midweek, I was told. That evening I made a number of photographs of the
+setting sun: several sea birds were sporting around in front of the
+glorious sunset and didn't object to my capturing them on film.</p>
+<p>Should you be of a mind to stay at Carolina Beach State Park, you
+should be aware that the rangers lock the gates at 10 PM; and most
+importantly don't unlock them until 8 AM. I'd made a noon reservation
+(required) on the ferry from Cedar Island to Ocracoke Island; and road
+signs put the distance to Cedar Island at 180 miles which at my average
+of 45 MPH (yes, I'd been keeping track) meant I wouldn't arrive in time
+to keep my reservation (I'd been advised to arrive at least a half hour
+early). While I don't usually like to exceed the speed limit, not for
+moral reasons, but because a Miata with the top down and just one
+occupant is an almost irresistible target for small town police, I was
+able to average just over 50 MPH and I arrived in the nick of time. The
+whole drive I felt rushed and near panic that I might miss the
+ferry.</p>
+<p>That evening (24 July) I stayed at the Cape Hatteras National Park
+at the very north end of Ocracoke Island. I'd become accustomed to the
+lavish facilities of State Parks; however, Cape Hatteras has cold water
+showers, which were just right after a hot day driving and a cooling
+dip in the Atlantic Ocean.</p>
+<p>After setting up camp, a dip in the ocean and a quick shower (where
+I forgot my shampoo) I got cleaned up and headed into downtown
+Ocracoke. I fell in love. Ocracoke Village is constrained by the
+National Seashore and the water. So it hasn't become overgrown like a
+lot of places. It feels like Key West only done by NPR and PBS rather
+than T-shirt shops and gigantic hotels. There are no drunk college
+students, although everyone does sell souvenirs.</p>
+<p>One of the biggest problems is housing for the seasonal workers. At
+dinner, my waiter, Norman, was happy to explain all about the town and
+the perils of being seasonal help. He and his girlfriend live on a
+sailboat out in the harbour. When the marina isn't crowded, he ties up
+there to recharge the batteries and get a shower. Moorage at the marina
+would run about $600 per month -- far too much to pay on a waiter's
+wages. Because the rest of the island is owned by the Feds, there's no
+opportunity to build additional housing.</p>
+<p>While chatting with Norman, I fantasised about living aboard a
+sailboat. I'm not certain how the cats would adjust to such a
+lifestyle; especially now that there are four of them. But I'm certain
+it would be fun for a while. I can heartily recommend the Pelican
+restaurant, although I understand Norman has now moved on.</p>
+<p>That evening I endured the most horrendous thunder and lightening
+storm in my entire life. It began around 3 AM and didn't let up until
+just after 6 AM. By that time, my tent had blown down and I was
+wondering whether I'd be safer sitting in the Miata. When the storm
+broke at 6 AM, I quickly broke camp and packed up my drenched tent. The
+rain didn't completely let up until the Virginia border, around noon.
+As I crossed the Chesapeake Bay bridge-tunnel and approached Kiptopeke,
+VA (my intended stop for Thursday, 25 July) the winds were strong and
+the sky looked threatening.</p>
+<p>Rather than endure another night of brutal weather, I drove on to
+Lewes, Delaware. This added 4 hours to an already long day; but as the
+clouds vanished around the Maryland border and the sun beat down, I was
+finally able to put the top down and enjoy the ride. The campground in
+Lewes, DE was more expensive than any other I've ever stayed in but it
+did have hot showers and a full laundry.</p>
+<p>The DelMarVa peninsula is famous for its Chesapeake Bay crabs. While
+in Lewes, I enjoyed some top notch crab cakes at the Lighthouse
+restaurant. I think the other diners were a little amused that after I
+ordered dinner, I pulled out my camera bag and spent about 15 minutes
+making photographs of the sunset over the harbour. But the light just
+doesn't wait, while a salad will.</p>
+<p>Friday, I drove through rural Delaware on Hwy 9. The route is very
+pretty, with any number of small towns, like Lewes but not as
+prosperous. Hwy 611 from Philly to the Delaware Water Gap becomes
+scenic once you've left the suburbs behind. It winds along the Delaware
+canal and as you zoom around the twisty turns, suddenly a small village
+complete with stone houses will pop up around the corner. Now, when I
+say zoom, I'm talking about 30 to 35 MPH. It just feels fast. Granted
+almost every corner has little warning signs suggesting lame people
+completely enclosed by metal who don't want to hear the birds signing
+and smell the blossoming flowers and trees should slow down to about 15
+to 20 MPH. But that would spoil the fun.</p>
+<p>I pulled into the Delaware Water Gap Visitor's Center and spoke with
+an old woman with a thick German accent. No I didn't just thrust my
+company upon some poor unsuspecting granny from Deutschland. She was
+wearing a ranger's uniform and standing behind the information desk.
+After telling me that the campsites were all reserved, she recommended
+I visit <a href="http://www.waterwheelcafe.com/">the WaterWheel
+Cafe</a>.</p>
+<p>I was fortunate enough to find a site at a campground just north of
+the Water Gap area. After pitching my tent, I visited Bushkills Falls,
+where I spent a few hours making photographs. The guard at the gate and
+been pretty clear about closing up at 7 PM. Well, I found myself at the
+far end of the park at 6:40. While I had no idea how long it would take
+me to get out, I busted ass and made it there just in the nick of time.
+The guard laughed and told me the 7 PM deadline is just so that people
+will make it out by 7:30. Well, it worked. I certainly was out by
+7:30.</p>
+<p>That evening I went to the WaterWheel Cafe where I met the owner, a
+charming woman in her early 40s. We talked about my trip and she
+recounted a harrowing tale of her trip to Spain when she was younger --
+she was nearly raped by two young men who befriended her while she was
+visiting a small town along the coast. We then talked about the hazards
+of running a restaurant in the Poconos: she consistently get's ripped
+off by her suppliers. For years she was paying $8.00 per lb for goat
+cheese. Finally she found another supplier who was willing to deliver
+the same goat cheese for only $5.40 per lb. That's still steep by
+comparison to what she'd pay were she closer to NYC. However, the
+crispy duck with mashed sweet potatoes was out of this world and well
+worth the modest price she charged. Anna and I have since visited for
+lunch and will definitely return again in the future.</p>
+<p>The next morning, I got up early, broke camp and drove up US 209 to
+Kingston, NY. Anna grew up in Kingston and was residing there after
+doing "time" in San Francisco. I got a badly needed hair cut and bought
+some flowers for the young lady I hadn't seen in three years. Our
+reunion was a little steamy and the FCC forbids me to describe in any
+detail the events of the next couple days.</p>
+<p>While not engaged in scandalous behaviour, Anna and I explored the
+Catskill Mountains area. I'd visited her in Kingston back in the Autumn
+of 1996, while we were dating. However, this time we had the pleasure
+of fine summer weather and a convertible. In particular I really
+enjoyed hiking in the Mohonk Preserve. We circled one of the lakes --
+about 2.5 miles. The big topic of the day was ideas for building little
+cottages in the woods.</p>
+<p>On Wednesday, we went for a drive up to Hunter Mountain. The last
+time I'd been there was in 6th grade for a school ski trip. We stopped
+along the road and sat beside this cute little brook with our feet in
+the water. All in all, a very tranquil (except for the scandalous bits)
+few days. I was reluctant to leave the next morning; but Anna had to go
+back to work.</p>
+<p>My next stop was at my Cousins' cottage on Lake Erie. Larry and
+Anita have a really wonderful little place in a secluded community
+beside the lake. They've both retired now from teaching and are more
+wrapped up in their animal rescue work than ever before. Friday
+afternoon I was treated to a local tradition: fish fry. As I've always
+lived within a few hours of the ocean, I'm not familiar with the ways
+of those more inland. It seems fresh fish has traditionally been a
+rarity in the Buffalo area, only arriving on Fridays. So Friday is fish
+fry day. We each enjoyed our heaping plates full of delicious fried
+fish.</p>
+<p>Each day Larry and I would plunge into the Lake for an afternoon
+dip. Although he warned me not to drink the water, and I did notice a
+few dead fish and gulls on the shore, nothing bothered me. But then,
+I've been known to drink the water in Mexico.</p>
+<p>On Saturday, we went to the Eden Corn Festival -- one of the
+principle crops in the area is corn; however, the Fair, to be fair, was
+a little lame. Larry and I made the best of it by walking around
+looking at cute women. And afterward, we enjoyed another local
+delicacy: <a
+href="http://splendidtable.publicradio.org/whereweeat/stern_beef.html">
+beef on weck</a>. Imagine roast beef, with grated horseradish and au
+jus on a kaiser roll topped with caraway seed and kosher salt. Yum.</p>
+<p>At some point during my stay with Larry and Anita, my decision to
+postpone my trip to Europe crystallised. I was pretty keen to spend
+some more time with Anna and I'd also discovered that my former health
+insurance company had reneged on several thousand dollars worth of knee
+surgery from March. I figured Europe would still be there when I was
+ready to visit. And maybe I'd be able to go during the early summer
+instead of early autumn.</p>
+<p>On Monday, after washing the Miata with Larry's power washer, I left
+to visit my friends Craig and Pam (and their baby Brooke) in London,
+Ontario. The London area is fairly rural with lots of corn fields by
+the side of the roads. But what really surprised me were the road
+signs. One read: "Seatbelt use compulsory." Now, I suspect no more than
+a third of Americans actually know what the word compulsory means. And
+the rest can't spell it.</p>
+<p>On Tuesday, while Craig slaved away over a keyboard, Pam and I
+headed out on a tour of the local area including some scenic little
+lake-side towns. The first two towns were on Lake Huron. I couldn't
+believe we were standing on the shore of a lake: there was sand
+everywhere and real waves pounding the shore. The first town even had a
+very Florida-beach-town feel to it, including surf shops.</p>
+<p>London is called the "Forest City". I can definitely understand why:
+in the heart of the city are several large parks. Wednesday, Pam,
+Brooke, and I went for a walk in one of the larger forests in downtown
+London. Brooke is quite a ham. Every time I'd point the camera at her,
+she burst into a big smile. We then headed to a local farm offering
+tractor rides and a petting zoo complete with pot-bellied pigs and
+ravenous goats. Brooke enjoyed the petting zoo in her own way: running
+around with a huge grin and pointing at various animals. That afternoon
+I photographed Pam's skating class as they practised various figure
+skating manoeuvres. As the instructor, Pam didn't perform much and the
+few times she did perform a jump or spin I wasn't fast enough to catch
+her.</p>
+<p>I parted company with Craig, Pam and Brooke the next morning
+(Thursday, 9 August) and enjoyed a leisurely drive to Kingston, Ontario
+where I took the ferry to Marysville, Ontario on Wolfe Island.
+Marysville consists of a few small grocery stores, three small
+restaurants, and a dozen B&Bs. I got up very early Friday morning
+to photograph the sunrise. As I drove east on Provincial Hwy 96, I
+stopped to photograph the fog on a hay field and some dear bounding
+across the road. At the end of Hwy 96, I photographed the actual
+sunrise over the water. On my way back, I noticed a small plane in a
+field and surrounded by long grass. In all, several rolls of Fuji
+Provia in a few short hours.</p>
+<p>After breakfast, I caught the 8:30 ferry to the US. I was delayed at
+the border a little bit, because the US wasn't open yet. Actually, the
+customs office didn't open until 9;00. I stopped for lunch beside
+Tupper Lake and recounted the tale of my travels to a curious older
+couple. My next stop was AuSable Chasm another orgy of waterfalls for
+this fan. The AuSable river runs through the chasm for a couple miles
+and a walk way has been constructed to allow visitors access to some of
+the really good vantage points. In 1996, a "once in a century" flood
+tore through the chasm and demolished some of the bridges. The next
+winter, a second "once in a century" flood finished the job. The `97
+flood destroyed some of the walkways that offered lower vantage points.
+I was five years too late to get some spectacular photographs.</p>
+<p>You'll be happy to hear I stayed on the trail the whole time.</p>
+<p>The next morning, I caught the 8:45 ferry from Port Kent, NY to
+Burlington, VT. The dock worker on the other side seemed surprised when
+I asked for directions to US 2 rather than the Interstate. The Vermont
+countryside is very picturesque and their towns are a good match:
+several looked quaint, prosperous and largely tourist free. Heading
+east through Vermont doesn't take long. I entered  New Hampshire before
+I'd really finished enjoying Vermont.</p>
+<p>I can't begin to spell the real name of Rt 112 through the White
+Mountains National Forest; but it's worth the trip. The highlight was
+definitely Beaver Pond. You'll have to see the photographs to properly
+appreciate it. I spent nearly two hours photographing a babbling brook.
+Many people pulled up to look; but they never bothered to get out of
+their SUVs and Minivans. The best scenery wasn't even visible from the
+road. Their world must be so bland: filled with Big Macs and
+drive-by-scenery.</p>
+<p>Sunday, 11 August found me driving along the coast of Maine. I
+stopped in a park at the center of a little town to make some phone
+calls for reservations at a campground on Mount Desert Island. I met an
+older couple enjoying the newspaper and spent an hour or so chatting
+about Maine. They own property in the area, just south of Rockland and
+are planning to retire there from Ohio. After talking about the economy
+for a bit, I took my leave and drove up the road to Rockport where I
+would be taking a photography class a week later. I was surprised to
+find the only restaurant in town served delicious crab cakes with sweet
+red pepper relish for breakfast. I struck up a conversation with the
+fellow sitting next to me. David grew up in NYC and moved to Maine
+about 30 years ago. Now he'd never go back. He was sailing up the coast
+and his talk about the little coves and islands along the coast had me
+recalling my thoughts in Ocracoke about living aboard a sailboat. The
+artist community in Maine is really special. My friend is a
+professional storyteller & garden designer.</p>
+<p>Monday morning I was fog bound and didn't get started until 9 AM. It
+was still extremely foggy when I reached the Mount Desert Island
+Visitor's Center. As anyone who's been there can tell you MDI is simply
+incredible. I spent four days exploring the hiking trails and scenic
+beauty of the island. I burned through about ten rolls of film during
+these four days. You'll have to see the photographs to really
+understand. All I will say is I'm going back as soon as I'm able.</p>
+<p>Thursday found me in Camden, Maine just north of Rockport. I'd
+booked a couple nights in <a href="http://www.hightideinn.com/">the
+High Tide Inn</a> just outside town on the shore of Penobscot Bay. The
+Innkeeper, Jo Freilich, met me and gave me the good news: while my room
+hadn't been cleaned yet, the previous guests had gone and I could store
+my things there. The Inn is a charming old home on a large estate.
+Several out buildings contain more rooms; but I was staying in the main
+house.</p>
+<p>I drifted down to the waterfront where I read and phoned my parents.
+I walked into Camden and explored the little town. I had lunch, got a
+hair cut, and dropped off my film for developing. When I returned, the
+waterfront was no longer deserted: Gail and Alectron Dorfman had stolen
+my spot. I struck up a conversation and learned Alectron is a
+photographer down in Miami. He's a strong proponent of digital
+photography; all of his equipment is digital. They invited me to join
+them for some wine and cheese on their balcony as the sun set; and
+afterwards we drove down to Camden for a late dinner at the Sea Dog
+tavern.</p>
+<p>Friday proved an even more lazy day than Thursday. The High Tide Inn
+serves a delightful continental breakfast including wonderful fresh
+baked popovers. After saying goodbye to Gail and Alectron, I went down
+to my spot by the shore to read. Finally, around 1PM I walked into
+Camden to pick up my photos. After lunch I returned to my spot by the
+bay and reviewed my photographs.</p>
+<p>That evening I attended a performance of Baroque chamber music at
+the Rockport Opera House. The performance was really quite good; all
+the musicians were professionals from around the country. The audience
+while quite nice was largely in their mid 60s; although the balcony was
+the refuge of a contingent of school aged children participating in a
+state-wide music program located in Rockport.</p>
+<p>Saturday morning I bade goodbye to Jo and the High Tide Inn and
+moved to the Goggin House in Rockport. Three other students from <a
+href="http://www.theworkshops.com/">the Rockport Workshops</a> were
+also staying there. Amanda, one of the other students, was in her sixth
+week of workshops. She recommended I skip the class I was scheduled for
+and enroll in the Photographer's Eye. This class turned out to be chock
+full of women: the instructor Carrie, teaching assistant Julie, and
+nine female students. One of my housemates, Deborah, was in the same
+class. My third housemate, Renee is a photographer for NASA and was
+enrolled in the figure study class. Renee helped me put together a
+portfolio for the next day from the slides I'd taken during my trip.</p>
+<p>The week of the workshop was intense and I often didn't hit the sack
+until late in the evening. The most interesting thing I learned during
+the week was that I really enjoy photographing people. All throughout
+my trip I'd find myself chatting with people and yet I'd never actually
+photographed anyone I'd met. The strongest photographs from the
+workshop were those I'd taken of people.</p>
+<p>The class went to the Union County Fair where I met and photographed
+some interesting characters. The first was Forest, who raises prize
+winning chickens. He attends shows as far flung as Minnesota and North
+Carolina. Just to show off his chickens. He gave me quite a run down of
+the whole agricultural competition scene.  Later I encountered Tim from
+the Knox-Union Fish & Game Association. He's a bow hunter and avid
+outdoorsman. Their association sponsors a kid's wilderness survival
+program. His daughter was one of the first to graduate: she now helps
+out around the house by eating beetles and other bugs. My final
+encounter at the fair was with a Grandmother and Granddaughter
+competing in a water race. Grandma won and the granddaughter got the
+prize.</p>
+<p>My most moving encounter was with Leroy Harrington; but I couldn't
+photograph him. Leroy makes incredibly beautify wooden bird feeders
+that look like small lobster buoys. It's a very exacting procedure
+requiring extremely close tolerance woodworking. The precision stems
+not just from Leroy's dedication to his craft; but from his nearly
+complete blindness. Leroy only has limited peripheral vision while the
+center of his vision is entirely clouded. I felt particularly self
+conscious asking to photograph him. How could I craft an image that
+he'd never see?</p>
+<p>During our discussion I mentioned that my Cousin Al in Portland,
+Oregon was having trouble with squirrels raiding his bird feeder. Leroy
+had the solution: spicy red peppers. Birds have no taste buds and
+therefore won't notice that the bird seed has become spicy; however,
+the squirrels won't enjoy a mouthful of fire. It seems there actually
+is bird seed that comes with jalapenos already mixed in.</p>
+<p>After the closing festivities at the Workshop on Saturday, 24
+August, I hopped in the Miata and returned to Anna's.</p>
+<p>Stay tuned for the remainder of the story...</p>
