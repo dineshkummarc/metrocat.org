@@ -3,7 +3,7 @@ layout: post
 title: Depressing Search Results
 date: 2004-02-22
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

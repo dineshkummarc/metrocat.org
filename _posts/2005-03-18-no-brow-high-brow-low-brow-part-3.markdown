@@ -3,7 +3,7 @@ layout: post
 title: No Brow, High Brow, Low Brow (Part 3)
 date: 2005-03-18
 author: Anna
-categories:
+tags:
 - Life
 - Newburyport
 ---

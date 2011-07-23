@@ -3,7 +3,7 @@ layout: post
 title: Another DVD Experience on Windows
 date: 2004-12-24
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Happy First Anniversary to Us!
 date: 2004-11-29
 author: Anna
-categories:
+tags:
 - Life
 ---
 

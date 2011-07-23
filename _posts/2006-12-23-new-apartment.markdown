@@ -3,7 +3,7 @@ layout: post
 title: New Apartment
 date: 2006-12-23
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

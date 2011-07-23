@@ -3,7 +3,7 @@ layout: post
 title: Job Hunting Again
 date: 2004-01-27
 author: Jeff Watkins
-categories:
+tags:
 - Work
 ---
 

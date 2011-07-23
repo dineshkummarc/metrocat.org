@@ -3,7 +3,7 @@ layout: post
 title: T-Minus 10 and Counting!
 date: 2003-11-18
 author: Anna
-categories:
+tags:
 - Wedding
 ---
 

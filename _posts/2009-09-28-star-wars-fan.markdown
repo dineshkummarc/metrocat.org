@@ -3,7 +3,7 @@ layout: post
 title: Star Wars Fan
 date: 2009-09-28
 author: Jeff Watkins
-categories:
+tags:
 - Movies
 - Wee-Watkins
 ---

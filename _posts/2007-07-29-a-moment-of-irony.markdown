@@ -3,7 +3,7 @@ layout: post
 title: A Moment of Irony
 date: 2007-07-29
 author: Anna
-categories:
+tags:
 - Life
 ---
 

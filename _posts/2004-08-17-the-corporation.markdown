@@ -3,14 +3,13 @@ layout: post
 title: The Corporation
 date: 2004-08-17
 author: Jeff Watkins
-categories:
+tags:
 - Movies
 ---
 
 <p><a href="http://www.thecorporation.com">
 <img style="float:right" alt="The Corporation" title="The Corporation"
-src="http://metrocat.org/images/thecorporation.png" width="143"
-height="142"/></a></p>
+src="/images/thecorporation.png"  ></a></p>
 <p>If you haven't already gone to see <a
 href="http://www.thecorporation.com"><i>The Corporation</i></a>, it's
 playing at <a href="http://www.upstatefilms.com/">Upstate Films</a>.

@@ -3,7 +3,7 @@ layout: post
 title: Baby 5000  Batteries Not Included
 date: 2005-07-27
 author: Anna
-categories:
+tags:
 - Wee-Watkins
 ---
 

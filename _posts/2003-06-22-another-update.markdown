@@ -3,7 +3,7 @@ layout: post
 title: Another Update
 date: 2003-06-22
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

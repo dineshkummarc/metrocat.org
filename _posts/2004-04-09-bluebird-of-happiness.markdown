@@ -3,7 +3,7 @@ layout: post
 title: Bluebird of Happiness
 date: 2004-04-09
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

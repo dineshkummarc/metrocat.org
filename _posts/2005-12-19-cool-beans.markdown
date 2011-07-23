@@ -3,7 +3,7 @@ layout: post
 title: Cool Beans
 date: 2005-12-19
 author: Jeff Watkins
-categories:
+tags:
 - Wee-Watkins
 ---
 

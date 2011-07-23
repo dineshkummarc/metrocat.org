@@ -3,7 +3,7 @@ layout: post
 title: A Link to the Past
 date: 2005-11-06
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

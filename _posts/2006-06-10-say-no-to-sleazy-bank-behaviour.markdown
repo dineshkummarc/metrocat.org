@@ -3,7 +3,7 @@ layout: post
 title: Say "No" to Sleazy Bank Behaviour
 date: 2006-06-10
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

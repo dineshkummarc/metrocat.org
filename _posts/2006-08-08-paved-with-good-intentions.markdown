@@ -3,7 +3,7 @@ layout: post
 title: Paved With Good Intentions
 date: 2006-08-08
 author: Anna
-categories:
+tags:
 - Life
 ---
 

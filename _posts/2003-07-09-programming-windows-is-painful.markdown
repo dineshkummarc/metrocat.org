@@ -3,7 +3,7 @@ layout: post
 title: Programming Windows Is Painful
 date: 2003-07-09
 author: Jeff Watkins
-categories:
+tags:
 - Work
 ---
 

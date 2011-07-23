@@ -3,7 +3,7 @@ layout: post
 title: Best Fiancé In The World
 date: 2003-11-16
 author: Jeff Watkins
-categories:
+tags:
 - Wedding
 ---
 
@@ -16,7 +16,7 @@ EOS 10D with a 6.3 Megapixel CMOS sensor that will accept any one of
 the lenses we already own (for my EOS 3 film camera). The 10D is a huge
 improvement over the Canon EOS D30 that I once owned.</p>
 <p style="text-align:center"> <img
-src="http://metrocat.org/images/10D-CL1.jpg" alt="Canon 10D"/></p>
+src="/images/10D-CL1.jpg" alt="Canon 10D"/></p>
 <p>I confess that I really intended this to be a gift for us both; but
 I plan to milk it for all that it's worth...</p>
 <p>P.S. Only twelve more days to go...</p>

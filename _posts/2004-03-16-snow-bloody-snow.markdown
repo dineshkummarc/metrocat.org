@@ -3,7 +3,7 @@ layout: post
 title: Snow? Bloody Snow!
 date: 2004-03-16
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

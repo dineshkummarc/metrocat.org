@@ -3,7 +3,7 @@ layout: post
 title: Another Example of Craptastic Service from AT&T
 date: 2010-01-13
 author: Jeff Watkins
-categories:
+tags:
 - Miscellaneous
 ---
 

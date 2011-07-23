@@ -3,7 +3,7 @@ layout: post
 title: Belated Honeymoon
 date: 2004-01-11
 author: Anna
-categories:
+tags:
 - Wedding
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Happy Little Anniversary
 date: 2004-01-28
 author: Anna
-categories:
+tags:
 - Life
 ---
 

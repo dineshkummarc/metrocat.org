@@ -3,7 +3,7 @@ layout: post
 title: No Regrets
 date: 2006-04-16
 author: Anna
-categories:
+tags:
 - Life
 - Wee-Watkins
 ---
@@ -16,6 +16,6 @@ But one thing holds true -- if I accomplish nothing else in my life, I do not re
 
 Yet when the tears dry and my blood pressure returns to normal, I look at her and I can't imagine a world, my world, without her.
 
-<div class="figure" align="center"><a href="http://newburyportion.com/gallery/show/recent/photo/129444339"><img class="photo" src="http://static.flickr.com/52/129444339_43ed9af08f_m.jpg" width="160" height="240" alt="Future's So Bright..." border="0" /></a> </div>
+<div class="figure" align="center"><img class="photo" src="http://static.flickr.com/52/129444339_43ed9af08f.jpg" alt="Future's So Bright..." border="0"> </div>
 
 I hope, when all is said and done, that counts for something.

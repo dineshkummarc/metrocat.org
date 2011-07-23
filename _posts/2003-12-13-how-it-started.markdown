@@ -3,7 +3,7 @@ layout: post
 title: How It Started
 date: 2003-12-13
 author: Jeff Watkins
-categories:
+tags:
 - Wedding
 ---
 

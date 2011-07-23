@@ -3,7 +3,7 @@ layout: post
 title: Hell Has Frozen Over
 date: 2006-02-07
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: What Next ?!?!?
 date: 2005-08-01
 author: Anna
-categories:
+tags:
 - Politics
 ---
 

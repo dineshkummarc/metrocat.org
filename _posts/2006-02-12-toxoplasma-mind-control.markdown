@@ -3,7 +3,7 @@ layout: post
 title: Toxoplasma Mind Control
 date: 2006-02-12
 author: Jeff Watkins
-categories:
+tags:
 - Cats
 - Weird
 ---

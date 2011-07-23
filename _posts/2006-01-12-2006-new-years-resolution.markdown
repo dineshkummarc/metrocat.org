@@ -3,7 +3,7 @@ layout: post
 title: 2006 New Year's Resolution
 date: 2006-01-12
 author: Anna
-categories:
+tags:
 - Life
 ---
 

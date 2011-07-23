@@ -3,7 +3,7 @@ layout: post
 title: When You Watch Too Many Movies...
 date: 2005-03-25
 author: Anna
-categories:
+tags:
 - Wee-Watkins
 ---
 

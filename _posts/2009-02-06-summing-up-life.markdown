@@ -3,7 +3,7 @@ layout: post
 title: Summing Up Life
 date: 2009-02-06
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

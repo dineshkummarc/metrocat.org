@@ -3,7 +3,7 @@ layout: post
 title: THREE!
 date: 2003-11-25
 author: Anna
-categories:
+tags:
 - Wedding
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Camping  an Inexpensive Way to See the World
 date: 2005-06-26
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Photographs from our Honeymoon
 date: 2004-06-13
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

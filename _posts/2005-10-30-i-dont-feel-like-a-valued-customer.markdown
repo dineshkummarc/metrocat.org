@@ -3,7 +3,7 @@ layout: post
 title: I Don't Feel Like a Valued Customer
 date: 2005-10-30
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

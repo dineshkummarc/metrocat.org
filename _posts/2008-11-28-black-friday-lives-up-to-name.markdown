@@ -3,7 +3,7 @@ layout: post
 title: Black Friday Lives Up to Name
 date: 2008-11-28
 author: Anna
-categories:
+tags:
 - Life
 ---
 

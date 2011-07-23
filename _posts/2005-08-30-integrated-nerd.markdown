@@ -3,7 +3,7 @@ layout: post
 title: Integrated Nerd
 date: 2005-08-30
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Cod Piece
 date: 2006-05-01
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

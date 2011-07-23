@@ -3,7 +3,7 @@ layout: post
 title: Decisions about Location
 date: 2004-04-02
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Heading to Acadia
 date: 2005-08-09
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

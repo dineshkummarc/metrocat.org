@@ -3,7 +3,7 @@ layout: post
 title: Decimated Closet
 date: 2004-09-07
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

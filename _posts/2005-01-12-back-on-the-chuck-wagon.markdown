@@ -3,7 +3,7 @@ layout: post
 title: Back on the Chuck Wagon
 date: 2005-01-12
 author: Anna
-categories:
+tags:
 - Life
 ---
 

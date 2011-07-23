@@ -3,7 +3,7 @@ layout: post
 title: Never Grow Up, Just Grow Weirder
 date: 2004-02-04
 author: Anna
-categories:
+tags:
 - Life
 ---
 

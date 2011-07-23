@@ -3,7 +3,7 @@ layout: post
 title: Updated Design
 date: 2005-02-27
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

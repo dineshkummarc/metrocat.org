@@ -3,7 +3,7 @@ layout: post
 title: Claim vs. Fact
 date: 2004-02-02
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

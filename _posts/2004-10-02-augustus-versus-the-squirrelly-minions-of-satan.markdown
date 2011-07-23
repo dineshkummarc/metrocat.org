@@ -3,7 +3,7 @@ layout: post
 title: Augustus Versus the Squirrelly Minions of Satan
 date: 2004-10-02
 author: Jeff Watkins
-categories:
+tags:
 - Cats
 ---
 

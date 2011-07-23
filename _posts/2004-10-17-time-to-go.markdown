@@ -3,7 +3,7 @@ layout: post
 title: Time to Go
 date: 2004-10-17
 author: Jeff Watkins
-categories:
+tags:
 - Life
 - Work
 ---

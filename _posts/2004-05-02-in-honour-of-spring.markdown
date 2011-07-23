@@ -3,7 +3,7 @@ layout: post
 title: In Honour of Spring
 date: 2004-05-02
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

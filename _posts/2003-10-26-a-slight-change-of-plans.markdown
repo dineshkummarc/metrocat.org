@@ -3,7 +3,7 @@ layout: post
 title: A Slight Change of Plans
 date: 2003-10-26
 author: Anna
-categories:
+tags:
 - Wedding
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Signed the Lease
 date: 2004-12-03
 author: Jeff Watkins
-categories:
+tags:
 - Newburyport
 ---
 

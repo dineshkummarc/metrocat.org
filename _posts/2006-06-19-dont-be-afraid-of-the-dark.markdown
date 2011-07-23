@@ -3,7 +3,7 @@ layout: post
 title: Don't Be Afraid of the Dark
 date: 2006-06-19
 author: Jeff Watkins
-categories:
+tags:
 - Movies
 ---
 

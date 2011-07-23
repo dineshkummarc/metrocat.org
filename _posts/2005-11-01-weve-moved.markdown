@@ -3,7 +3,7 @@ layout: post
 title: We've Moved
 date: 2005-11-01
 author: Jeff Watkins
-categories:
+tags:
 - Life
 - Technology
 ---

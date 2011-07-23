@@ -3,7 +3,7 @@ layout: post
 title: Rhinebeck Democrats
 date: 2004-08-24
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

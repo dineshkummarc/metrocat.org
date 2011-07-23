@@ -3,7 +3,7 @@ layout: post
 title: Advice on Cat Walking
 date: 2004-05-06
 author: Jeff Watkins
-categories:
+tags:
 - Cats
 ---
 

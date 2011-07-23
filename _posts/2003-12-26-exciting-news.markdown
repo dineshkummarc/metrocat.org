@@ -3,7 +3,7 @@ layout: post
 title: Exciting News!
 date: 2003-12-26
 author: Anna
-categories:
+tags:
 - Family
 ---
 

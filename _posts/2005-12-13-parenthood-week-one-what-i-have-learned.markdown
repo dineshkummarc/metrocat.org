@@ -3,7 +3,7 @@ layout: post
 title: Parenthood, Week One  What I Have Learned
 date: 2005-12-13
 author: Anna
-categories:
+tags:
 - Family
 - Life
 - Wee-Watkins

@@ -3,7 +3,7 @@ layout: post
 title: Interesting Factoid
 date: 2004-06-24
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Another Job, Another Town
 date: 2004-10-12
 author: Jeff Watkins
-categories:
+tags:
 - Life
 - Work
 ---

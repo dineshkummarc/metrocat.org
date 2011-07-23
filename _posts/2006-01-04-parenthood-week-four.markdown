@@ -3,7 +3,7 @@ layout: post
 title: Parenthood, Week Four
 date: 2006-01-04
 author: Anna
-categories:
+tags:
 - Life
 - Wee-Watkins
 ---

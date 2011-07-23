@@ -3,7 +3,7 @@ layout: post
 title: Camping with the Preggo
 date: 2005-06-29
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

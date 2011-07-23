@@ -1,5 +1,5 @@
 require 'digest/md5'
-require "jekyll/albino"
+include Liquid::StandardFilters
 require "#{File.dirname(__FILE__)}/rubypants.rb"
 
 module Jekyll

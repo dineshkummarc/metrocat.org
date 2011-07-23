@@ -3,7 +3,7 @@ layout: post
 title: Say It Ain't So!
 date: 2006-05-16
 author: Anna
-categories:
+tags:
 - Life
 ---
 

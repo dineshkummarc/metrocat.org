@@ -3,7 +3,7 @@ layout: post
 title: Robert Reich on Consumerism
 date: 2005-02-28
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Hundred Dollar Laptop
 date: 2005-11-17
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Home Again, Home Again
 date: 2004-06-10
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

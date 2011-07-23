@@ -3,7 +3,7 @@ layout: post
 title: Sizeable Bargains to be Had in Salisbury
 date: 2005-02-26
 author: Anna
-categories:
+tags:
 - Weird
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Moment of Clarity
 date: 2005-09-01
 author: Anna
-categories:
+tags:
 - Politics
 ---
 

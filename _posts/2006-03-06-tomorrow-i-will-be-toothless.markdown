@@ -3,7 +3,7 @@ layout: post
 title: Tomorrow I Will be Toothless
 date: 2006-03-06
 author: Anna
-categories:
+tags:
 - Life
 ---
 

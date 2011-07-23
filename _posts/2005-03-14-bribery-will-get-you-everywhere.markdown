@@ -3,7 +3,7 @@ layout: post
 title: Bribery Will Get You Everywhere
 date: 2005-03-14
 author: Anna
-categories:
+tags:
 - Work
 ---
 

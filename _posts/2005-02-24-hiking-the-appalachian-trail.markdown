@@ -3,7 +3,7 @@ layout: post
 title: Hiking the Appalachian Trail
 date: 2005-02-24
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

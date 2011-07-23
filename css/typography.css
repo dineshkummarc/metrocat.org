@@ -9,11 +9,39 @@ body
 h1
 {
   font-family: "helvetica neue";
+  font-weight: bold;
   font-size: 1.25em;
   margin: 1em 0;
+}
+
+h2
+{
+  font-weight: bold;
 }
 
 p
 {
   margin: 1em 0;
+}
+
+blockquote
+{
+  margin: 0 1em;
+  font-family: georgia;
+  font-style: italic;
+}
+
+ol li
+{
+  list-style: decimal outside;
+}
+
+ul li
+{
+  list-style: disc outside;
+}
+
+code
+{
+  font-family: "menlo", monospace;
 }

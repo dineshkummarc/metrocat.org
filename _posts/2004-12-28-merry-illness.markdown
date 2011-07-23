@@ -3,7 +3,7 @@ layout: post
 title: Merry Illness
 date: 2004-12-28
 author: Anna
-categories:
+tags:
 - Life
 ---
 

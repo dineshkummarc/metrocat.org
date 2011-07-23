@@ -3,7 +3,7 @@ layout: post
 title: Reality of Marriage
 date: 2003-07-27
 author: Anna
-categories:
+tags:
 - Wedding
 ---
 

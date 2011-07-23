@@ -3,7 +3,7 @@ layout: post
 title: More Fun With Colic
 date: 2006-04-14
 author: Anna
-categories:
+tags:
 - Life
 - Wee-Watkins
 ---

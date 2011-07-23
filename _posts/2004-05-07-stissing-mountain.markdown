@@ -3,7 +3,7 @@ layout: post
 title: Stissing Mountain
 date: 2004-05-07
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 
@@ -16,7 +16,7 @@ Mountain to the fire tower, we hiked a 3 mile loop around Thompson's
 Pond.
 
 <div class="figure">
-      <img class="photo" alt="Thompson's Pond" src="http://metrocat.org/photos/IMG_0791.jpg" width="300" height="450" border="0"/>
+      <img class="photo" alt="Thompson's Pond" src="/photos/IMG_0791.jpg"    border="0"/>
 </div>
 
 In addition to a couple snakes, we saw numerous birds -- most
@@ -24,7 +24,7 @@ of which I hadn't a prayer of actually identifying. Anna also captured
 these trees doing their snake impression:
 
 <div class="figure">
-	<img class="photo" alt="Snake-like trees" src="http://metrocat.org/photos/IMG_0799.jpg" width="300" height="450" border="0"/>
+	<img class="photo" alt="Snake-like trees" src="/photos/IMG_0799.jpg"    border="0"/>
 </div>
 
 This was the first time I'd used my new <a href="http://www.camelbak.com/rec/cb_prod.cfm?catid=6&product_id=214">Camelbak Trail Blazer</a> day pack. What a difference cold water

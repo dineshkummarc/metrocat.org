@@ -3,7 +3,7 @@ layout: post
 title: I Love The Mobile New York Times
 date: 2009-02-05
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

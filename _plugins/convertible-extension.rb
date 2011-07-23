@@ -1,5 +1,5 @@
 require 'jekyll/convertible'
-require 'active_support'
+require 'active_support/inflector'
 
 module Jekyll
   

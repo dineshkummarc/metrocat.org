@@ -3,7 +3,7 @@ layout: post
 title: Cringley on PowerPoint
 date: 2004-02-06
 author: Jeff Watkins
-categories:
+tags:
 - Work
 ---
 

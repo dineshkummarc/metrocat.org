@@ -3,7 +3,7 @@ layout: post
 title: Resolution #1
 date: 2004-01-09
 author: Anna
-categories:
+tags:
 - Life
 ---
 

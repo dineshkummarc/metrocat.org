@@ -3,7 +3,7 @@ layout: post
 title: Winter Heat Wave
 date: 2004-02-01
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Augustus Loves the Park
 date: 2005-04-27
 author: Jeff Watkins
-categories:
+tags:
 - Cats
 ---
 

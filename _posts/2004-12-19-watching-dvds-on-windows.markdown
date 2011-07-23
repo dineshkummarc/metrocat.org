@@ -3,7 +3,7 @@ layout: post
 title: Watching DVDs on Windows
 date: 2004-12-19
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

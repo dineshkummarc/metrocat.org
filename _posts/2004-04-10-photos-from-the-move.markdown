@@ -3,7 +3,7 @@ layout: post
 title: Photos from the Move
 date: 2004-04-10
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

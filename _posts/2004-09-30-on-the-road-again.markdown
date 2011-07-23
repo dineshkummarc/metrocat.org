@@ -3,7 +3,7 @@ layout: post
 title: On the Road Again
 date: 2004-09-30
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

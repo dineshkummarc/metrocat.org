@@ -3,7 +3,7 @@ layout: post
 title: HAPPY 2004!
 date: 2004-01-01
 author: Anna
-categories:
+tags:
 - Life
 ---
 

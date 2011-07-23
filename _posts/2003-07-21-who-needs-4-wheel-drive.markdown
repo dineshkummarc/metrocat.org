@@ -3,7 +3,7 @@ layout: post
 title: Who Needs 4 Wheel Drive?
 date: 2003-07-21
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 
@@ -14,7 +14,7 @@ Rusty, we drove west into the green woods of Pennsylvania, where we
 promptly got a little lost. Eventually, we returned to the Delaware
 River area where we discovered the town of Walpack, NJ.</p>
 <div class="figure">
-<img class="photo" src="/photos/walpacknj.jpg" alt="Walpack, NJ" width="320" height="240"/>
+<img class="photo" src="/photos/walpacknj.jpg" alt="Walpack, NJ"  >
 </div>
 <p>Of course, discovering the town wasn't enough. I saw a small road
 leading away into the hills and decided we should follow it. This road

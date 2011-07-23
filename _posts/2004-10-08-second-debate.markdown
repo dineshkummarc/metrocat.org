@@ -3,7 +3,7 @@ layout: post
 title: Second Debate
 date: 2004-10-08
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: A Dumbed-Down Dr. Doolittle
 date: 2005-07-28
 author: Anna
-categories:
+tags:
 - Cats
 ---
 

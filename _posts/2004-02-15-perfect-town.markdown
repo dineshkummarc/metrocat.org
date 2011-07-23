@@ -3,7 +3,7 @@ layout: post
 title: Perfect Town
 date: 2004-02-15
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

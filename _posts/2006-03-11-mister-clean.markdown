@@ -3,7 +3,7 @@ layout: post
 title: Mister Clean
 date: 2006-03-11
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

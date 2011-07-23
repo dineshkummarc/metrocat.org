@@ -3,7 +3,7 @@ layout: post
 title: Move to Rhinebeck is Official
 date: 2004-03-08
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

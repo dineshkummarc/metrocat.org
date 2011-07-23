@@ -3,7 +3,7 @@ layout: post
 title: No Phone Home
 date: 2005-10-29
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Bull Island Trail
 date: 2003-07-06
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 
@@ -16,7 +16,7 @@ huge slab of watermelon for a picnic lunch at the Old Mill in
 Stockton.
 
 <div class="figure">
-<img class="photo" src="/photos/map_detail_bulls-isle.jpg" alt="Bull Isle trail map" width="385" height="251"/>
+<img class="photo" src="/photos/map_detail_bulls-isle.jpg" alt="Bull Isle trail map"  >
 </div>
 
 I can, however, recommend the route we took there and back: I-78 out

@@ -3,7 +3,7 @@ layout: post
 title: DPW and DWP  An Accident Story
 date: 2005-08-23
 author: Anna
-categories:
+tags:
 - Life
 ---
 

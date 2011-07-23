@@ -3,7 +3,7 @@ layout: post
 title: An Open Note of Apology (to Our Neighbors)
 date: 2006-04-18
 author: Anna
-categories:
+tags:
 - Life
 - Wee-Watkins
 ---

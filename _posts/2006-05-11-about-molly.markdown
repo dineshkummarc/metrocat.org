@@ -3,7 +3,7 @@ layout: post
 title: About Molly
 date: 2006-05-11
 author: Anna
-categories:
+tags:
 - Miscellaneous
 ---
 

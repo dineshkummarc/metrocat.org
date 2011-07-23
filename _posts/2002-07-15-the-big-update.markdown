@@ -3,7 +3,7 @@ layout: post
 title: The Big Update
 date: 2002-07-15
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

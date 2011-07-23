@@ -3,7 +3,7 @@ layout: post
 title: Cycling Again
 date: 2004-04-14
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

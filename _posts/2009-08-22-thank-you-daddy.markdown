@@ -3,7 +3,7 @@ layout: post
 title: Thank You Daddy
 date: 2009-08-22
 author: Jeff Watkins
-categories:
+tags:
 - Wee-Watkins
 ---
 
@@ -18,11 +18,8 @@ Molly helped me by washing all the carrots, peas, and tomatoes. Then I prepared 
 She sat down to eat her veggies around 5.30 pm. And I returned to the kitchen to prepare our actual meal: filet mignon with a black berry and red wine reduction and smashed red potatoes.
 
 * One cup red wine — I chose [l'Ecole N<sup>o</sup> 41](http://www.lecole.com/) [Recess Red](http://www.lecole.com/product.php?products_id=1146), because I love l'Ecole wines and I was looking forward to drinking the rest of the bottle.
-
 * 1/2 cup of honey — if I knew something about honey, I might be more particular, but as it happens, I know nothing about honey except that it comes from bees. And it's delicious.
-
 * 1 basket of fresh black berries — Molly's boyfriend, Adam, from Corner Produce hooked me up with an overflowing basket of plump sweet black berries.
-
 * 18 oz of beef tenderloin from [Fero's](http://www.yelp.com/biz/feros-meat-market-seattle).
 
 Quick directions:

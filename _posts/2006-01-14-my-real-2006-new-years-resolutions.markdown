@@ -3,7 +3,7 @@ layout: post
 title: My Real 2006 New Year's Resolutions
 date: 2006-01-14
 author: Anna
-categories:
+tags:
 - Life
 ---
 

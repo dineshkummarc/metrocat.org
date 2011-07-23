@@ -3,7 +3,7 @@ layout: post
 title: No Cure for Colic
 date: 2006-01-09
 author: Anna
-categories:
+tags:
 - Life
 - Wee-Watkins
 ---

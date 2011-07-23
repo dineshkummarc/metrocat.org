@@ -3,7 +3,7 @@ layout: post
 title: Bald Eagle
 date: 2004-03-22
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

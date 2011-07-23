@@ -3,7 +3,7 @@ layout: post
 title: Online Reading Destroys Brain Cells?
 date: 2005-11-29
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: I Read the News Today, Oh Boy
 date: 2006-07-26
 author: Anna
-categories:
+tags:
 - Life
 ---
 

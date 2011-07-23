@@ -3,7 +3,7 @@ layout: post
 title: Weird Wedding
 date: 2005-07-16
 author: Anna
-categories:
+tags:
 - Life
 ---
 

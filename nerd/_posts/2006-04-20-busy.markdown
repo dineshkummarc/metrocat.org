@@ -1,0 +1,14 @@
+---
+layout: post
+title: Busy...
+date: 2006-04-20
+author: Jeff Watkins
+tags:
+- Uncategorized
+---
+
+I've been meaning to write recently, however life has been conspiring to keep me mute. There's still [on-going problems with The Bean](http://newburyportion.com/2006/04/apology-to-our-neighbors) and now work has heated up and I've been recruited to design our new customer-facing Web site as well as provide some UI design ideas for an entirely new product. Then there's the next version of BridgeBuilder to think about and all the UI challenges that will bring.
+
+Phrew. How am I going to find the time to do all that, write here, *and goof off?*
+
+I suppose I'll just have to concentrate on the goofing off.

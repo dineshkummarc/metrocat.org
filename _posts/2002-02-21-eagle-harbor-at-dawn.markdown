@@ -3,7 +3,7 @@ layout: post
 title: Eagle Harbor at Dawn
 date: 2002-02-21
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 
@@ -24,7 +24,7 @@ charging my batteries, I was all set to go. All I had to do was get out
 of bed when the alarm sounded at 5 O'clock. After two false starts, I
 was on my way.
 
-<div class="illustration"><a href="photos/CRW_3070-p.jpg"><img src="photos/CRW_3070-t.jpg" width="300" height="200"/></a>
+<div class="illustration"><a href="photos/CRW_3070-p.jpg"><img src="photos/CRW_3070-t.jpg"  ></a>
 
 			Eagle Harbor hosts Bainbridge Island's ferry terminal, the sun had
 			finally risen over the horizon and lit up one of Washington State's
@@ -41,7 +41,7 @@ is one of my favourite summer-time destinations because quaint little
 buildings line the waterfront and bobbing sail boats fill the harbour.
 How could I go wrong with such a scenic location?
 
-<div class="illustration"><a href="photos/CRW_3088-p.jpg"><img src="photos/CRW_3088-t.jpg" width="300" height="200"/></a>
+<div class="illustration"><a href="photos/CRW_3088-p.jpg"><img src="photos/CRW_3088-t.jpg"  ></a>
 			This boardwalk runs along the waterfront and connects with the many
 			docks jutting out into the harbour. This early in the morning it is
 			still covered with frost.
@@ -61,7 +61,7 @@ the dock, set up my tripod and started shooting. Possessed of an urge
 to shoot, I didn't pay much attention to what I was shooting. I just
 shot.
 
-<div class="illustration"><a href="photos/CRW_3106-p.jpg"><img src="photos/CRW_3106-t.jpg" width="300" height="200"/></a>
+<div class="illustration"><a href="photos/CRW_3106-p.jpg"><img src="photos/CRW_3106-t.jpg"  ></a>
 			These two row boats caught my eye. It looks like they've seen a 
 			lot of harsh use over the years.
 </div>
@@ -77,7 +77,7 @@ sailboat anchored in the center of the harbour enjoying its own private
 dawn. And finally, just as I was running out of film, two elderly row
 boats napping before their early morning swim.
 
-<div class="illustration"><a href="photos/CRW_3118-p.jpg"><img src="photos/CRW_3118-t.jpg" width="200" height="261"/></a>
+<div class="illustration"><a href="photos/CRW_3118-p.jpg"><img src="photos/CRW_3118-t.jpg"  ></a>
 			Dawn came to this sailboat a little later than to the rest of the
 			harbour. I'm certain this was just so I could get in place and
 			photograph it.

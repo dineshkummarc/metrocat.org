@@ -3,7 +3,7 @@ layout: post
 title: Fine Dining for your Final Meal
 date: 2004-12-31
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

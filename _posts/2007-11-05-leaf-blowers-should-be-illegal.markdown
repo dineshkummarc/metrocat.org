@@ -3,7 +3,7 @@ layout: post
 title: Leaf Blowers Should Be Illegal
 date: 2007-11-05
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

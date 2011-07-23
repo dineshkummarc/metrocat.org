@@ -3,7 +3,7 @@ layout: post
 title: Budgets of Mass Destruction
 date: 2004-02-02
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

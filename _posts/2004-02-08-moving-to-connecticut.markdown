@@ -3,7 +3,7 @@ layout: post
 title: Moving to Connecticut?
 date: 2004-02-08
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

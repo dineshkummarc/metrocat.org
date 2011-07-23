@@ -3,7 +3,7 @@ layout: post
 title: Happy 2005!
 date: 2005-01-03
 author: Anna
-categories:
+tags:
 - Life
 ---
 

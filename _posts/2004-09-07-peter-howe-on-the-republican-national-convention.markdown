@@ -3,7 +3,7 @@ layout: post
 title: Peter Howe on the Republican National Convention
 date: 2004-09-07
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

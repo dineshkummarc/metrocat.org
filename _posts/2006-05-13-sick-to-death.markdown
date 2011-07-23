@@ -3,7 +3,7 @@ layout: post
 title: Sick To Death
 date: 2006-05-13
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Advantages of Location
 date: 2004-06-22
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: I, Reviewer
 date: 2004-08-15
 author: Anna
-categories:
+tags:
 - Movies
 ---
 

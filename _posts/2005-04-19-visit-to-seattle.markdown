@@ -3,7 +3,7 @@ layout: post
 title: Visit to Seattle
 date: 2005-04-19
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

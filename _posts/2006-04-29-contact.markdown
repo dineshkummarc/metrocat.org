@@ -3,7 +3,7 @@ layout: post
 title: Contact
 date: 2006-04-29
 author: Jeff Watkins
-categories:
+tags:
 - Miscellaneous
 ---
 

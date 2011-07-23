@@ -3,7 +3,7 @@ layout: post
 title: Georgia Takes a Step Back
 date: 2004-01-30
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

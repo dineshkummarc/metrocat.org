@@ -3,7 +3,7 @@ layout: post
 title: Update on Towns in Massachusetts
 date: 2004-10-20
 author: Jeff Watkins
-categories:
+tags:
 - Newburyport
 ---
 

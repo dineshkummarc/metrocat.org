@@ -3,7 +3,7 @@ layout: post
 title: Latest Reading
 date: 2004-01-24
 author: Jeff Watkins
-categories:
+tags:
 - Work
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: On a Bed of Bricks
 date: 2005-10-04
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

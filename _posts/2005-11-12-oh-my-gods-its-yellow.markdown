@@ -3,7 +3,7 @@ layout: post
 title: Oh My Gods, It's Yellow!
 date: 2005-11-12
 author: Jeff Watkins
-categories:
+tags:
 - Wee-Watkins
 ---
 

@@ -3,13 +3,13 @@ layout: post
 title: Christening the New Mini
 date: 2007-09-14
 author: Jeff Watkins
-categories:
+tags:
 - Family
 ---
 
 This afternoon we picked up Vivian: Anna's new Mini. After nearly three hours we were able to drive away in the fiery red sports car. And drive we did. We took Hwy 9 through the Santa Cruz mountains over to Santa Cruz where we had slurpies from Jamba Juice and walked around town.
 
-<div class="figure"><img src="http://metrocat.org/wp-content/uploads/2007/07/my_mini.jpg"></div>
+<div class="figure"><img src="/assets/2007/07/my_mini.jpg"></div>
 
 I got to drive on the way home. Whether it was something she ate or the twisty turns of Hwy 9 we'll never know, but Molly got pretty sick and vommited all over herself, the car seat and Vivian. Fortunately, Anna had thought ahead and brought a change of clothes. So we got poor Molly cleaned up, changed, and did our best to clean up the car seat. At last we were ready to embark again.
 

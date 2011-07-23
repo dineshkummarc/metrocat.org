@@ -3,14 +3,13 @@ layout: post
 title: Phoenix Rising
 date: 2004-08-31
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 
 <p><img style="float: right;" alt="Phoenix logo" title="Logo of Phoenix
 Rising restaurant in Rinebeck, NY"
-src="http://metrocat.org/images/phoenix.png" width="172"
-height="132"/><br/>
+src="/images/phoenix.png"  ><br/>
 There's a new-ish restaurant in town, <a
 href="http://www.phoenixrhinebeck.com">Phoenix Rising</a>. They serve
 traditional comfort foods like burgers, mac-n-cheese, pastas, etc. But

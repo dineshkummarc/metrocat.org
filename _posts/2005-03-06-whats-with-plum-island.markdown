@@ -3,7 +3,7 @@ layout: post
 title: What's With Plum Island?
 date: 2005-03-06
 author: Jeff Watkins
-categories:
+tags:
 - Newburyport
 ---
 

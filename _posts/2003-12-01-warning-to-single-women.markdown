@@ -3,7 +3,7 @@ layout: post
 title: Warning to Single Women
 date: 2003-12-01
 author: Anna
-categories:
+tags:
 - Wedding
 ---
 

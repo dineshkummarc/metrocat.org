@@ -3,7 +3,7 @@ layout: post
 title: Year 2005 Resolutions- BODY
 date: 2005-01-04
 author: Anna
-categories:
+tags:
 - Life
 ---
 

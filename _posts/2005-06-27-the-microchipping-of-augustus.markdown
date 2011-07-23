@@ -3,7 +3,7 @@ layout: post
 title: The Microchipping of Augustus
 date: 2005-06-27
 author: Jeff Watkins
-categories:
+tags:
 - Cats
 ---
 

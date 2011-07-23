@@ -3,7 +3,7 @@ layout: post
 title: Adios America!
 date: 2004-05-25
 author: Anna
-categories:
+tags:
 - Travel
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: And the winner is... Rhinebeck?
 date: 2004-03-07
 author: Anna
-categories:
+tags:
 - Life
 ---
 

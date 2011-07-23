@@ -3,7 +3,7 @@ layout: post
 title: Running WordPress
 date: 2005-11-26
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

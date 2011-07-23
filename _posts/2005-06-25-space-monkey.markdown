@@ -3,7 +3,7 @@ layout: post
 title: Space Monkey
 date: 2005-06-25
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

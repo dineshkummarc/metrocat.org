@@ -3,7 +3,7 @@ layout: post
 title: Modern Technology... BAH!
 date: 2003-12-13
 author: Anna
-categories:
+tags:
 - Life
 ---
 

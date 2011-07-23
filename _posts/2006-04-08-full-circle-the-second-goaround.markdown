@@ -3,7 +3,7 @@ layout: post
 title: Full Circle- The Second GoAround
 date: 2006-04-08
 author: Anna
-categories:
+tags:
 - Life
 - Wee-Watkins
 ---

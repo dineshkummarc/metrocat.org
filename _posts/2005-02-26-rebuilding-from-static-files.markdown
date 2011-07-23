@@ -3,7 +3,7 @@ layout: post
 title: Rebuilding from Static Files
 date: 2005-02-26
 author: Jeff Watkins
-categories:
+tags:
 - Technology
 ---
 

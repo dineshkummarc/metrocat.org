@@ -3,7 +3,7 @@ layout: post
 title: All Is Ready
 date: 2003-11-26
 author: Jeff Watkins
-categories:
+tags:
 - Wedding
 ---
 

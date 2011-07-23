@@ -3,7 +3,7 @@ layout: post
 title: First Photo
 date: 2003-12-23
 author: Jeff Watkins
-categories:
+tags:
 - Wedding
 ---
 

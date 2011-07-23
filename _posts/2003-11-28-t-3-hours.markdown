@@ -3,7 +3,7 @@ layout: post
 title: T - 3 Hours...
 date: 2003-11-28
 author: Jeff Watkins
-categories:
+tags:
 - Wedding
 ---
 

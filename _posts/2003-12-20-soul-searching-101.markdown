@@ -3,7 +3,7 @@ layout: post
 title: Soul Searching 101
 date: 2003-12-20
 author: Anna
-categories:
+tags:
 - Life
 ---
 

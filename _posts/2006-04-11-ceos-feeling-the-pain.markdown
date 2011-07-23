@@ -3,7 +3,7 @@ layout: post
 title: CEOs Feeling the Pain
 date: 2006-04-11
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

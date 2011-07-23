@@ -3,7 +3,7 @@ layout: post
 title: Progress
 date: 2004-10-02
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

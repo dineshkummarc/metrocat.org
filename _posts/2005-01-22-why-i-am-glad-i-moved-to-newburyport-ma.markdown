@@ -3,7 +3,7 @@ layout: post
 title: Why I Am Glad I Moved to Newburyport, MA
 date: 2005-01-22
 author: Anna
-categories:
+tags:
 - Newburyport
 ---
 

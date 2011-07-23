@@ -3,7 +3,7 @@ layout: post
 title: Upcoming Changes
 date: 2006-12-08
 author: Jeff Watkins
-categories:
+tags:
 - Life
 - Newburyport
 ---

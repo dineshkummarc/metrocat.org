@@ -3,7 +3,7 @@ layout: post
 title: Enough Snow Already!
 date: 2005-02-25
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

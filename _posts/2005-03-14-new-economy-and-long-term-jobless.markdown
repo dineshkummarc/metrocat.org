@@ -3,7 +3,7 @@ layout: post
 title: New Economy and Long-Term Jobless
 date: 2005-03-14
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

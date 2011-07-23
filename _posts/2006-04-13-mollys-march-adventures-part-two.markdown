@@ -3,7 +3,7 @@ layout: post
 title: Molly's March Adventures, Part Two
 date: 2006-04-13
 author: Anna
-categories:
+tags:
 - Wee-Watkins
 ---
 
@@ -31,32 +31,32 @@ Here are some highlights (click on each highlight for more info):
 
 Molly was able to spend a little time with each family member, plus a little bit extra for the grandparents. She also met Aunt Dianne and Uncle Joe for the first time, along with their incredible bird collection.
 
-<div class="figure" align="center"><a href="http://newburyportion.com/gallery/show/recent/photo/128049126"><img class="photo" src="http://static.flickr.com/1/128049126_34b2973573_m.jpg" width="180" height="240" alt="Grumpy With Grandma" border="0" /></a> </div>
+<div class="figure" align="center"><img class="photo" src="http://static.flickr.com/1/128049126_34b2973573.jpg" alt="Grumpy With Grandma" border="0"> </div>
 Sorry Grandma. Molly doesn't do "happy".
 
-<div class="figure" align="left"><a href="http://newburyportion.com/gallery/show/recent/photo/125704312"><img class="photo" src="http://static.flickr.com/55/125704312_4e6b987661_m.jpg" width="180" height="240" alt="Molly &amp; Grandpa W" border="0" /></a> </div>
+<div class="figure" align="left"><img class="photo" src="http://static.flickr.com/55/125704312_4e6b987661.jpg" alt="Molly &amp; Grandpa W" border="0"> </div>
 Grandpa could never have a serious conversation with his little buddy.
 
-<div class="figure" align="center"><a href="http://newburyportion.com/gallery/show/recent/photo/125704297"><img class="photo" src="http://static.flickr.com/36/125704297_037c6decb2_m.jpg" width="180" height="240" alt="Grandpa's POV" border="0" /></a> </div>
+<div class="figure" align="center"><img class="photo" src="http://static.flickr.com/36/125704297_037c6decb2.jpg" alt="Grandpa's POV" border="0"> </div>
 Maybe it was hard to do serious in that hat.
 
-<div class="figure" align="right"><a href="http://newburyportion.com/gallery/show/recent/photo/128181283"><img class="photo" src="http://static.flickr.com/47/128181283_e29b7e1383_m.jpg" width="240" height="236" alt="Easily Entertained" border="0" /></a> </div>
+<div class="figure" align="right"><img class="photo" src="http://static.flickr.com/47/128181283_e29b7e1383.jpg" alt="Easily Entertained" border="0"> </div>
 Who entertained who more?
 
-<div class="figure" align="center"><a href="http://newburyportion.com/gallery/show/recent/photo/128050162"><img class="photo" src="http://static.flickr.com/1/128050162_6a87446c0e_m.jpg" width="180" height="240" alt="Tired Tourists" border="0" /></a> </div>
+<div class="figure" align="center"><img class="photo" src="http://static.flickr.com/1/128050162_6a87446c0e.jpg" alt="Tired Tourists" border="0"> </div>
 Near the end of the day, Molly both looks and acts like her father in the enthusiasm department.
 
 <b>BATH TIME</b>
 
 As the caption for the first photo below mentions, this was a very special bath in a very special bathtub. Molly became the third generation of Watkinses to rub a dub in this tub, and Jeff and Grandma Watkins were there to record it.
 
-<div class="figure" align="left"><a href="http://newburyportion.com/gallery/show/recent/photo/125701205"><img class="photo" src="http://static.flickr.com/46/125701205_1fb70933cf_m.jpg" width="180" height="240" alt="Bathing Beauty" border="0" /></a> </div>
+<div class="figure" align="left"><img class="photo" src="http://static.flickr.com/46/125701205_1fb70933cf.jpg" alt="Bathing Beauty" border="0"> </div>
 
-<div class="figure" align="right"><a href="http://newburyportion.com/gallery/show/recent/photo/126006369"><img class="photo" src="http://static.flickr.com/45/126006369_1c0fa94ed1_m.jpg" width="160" height="240" alt="Stinky no More!" border="0" /></a> </div>
+<div class="figure" align="right"><img class="photo" src="http://static.flickr.com/45/126006369_1c0fa94ed1.jpg" alt="Stinky no More!" border="0"> </div>
 
-<div class="figure" align="left"><a href="http://newburyportion.com/gallery/show/recent/photo/125711528"><img class="photo" src="http://static.flickr.com/38/125711528_2dd6abff9e_m.jpg" width="160" height="240" alt="Hey Stinky!" border="0" /></a> </div>
+<div class="figure" align="left"><img class="photo" src="http://static.flickr.com/38/125711528_2dd6abff9e.jpg" alt="Hey Stinky!" border="0"> </div>
 
-<div class="figure" align="right"><a href="http://newburyportion.com/gallery/show/recent/photo/125702542"><img class="photo" src="http://static.flickr.com/48/125702542_275a959163_m.jpg" width="240" height="180" alt="Love Suds" border="0" /></a> </div>
+<div class="figure" align="right"><img class="photo" src="http://static.flickr.com/48/125702542_275a959163.jpg" alt="Love Suds" border="0"> </div>
 
 All clean, and all smiles.
 
@@ -68,22 +68,22 @@ Molly managed another first in Florida:
 
 Although Molly seemed to enjoy not having to be thoroughly bundled, she still had to be shaded to protect her fair skin. We didn't want to introduce her to her first sunburn as well. 
 
-<div class="figure"><a href="http://newburyportion.com/gallery/show/recent/photo/128052605"><img class="photo" src="http://static.flickr.com/51/128052605_46a59bde6b_m.jpg" width="160" height="240" alt="Fat Little Tourist" border="0" /></a> </div>
+<div class="figure"><img class="photo" src="http://static.flickr.com/51/128052605_46a59bde6b.jpg" alt="Fat Little Tourist" border="0"> </div>
 All she needed was a camera around her neck.
 
-<div class="figure"><a href="http://newburyportion.com/gallery/show/recent/photo/128196559"><img class="photo" src="http://static.flickr.com/44/128196559_983294ca5d_m.jpg" width="160" height="240" alt="Whew, It's Hot!" border="0" /></a> </div>
+<div class="figure"><img class="photo" src="http://static.flickr.com/44/128196559_983294ca5d.jpg" alt="Whew, It's Hot!" border="0"> </div>
 80-something degrees was quite a shock for us northerners.
 
-<div class="figure"><a href="http://newburyportion.com/gallery/show/recent/photo/128196383"><img class="photo" src="http://static.flickr.com/1/128196383_15854c9138_m.jpg" width="240" height="160" alt="Can We Go Inside Now?" border="0" /></a> </div>
+<div class="figure"><img class="photo" src="http://static.flickr.com/1/128196383_15854c9138.jpg" alt="Can We Go Inside Now?" border="0"> </div>
 Molly is rather well insulated, and as she is yet unable to partake of the appropriate amount of lemonade to counter the heat, we decided to head inside.
 
 <b>THE RIDE HOME</b>
 
 Our four days down South ended rather quickly, and soon we were back on our way to the frozen (but thawing) North.
 
-<div class="figure"><a href="http://newburyportion.com/gallery/show/recent/photo/126009887"><img class="photo" src="http://static.flickr.com/52/126009887_b8648631bf_m.jpg" width="240" height="160" alt="Ready for Takeoff" border="0" /></a> </div>
+<div class="figure"><img class="photo" src="http://static.flickr.com/52/126009887_b8648631bf.jpg" alt="Ready for Takeoff" border="0"> </div>
 
-<div class="figure"><a href="http://newburyportion.com/gallery/show/recent/photo/126010626"><img class="photo" src="http://static.flickr.com/1/126010626_2db7caccca_m.jpg" width="160" height="240" alt="Keep Your Baby Locked and Stowed in an Upright Position" border="0" /></a> </div>
+<div class="figure"><img class="photo" src="http://static.flickr.com/1/126010626_2db7caccca.jpg" alt="Keep Your Baby Locked and Stowed in an Upright Position" border="0"> </div>
 
 Happily home and back in our "routine", we are resting and recovering before our next travels!
 

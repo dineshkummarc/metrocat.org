@@ -3,7 +3,7 @@ layout: post
 title: Getting Bigger
 date: 2008-12-29
 author: Jeff Watkins
-categories:
+tags:
 - Family
 - Wee-Watkins
 ---
@@ -17,7 +17,7 @@ As Christmas morning dawned, Molly asked "Where's Christmas?" and "Can I see it?
 
 So how do I explain to Molly what Christmas is all about? Who's Santa Claus? Why does he give us gifts? So many questions. Fortunately I've another 361 days to figure out good answers...
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/3147519911" title="View 'Molly on XMas Morning' on Flickr.com"><img class="photo" src="http://farm4.static.flickr.com/3203/3147519911_05dfeac9e5.jpg" width="500" height="333"></a></div>
+<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/3147519911" title="View 'Molly on XMas Morning' on Flickr.com"><img class="photo" src="http://farm4.static.flickr.com/3203/3147519911_05dfeac9e5.jpg"  ></a></div>
 
 Molly received lots of good loot for Christmas this year. By far her favourite gifts are the Ponies, the Thing, and the Dora Play Tent. Anna has kept many of her childhood toys (and clothing, and artwork, and pocket lint, and dirty tissues, etc) and she handed down the first installment of her My Little Ponies for Molly to enjoy. Many of these ponies are two decades old, but they don't look it.
 

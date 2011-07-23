@@ -3,7 +3,7 @@ layout: post
 title: Summer Vacation Ideas
 date: 2005-03-12
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

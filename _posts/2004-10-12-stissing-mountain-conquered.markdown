@@ -3,7 +3,7 @@ layout: post
 title: Stissing Mountain  Conquered
 date: 2004-10-12
 author: Jeff Watkins
-categories:
+tags:
 - Travel
 ---
 

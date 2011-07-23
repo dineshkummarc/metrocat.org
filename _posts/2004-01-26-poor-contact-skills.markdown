@@ -3,7 +3,7 @@ layout: post
 title: Poor Contact Skills
 date: 2004-01-26
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

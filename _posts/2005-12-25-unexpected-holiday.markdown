@@ -3,13 +3,13 @@ layout: post
 title: Unexpected Holiday
 date: 2005-12-25
 author: Jeff Watkins
-categories:
+tags:
 - Family
 ---
 
 I don't think it's any secret that this holiday season hasn't been what we expected -- starting off with the blizzard when we took Molly home from the hospital. We never expected she would suffer from something like Acid Reflux (or whatever it *really* is that causes her to wake up screaming) and I never expected I'd be feeding my daughter Maalox from an eye-dropper.
 
-<div class="figure"><a href="http://newburyportion.com/gallery/show/recent/photo/77237917"><img class="photo" src="http://static.flickr.com/39/77237917_3b67e9f755_m.jpg" width="240" height="160" alt="Anna &amp; Molly" border="0" /></a> </div>
+<div class="figure"><img class="photo" src="http://static.flickr.com/39/77237917_3b67e9f755.jpg" alt="Anna &amp; Molly" border="0"> </div>
 
 I certainly never expected to feel like a failed parent *so soon*. Nothing makes you feel more helpless than to hold your child while she screams bloody murder for fifteen minutes -- all because you have no idea what might be wrong with her. Like many other men, I have this compulsion to fix things, but there's no fixing Molly. We don't even know what's broken.
 

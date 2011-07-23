@@ -3,7 +3,7 @@ layout: post
 title: Good Question
 date: 2004-01-30
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

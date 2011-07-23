@@ -3,7 +3,7 @@ layout: post
 title: On the Economy
 date: 2004-08-13
 author: Jeff Watkins
-categories:
+tags:
 - Politics
 ---
 

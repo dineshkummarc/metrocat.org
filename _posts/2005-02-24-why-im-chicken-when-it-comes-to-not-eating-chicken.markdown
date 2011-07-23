@@ -3,7 +3,7 @@ layout: post
 title: Why I'm Chicken When it Comes to Not Eating Chicken
 date: 2005-02-24
 author: Anna
-categories:
+tags:
 - Life
 ---
 

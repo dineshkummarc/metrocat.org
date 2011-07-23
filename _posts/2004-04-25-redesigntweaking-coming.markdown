@@ -3,7 +3,7 @@ layout: post
 title: Redesign/Tweaking Coming
 date: 2004-04-25
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

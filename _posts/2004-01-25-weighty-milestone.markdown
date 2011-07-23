@@ -3,7 +3,7 @@ layout: post
 title: Weighty Milestone
 date: 2004-01-25
 author: Jeff Watkins
-categories:
+tags:
 - Life
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: If only I were lame
 date: 2009-06-02
 author: Jeff Watkins
-categories:
+tags:
 - Miscellaneous
 ---
 
