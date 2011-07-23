@@ -65,7 +65,7 @@ Go ahead, try it. It just works.
 Obviously, our widget is nothing without some HTML to hook it up to. Let's create the bare minimum of markup: we need an image to display the current photo, a paragraph to present the photo's caption, and two links to serve as our next and previous button. We'll rely on Safari's top-notch CSS support to make it all look pretty.
 
     <div id="photo-gallery">
-        <img src="photos/molly-1.jpg">
+        <img src="/photos/molly-1.jpg">
         <p>Caption</p>
         <a href="#" class="next">Next</a>
         <a href="#" class="prev">Previous</a>

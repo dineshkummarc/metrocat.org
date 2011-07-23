@@ -8,7 +8,7 @@ tags:
 ---
 
 <div style="float:right" class="figure">
-<img class="photo" src="http://newburyportion.com/wp-content/uploads/2006/01/teapot.png" alt="Tea pot with Twinings English Breakfast "   >
+<img class="photo" src="/assets/2006/01/teapot.png" alt="Tea pot with Twinings English Breakfast "   >
 </div>
 
 Perhaps you know that I drink tea. Lots of tea. Between 10 and 20 cups of tea each day (actually that's really 4-9 mugs of tea, but it takes 10 to 20 cups of water).

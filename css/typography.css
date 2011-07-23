@@ -45,3 +45,18 @@ code
 {
   font-family: "menlo", monospace;
 }
+
+img.photo
+{
+  margin: 1em;
+}
+
+div.figure
+{
+  margin: 1em;
+}
+
+div.figure img.photo
+{
+  margin: 0;
+}
