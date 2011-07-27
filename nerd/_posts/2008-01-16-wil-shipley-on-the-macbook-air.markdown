@@ -3,7 +3,7 @@ layout: post
 title: Wil Shipley on the MacBook Air
 date: 2008-01-16
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 ---
 

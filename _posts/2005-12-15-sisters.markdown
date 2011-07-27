@@ -3,7 +3,7 @@ layout: post
 title: Sisters
 date: 2005-12-15
 author: Anna
-tags:
+categories:
 - Cats
 - Wee-Watkins
 ---

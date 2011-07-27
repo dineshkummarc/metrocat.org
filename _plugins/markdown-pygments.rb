@@ -40,7 +40,7 @@ module Jekyll
         x.gsub('_', '\_') if x.split('').sort.to_s[0..1] == '__'
       end
 
-      # in very clear cases, let newlines become <br /> tags
+      # in very clear cases, let newlines become <br> tags
       text.gsub!(/^[\w\<][^\n]*\n+/) do |x|
         x =~ /\n{2}/ ? x : (x.strip!; x << "  \n")
       end

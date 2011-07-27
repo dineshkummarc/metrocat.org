@@ -3,7 +3,7 @@ layout: post
 title: Sick of One-Sided Friendship
 date: 2006-06-30
 author: Jeff Watkins
-tags:
+categories:
 - Life
 ---
 

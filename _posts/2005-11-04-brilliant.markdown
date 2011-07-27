@@ -3,7 +3,7 @@ layout: post
 title: Brilliant
 date: 2005-11-04
 author: Jeff Watkins
-tags:
+categories:
 - Life
 ---
 

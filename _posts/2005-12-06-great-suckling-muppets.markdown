@@ -3,7 +3,7 @@ layout: post
 title: Great Suckling Muppets
 date: 2005-12-06
 author: Jeff Watkins
-tags:
+categories:
 - Wee-Watkins
 ---
 

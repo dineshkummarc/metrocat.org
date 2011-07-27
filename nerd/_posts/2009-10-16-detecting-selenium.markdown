@@ -3,7 +3,7 @@ layout: post
 title: Detecting Selenium
 date: 2009-10-16
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

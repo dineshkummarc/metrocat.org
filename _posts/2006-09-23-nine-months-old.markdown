@@ -3,7 +3,7 @@ layout: post
 title: Nine Months Old
 date: 2006-09-23
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
@@ -11,9 +11,9 @@ Here are Molly's stats as of her 9 month checkup:
 
 <div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=247499935"><img class="photo" src="http://static.flickr.com/98/247499935_614095d697.jpg" alt="Aerobics in the Park" border="0"></a> </div>
 
-Weight: 18.9 lbs<br>
-Length: 27.75 inches<br>
-Head: 75th percentile (she gets that from her father)<br>
+* Weight: 18.9 lbs
+* Length: 27.75 inches
+* Head: 75th percentile (she gets that from her father)
 
 Between 8 and 9 months, Molly became a completely different baby. Every day she became more alert, aware, interactive, and awe-inspiring.
 
@@ -27,13 +27,7 @@ Her new talents have included:
 
 <div class="figure"><a href="http://www.flickr.com/photo.gne?id=247511821"><img class="photo" src="http://static.flickr.com/96/247511821_6d6d0b36dc.jpg" alt="He Won't be President Forever?" border="0"></a> </div>
 
-<ul>
-<li>waving bye-bye (although she seems to have stopped for now)</li>
-<li>clapping</li>
-<li>pulling up to standing, and sitting back down</li>
-<li>making lip-smacking or kissing sounds</li>
-<li>making mischief</li>
-</ul>
+<ul> <li>waving bye-bye (although she seems to have stopped for now)</li> <li>clapping</li> <li>pulling up to standing, and sitting back down</li> <li>making lip-smacking or kissing sounds</li> <li>making mischief</li> </ul>
 
 <div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=247724924"><img class="photo" src="http://static.flickr.com/93/247724924_5ab978080c.jpg" alt="How to Catch a Kitty-Cat" border="0"></a> </div>
 
@@ -54,8 +48,3 @@ She drives us crazy, but every day we fall more and more in love with our little
 <div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=247510751"><img class="photo" src="http://static.flickr.com/83/247510751_79cc920750.jpg" alt="Multi-Purpose Pop" border="0"></a> </div>
 
 Further updates in a couple of weeks. Hopefully, we will find the time and space for video next time around!
-
-
-
-
-

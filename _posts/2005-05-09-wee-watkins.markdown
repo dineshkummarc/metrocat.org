@@ -3,7 +3,7 @@ layout: post
 title: Wee Watkins
 date: 2005-05-09
 author: Anna
-tags:
+categories:
 - Family
 - Wee-Watkins
 ---

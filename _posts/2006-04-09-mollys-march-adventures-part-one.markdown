@@ -3,7 +3,7 @@ layout: post
 title: Molly's March Adventures, Part One
 date: 2006-04-09
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
@@ -17,7 +17,7 @@ At nearly 5 hours, it was a long ride for all of us. We were all very eager to s
 
 2\. FIRST OVERNIGHT STAY
 
-The next morning, we met Gammy and Pappou for breakfast at one of their favorite spots, Kings Valley Diner and Pancake House (Whew- what a name! It used to be just Texas Diner.) Molly and Pappou met for the first time, and got along quite well. 
+The next morning, we met Gammy and Pappou for breakfast at one of their favorite spots, Kings Valley Diner and Pancake House (Whew- what a name! It used to be just Texas Diner.) Molly and Pappou met for the first time, and got along quite well.
 
 <div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=126095852"><img class="photo" src="http://static.flickr.com/50/126095852_6c52d1a375.jpg" alt="Molly and Pappou" border="0"></a> </div>
 
@@ -27,7 +27,7 @@ After breakfast, we stopped off briefly to visit with Uncle Frank (my former bos
 
 We finished the visit with a meal at <a href="http://www.mountainbrauhaus.com/">Mountain Brauhaus</a>, a German and Austrian restaurant in Gardiner, NY.
 
-For dessert, we briefly met with Nanny and Poppy in their home, and chatted while Molly napped. 
+For dessert, we briefly met with Nanny and Poppy in their home, and chatted while Molly napped.
 
 After a somewhat restful evening (Molly only woke up once, but was up for a while. Jeff had problems with the comfort of the hotel bed.) we were back at Nanny and Poppy's house for breakfast, where Poppy entertained us with his mighty spatula.
 
@@ -42,6 +42,5 @@ Then, all too quickly, our visit to my hometown and the grandparents was over. M
 If only she could always be this peaceful:
 
 <div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=126017432"><img class="photo" src="http://static.flickr.com/41/126017432_8d172172d7.jpg" alt="On the Road Again" border="0"></a> </div>
-
 
 MORE TO COME IN THE NEXT POST!

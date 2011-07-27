@@ -3,14 +3,14 @@ layout: post
 title: A Slight Change of Plans
 date: 2003-10-26
 author: Anna
-tags:
+categories:
 - Wedding
 ---
 
 
 Many of you already know the following, but I will apologize in advance for those of you who have yet to discover....
 
-<p style="text-align:center;margin-top:2em;margin-bottom:2em;">WE ARE GETTING MARRIED<br />(On November 28, 2003)</p>
+<p style="text-align:center;margin-top:2em;margin-bottom:2em;">WE ARE GETTING MARRIED<br>(On November 28, 2003)</p>
 
 Originally, we had set the date for June of next year. But those of you who read my last entry, or have heard the whole story directly from yours truly, know that the planning process was proving to be less joyous than I would have hoped.
 

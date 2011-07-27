@@ -3,12 +3,12 @@ layout: post
 title: No Regrets
 date: 2006-04-16
 author: Anna
-tags:
+categories:
 - Life
 - Wee-Watkins
 ---
 
-Actually, I have <i>lots</i> of regrets at the ripe old age of 31. Choices I should have made, action I should have taken, things (and people) I should have avoided. I should have been braver, smarter, better than I was. 
+Actually, I have <i>lots</i> of regrets at the ripe old age of 31. Choices I should have made, action I should have taken, things (and people) I should have avoided. I should have been braver, smarter, better than I was.
 
 I often think about those parallel lives, and use what's left of my imagination to explore them.
 

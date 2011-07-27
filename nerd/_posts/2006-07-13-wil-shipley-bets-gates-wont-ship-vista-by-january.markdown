@@ -3,7 +3,7 @@ layout: post
 title: Wil Shipley Bets Gates Won't Ship Vista by January
 date: 2006-07-13
 author: Jeff Watkins
-tags:
+categories:
 - Windows
 ---
 

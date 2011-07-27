@@ -3,7 +3,7 @@ layout: post
 title: If It Doesn't Buzz
 date: 2005-09-21
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

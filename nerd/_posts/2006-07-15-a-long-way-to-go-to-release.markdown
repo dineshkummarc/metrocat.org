@@ -3,7 +3,7 @@ layout: post
 title: A Long Way to Go to Release
 date: 2006-07-15
 author: Jeff Watkins
-tags:
+categories:
 - Windows
 ---
 

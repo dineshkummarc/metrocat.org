@@ -3,7 +3,7 @@ layout: post
 title: Garbage Collection in SpiderMonkey
 date: 2007-10-07
 author: Jeff Watkins
-tags:
+categories:
 - Uncategorized
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: New Economy and Long-Term Jobless
 date: 2005-03-14
 author: Jeff Watkins
-tags:
+categories:
 - Politics
 ---
 
@@ -13,9 +13,7 @@ As someone who has personally endured rather more unemployment than average sinc
 
 Dan Gillespie, a Seattle-area computer programmer, said:
 
-<blockquote cite="http://www.latimes.com/business/la-fi-jobless11mar11,0,1083273,print.story">
-The computer jobs are gone. So what's next? We can't all move into gene splicing.
-</blockquote>
+> The computer jobs are gone. So what's next? We can't all move into gene splicing. 
 
 George "Monkey-boy" Bush and other proponents of [offshoring][wiki-offshoring] much of our technology infrastructure to India, China, and other countries, would have us believe that workers laid off as a result will find work in other high-tech industries. Experience and the abundant evidence to the contrary makes it clear that once again our Nation's *leader* is either lying to support the interests of his corporate cronies or chronically uninformed as a result of his refusal (perhaps, inability) to read the news.
 

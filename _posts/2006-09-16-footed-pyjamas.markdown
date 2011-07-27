@@ -3,7 +3,7 @@ layout: post
 title: Footed Pyjamas
 date: 2006-09-16
 author: Jeff Watkins
-tags:
+categories:
 - Wee-Watkins
 ---
 

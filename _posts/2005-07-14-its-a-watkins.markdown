@@ -3,12 +3,12 @@ layout: post
 title: It's A... Watkins?!?!
 date: 2005-07-14
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
 Monday was the big day. The day we were to find out the gender of my little hitchhiker, our own Wee Watkins. Wee had other plans...
-<!--more-->
+
 I must admit, I was initially very excited about the office visit because after 4 months plus, we were actually going to know what my little hitchhiker was going to be.
 
 I was even more excited when I saw the shadowy images of our <i>baby</i> quite literally bouncing off the walls inside me. I immediately fell in love, and no longer really cared what "it" was. I was just so happy it was there- alive, healthy, and just as crazy as I had hoped.

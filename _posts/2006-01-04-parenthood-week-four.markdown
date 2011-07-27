@@ -3,7 +3,7 @@ layout: post
 title: Parenthood, Week Four
 date: 2006-01-04
 author: Anna
-tags:
+categories:
 - Life
 - Wee-Watkins
 ---
@@ -29,6 +29,3 @@ Ten observations typed quickly, before Molly wakes up:
 9. Babies are much, much happier when they can start to see the world around them. Or at least distracted enough to stay quiet longer.
 
 10. While having Jeff home has been a blessing, Molly and I can survive while he is at work. But we're all happier when he is here.
-
-
-

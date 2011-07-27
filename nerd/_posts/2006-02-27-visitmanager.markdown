@@ -3,7 +3,7 @@ layout: post
 title: VisitManager
 date: 2006-02-27
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 

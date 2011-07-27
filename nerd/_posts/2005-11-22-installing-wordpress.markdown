@@ -3,7 +3,7 @@ layout: post
 title: Installing WordPress
 date: 2005-11-22
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Who's Faster  Function or Object
 date: 2007-11-07
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

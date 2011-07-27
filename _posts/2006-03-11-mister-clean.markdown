@@ -3,26 +3,21 @@ layout: post
 title: Mister Clean
 date: 2006-03-11
 author: Jeff Watkins
-tags:
+categories:
 - Life
 ---
 
 I'm a tidy person by nature. My dictionary defines tidy as:
 
-<div style="margin-left:1em;margin-right:1em;font-family:georgia;font-size:1.3em;">
-<p><big>ti&bull;dy |Ã‹Ë†tÃ„Â«dÃ„â€œ|</big><br />
-adjective ( <b>-dier</b> , <b>-diest</b> )<br />
-<ol>
-<li>arranged neatly and in order : <i>his scrupulously tidy apartment</i> | figurative <i>the lives they lead don't fit into tidy patterns.</i>
-<ul style="list-style:disc;">
-<li>(of a person) inclined to keep things or one's appearance neat and in order : <i>she was a tidy little girl.</i></li>
-<li>not messy; neat and controlled : <i>he wrote down her replies in a small, tidy hand.</i></li>
-</ul>
-</li>
-<li>[ attrib. ] informal (of an amount, esp. of money) considerable : <i>the book will bring in a tidy sum.</i></li>
-</ol>
-</p>
-</div>
+> <big>ti&bull;dy |ˈtīdē|</big>
+> adjective ( <b>-dier</b> , <b>-diest</b> )
+> 
+> 1. arranged neatly and in order : _his scrupulously tidy apartment_ | figurative _the lives they lead don't fit into tidy patterns._
+> 
+>     * (of a person) inclined to keep things or one's appearance neat and in order : _she was a tidy little girl._
+>     * not messy; neat and controlled : _he wrote down her replies in a small, tidy hand._
+> 
+> 2. [ attrib. ] informal (of an amount, esp. of money) considerable : _the book will bring in a tidy sum._
 
 In today's lax and permissive speech, people tend to conflate tidy and clean, however, the two really are different: a clean room is free of dirt and other dreck, while in a tidy room papers are stacked neatly and the books are put away and not scattered across the couch.
 
@@ -35,4 +30,3 @@ When I was done, far from basking in the warm glow of a clean floor, I scowled b
 There's got to be a better way, or I'll never do this again.
 
 Maybe this is why my transformations into Mr. Clean are so infrequent.
- 

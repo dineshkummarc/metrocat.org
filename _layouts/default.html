@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <title>
       {% if page.tag %}
       Posts tagged &ldquo;{{ page.tag }}&rdquo; &mdash; 
@@ -22,5 +22,7 @@
   
   <body>
     {{ content }}
+    
+    <a href="txmt://open?url=file://{{page.path}}">Edit</a>
   </body>
 </html>

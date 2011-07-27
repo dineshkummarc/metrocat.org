@@ -3,7 +3,7 @@ layout: post
 title: Why I Won't Purchase NetNewsWire Again
 date: 2006-05-10
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 ---
 

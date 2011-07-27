@@ -3,7 +3,7 @@ layout: post
 title: Spooky Code or How to Make Animations Run Smoother
 date: 2007-11-11
 author: Jeff Watkins
-tags:
+categories:
 - Art-of-Coding
 - Featured
 - Javascript

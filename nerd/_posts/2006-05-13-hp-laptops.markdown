@@ -3,7 +3,7 @@ layout: post
 title: HP Laptops
 date: 2006-05-13
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 - Windows
 ---
@@ -16,15 +16,15 @@ It really can.
 
 For example, [the HP Compaq nc8230 Notebook PC](http://h10010.www1.hp.com/wwpc/us/en/sm/WF25a/321957-64295-89315-321838-f1-447338.html) offers displays with the following characteristics:
 
-* 15.4-inch TFT WXGA,
-* 15.4-inch TFT WSXGA+ Wide Viewing Angle or
-* 15.4-inch TFT WUXGA Wide-Viewing Angle
+* 15\.4-inch TFT WXGA,
+* 15\.4-inch TFT WSXGA+ Wide Viewing Angle or
+* 15\.4-inch TFT WUXGA Wide-Viewing Angle
 
 Does anyone know what this means?
 
 Compare this with the display offered on the new [15" MacBook Pro](http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore.woa/wo/0.RSLID?mco=608880DF&nclm=MacBookPro):
 
-* 15.4-inch widescreen display 1440x900 resolution
+* 15\.4-inch widescreen display 1440x900 resolution
 
 (**Note:** Exact wording was copied and pasted from the respective companies' online stores.)
 

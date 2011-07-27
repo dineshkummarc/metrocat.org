@@ -3,7 +3,7 @@ layout: post
 title: Debugging JavaScript Applications  Inspecting Objects
 date: 2005-08-03
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

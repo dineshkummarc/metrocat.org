@@ -3,14 +3,11 @@ layout: post
 title: Real Measure
 date: 2004-06-11
 author: Jeff Watkins
-tags:
+categories:
 - Technology
 ---
 
-There's an interesting article on <a href="http://daringfireball.net">John Gruber's web site</a> entitled <a href="http://daringfireball.net/2004/06/broken_windows">Broken
-Windows</a>. John makes an excellent case that the best way to compare
-Windows and Macintosh is not with a new computer, but with a computer
-that has seen at least six months of use:
+There's an interesting article on <a href="http://daringfireball.net">John Gruber's web site</a> entitled <a href="http://daringfireball.net/2004/06/broken_windows">Broken Windows</a>. John makes an excellent case that the best way to compare Windows and Macintosh is not with a new computer, but with a computer that has seen at least six months of use:
 
 > While we're conceding for the sake of argument, let's
 > address that other popular canard of Windows apologia:
@@ -38,6 +35,4 @@ that has seen at least six months of use:
 > viruses, last month alone. How many of those do you think
 > were for Mac OS X? Any at all?
 
-This bears out my own experience: Mac's simply stay stable longer.
-I've never had an installation of Windows that lasted very long at all
-before it was polluted or corrupt in some fashion.
+This bears out my own experience: Mac's simply stay stable longer. I've never had an installation of Windows that lasted very long at all before it was polluted or corrupt in some fashion.

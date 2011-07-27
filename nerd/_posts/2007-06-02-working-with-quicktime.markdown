@@ -3,7 +3,7 @@ layout: post
 title: Working With QuickTime
 date: 2007-06-02
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

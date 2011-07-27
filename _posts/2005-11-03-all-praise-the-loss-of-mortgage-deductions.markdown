@@ -3,7 +3,7 @@ layout: post
 title: All Praise the Loss of Mortgage Deductions
 date: 2005-11-03
 author: Jeff Watkins
-tags:
+categories:
 - Politics
 ---
 

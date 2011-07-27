@@ -3,7 +3,7 @@ layout: post
 title: About Jeff
 date: 2005-11-26
 author: Jeff Watkins
-tags:
+categories:
 - Miscellaneous
 ---
 

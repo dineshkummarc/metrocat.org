@@ -3,7 +3,7 @@ layout: post
 title: Where Does It All Go?
 date: 2006-10-26
 author: Jeff Watkins
-tags:
+categories:
 - Life
 ---
 

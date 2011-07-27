@@ -3,7 +3,7 @@ layout: post
 title: Bull Island Trail
 date: 2003-07-06
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 ---
 

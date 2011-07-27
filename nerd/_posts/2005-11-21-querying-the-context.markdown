@@ -3,7 +3,7 @@ layout: post
 title: Querying the Context
 date: 2005-11-21
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: What's an Object
 date: 2005-07-31
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

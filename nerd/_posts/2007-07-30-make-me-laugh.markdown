@@ -3,7 +3,7 @@ layout: post
 title: Make Me Laugh
 date: 2007-07-30
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 ---
 

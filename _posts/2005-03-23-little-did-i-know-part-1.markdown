@@ -3,11 +3,11 @@ layout: post
 title: Little Did I Know, Part 1
 date: 2005-03-23
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
-<b>3 days before period due.</b>
+**3 days before period due.**
 
 Today I wasted a perfectly good pregnancy test. BFN (Big Fat Negative). I was devastated. I cried myself to sleep, and when Jeff came home, I woke up and cried some more.
 

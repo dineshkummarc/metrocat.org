@@ -3,7 +3,7 @@ layout: post
 title: Why Buy From Apple?
 date: 2005-12-20
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Developing a Site for the Bean
 date: 2005-11-29
 author: Jeff Watkins
-tags:
+categories:
 - Design
 ---
 

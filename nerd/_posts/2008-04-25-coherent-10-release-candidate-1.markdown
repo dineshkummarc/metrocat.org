@@ -3,7 +3,7 @@ layout: post
 title: Coherent 1.0 Release Candidate 1
 date: 2008-04-25
 author: Jeff Watkins
-tags:
+categories:
 - Coherent
 ---
 

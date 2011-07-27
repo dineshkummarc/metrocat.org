@@ -3,7 +3,7 @@ layout: post
 title: Updated Identity Framework
 date: 2005-11-30
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 

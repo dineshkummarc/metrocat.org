@@ -3,7 +3,7 @@ layout: post
 title: Up and Running Again
 date: 2005-02-22
 author: Jeff Watkins
-tags:
+categories:
 - Technology
 ---
 

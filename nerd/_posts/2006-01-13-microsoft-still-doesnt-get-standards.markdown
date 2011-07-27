@@ -3,7 +3,7 @@ layout: post
 title: Microsoft Still Doesn't Get Standards
 date: 2006-01-13
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 - Web
 ---

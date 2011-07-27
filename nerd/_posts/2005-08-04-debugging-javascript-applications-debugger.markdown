@@ -3,7 +3,7 @@ layout: post
 title: Debugging JavaScript Applications  Debugger
 date: 2005-08-04
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

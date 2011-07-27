@@ -1,15 +1,15 @@
 ---
 layout: post
-title: SchrÃ¶dinger's Poor Cat
+title: Schrödinger's Poor Cat
 date: 2006-02-16
 author: Jeff Watkins
-tags:
+categories:
 - Design
 ---
 
-I've become a regular reader of [Creating Passionate Users](http://headrush.typepad.com/creating_passionate_users) and the Kathy Sierra's latest article [SchrÃ¶dinger's Product](http://headrush.typepad.com/creating_passionate_users/2006/02/schrodingers_pr.html) is another excellent instalment.
+I've become a regular reader of [Creating Passionate Users](http://headrush.typepad.com/creating_passionate_users) and the Kathy Sierra's latest article [Schrödinger's Product](http://headrush.typepad.com/creating_passionate_users/2006/02/schrodingers_pr.html) is another excellent instalment.
 
-However, in today's article Kathy trots out the standard [SchrÃ¶dinger's Cat thought experiment](http://en.wikipedia.org/wiki/Schrodinger%27s_cat). Now I've been blessed with feline companions for 15 years, so I might know a thing or two about cat behaviour. And if you think you're going to lock a cat in a metal box with a vial of poison, you're crazy.
+However, in today's article Kathy trots out the standard [Schrödinger's Cat thought experiment](http://en.wikipedia.org/wiki/Schrodinger%27s_cat). Now I've been blessed with feline companions for 15 years, so I might know a thing or two about cat behaviour. And if you think you're going to lock a cat in a metal box with a vial of poison, you're crazy.
 
 Everyone who even trots out this thought experiment hasn't factored in the general cussed bloody-mindedness of cats. If you try something like this, instead of having a locked metal box containing a cat that may be alive or may be dead, you'll have a locked metal box containing a definitely pissed off cat which when the box is opened, will rip your face off and disappear in a blur of fur. Later, after you return from hospital, you'll find that he's pooped on your pillow and peed in your shoe. But you'll have had your fun with locked metal boxes and vials of poison.
  

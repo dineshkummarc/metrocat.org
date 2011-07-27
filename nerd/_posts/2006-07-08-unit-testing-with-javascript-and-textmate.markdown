@@ -3,7 +3,7 @@ layout: post
 title: Unit Testing with JavaScript and TextMate
 date: 2006-07-08
 author: Jeff Watkins
-tags:
+categories:
 - Featured
 - Javascript
 ---

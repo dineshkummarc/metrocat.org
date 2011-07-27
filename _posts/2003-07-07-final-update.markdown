@@ -3,7 +3,7 @@ layout: post
 title: Final Update
 date: 2003-07-07
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 - Wedding
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Google Analytics
 date: 2005-11-14
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

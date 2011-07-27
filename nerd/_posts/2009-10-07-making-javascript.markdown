@@ -3,7 +3,7 @@ layout: post
 title: Making Javascript
 date: 2009-10-07
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 - Web
 - distil

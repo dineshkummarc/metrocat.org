@@ -3,12 +3,12 @@ layout: post
 title: No Brow, High Brow, Low Brow (Part 1)
 date: 2005-03-18
 author: Anna
-tags:
+categories:
 - Life
 - Newburyport
 ---
 
-<center>"NO BROW"</center>
+##NO BROW##
 
 My buddy "Hellboy" is tying the knot next month (!), and his parents are throwing a couple's shower this weekend. In honor of this event (and frankly, because I was starting to look like a early Beatle- shaggy and thick-browed), I decided to get a haircut, brow wax, and buy myself some new duds.
 
@@ -22,10 +22,10 @@ She proceeded to rip out the offending cro-magnon-esque hairs from my brow in th
 
 Then she applied a <i>cooling</i> gel to my brows, but it felt like they were instead on fire. "Damn," I thought, "I AM a wimp after all."
 
-While she skillfully cropped my hair ala Rosemary, I remarked that it looked like I was wearing bright pink eyeshadow. After the haircut was finished, I noticed that the area above my left brow was still quite red. Upon closer examination, I saw that there was a nice little burn line. 
+While she skillfully cropped my hair ala Rosemary, I remarked that it looked like I was wearing bright pink eyeshadow. After the haircut was finished, I noticed that the area above my left brow was still quite red. Upon closer examination, I saw that there was a nice little burn line.
 
 I pointed it out to her, and she and her supervisor both said, "Wow! That's never happened before." She apologized profusely, and thanked me for not getting angry. If I thought she did it intentionally, I might have yelled and screamed and inflicted bodily harm upon her. But, given that she didn't charge me for the new "tough" puffy-eyed look, it didn't seem necessary.
 
-She called later to apologize again, and to offer suggestions for treatment. 
+She called later to apologize again, and to offer suggestions for treatment.
 
 At least she didn't accidentally remove <i>all</i> of my brow...

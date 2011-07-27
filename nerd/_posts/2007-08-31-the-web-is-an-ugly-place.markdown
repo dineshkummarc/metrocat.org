@@ -3,7 +3,7 @@ layout: post
 title: The Web Is An Ugly Place
 date: 2007-08-31
 author: Jeff Watkins
-tags:
+categories:
 - Design
 - Web
 ---

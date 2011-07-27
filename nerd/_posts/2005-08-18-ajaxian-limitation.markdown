@@ -3,7 +3,7 @@ layout: post
 title: Ajaxian Limitation
 date: 2005-08-18
 author: Jeff Watkins
-tags:
+categories:
 - Ajax
 - Javascript
 ---

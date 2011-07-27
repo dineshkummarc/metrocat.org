@@ -3,13 +3,13 @@ layout: post
 title: I've Embraced My Bottom
 date: 2005-09-15
 author: Jeff Watkins
-tags:
+categories:
 - Design
 ---
 
 In a recent article on his Web site, [Derek Powazek recommends embracing the bottom of the page](http://www.powazek.com/2005/09/000540.html). I've whipped up a redesigned version of this site taking these ideas to heart.
 
-<a class="figure" href="/photos/bottom-based-design.gif"><img src="/photos/bottom-based-design-thumb.gif" alt="A redesign of newburyportion that embraces the bottom of the page"/></a>
+<a class="figure" href="/photos/bottom-based-design.gif"><img src="/photos/bottom-based-design-thumb.gif" alt="A redesign of newburyportion that embraces the bottom of the page"></a>
 
 I'm afraid I've plagiarised a little too freely: I doubt anyone would really want to send us anything by snail-mail. And I had to work in what's becoming the trademark of newburyportion: the Ajaxy search.
 

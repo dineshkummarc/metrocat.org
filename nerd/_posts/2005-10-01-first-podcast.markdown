@@ -3,7 +3,7 @@ layout: post
 title: First Podcast
 date: 2005-10-01
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

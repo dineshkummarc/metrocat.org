@@ -3,7 +3,7 @@ layout: post
 title: Key-Value Coding and Observing
 date: 2005-08-09
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

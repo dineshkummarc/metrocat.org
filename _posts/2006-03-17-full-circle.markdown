@@ -3,11 +3,11 @@ layout: post
 title: Full Circle
 date: 2006-03-17
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
-A friend of mine mentioned the other day (pardon my paraphrasing) that the saga of Molly's stomach had come full circle. 
+A friend of mine mentioned the other day (pardon my paraphrasing) that the saga of Molly's stomach had come full circle.
 
 Indeed it has.
 

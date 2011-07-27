@@ -3,7 +3,7 @@ layout: post
 title: Four Weeks To Go
 date: 2003-11-01
 author: Jeff Watkins
-tags:
+categories:
 - Wedding
 ---
 

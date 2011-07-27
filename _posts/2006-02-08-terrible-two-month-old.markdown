@@ -3,7 +3,7 @@ layout: post
 title: Terrible Two (Month Old)
 date: 2006-02-08
 author: Anna
-tags:
+categories:
 - Life
 - Wee-Watkins
 ---

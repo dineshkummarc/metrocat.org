@@ -3,7 +3,7 @@ layout: post
 title: Ajax-y Search
 date: 2006-02-03
 author: Jeff Watkins
-tags:
+categories:
 - Ajax
 ---
 

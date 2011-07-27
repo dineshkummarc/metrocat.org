@@ -3,7 +3,7 @@ layout: post
 title: South Taconic Trail
 date: 2005-06-20
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 ---
 

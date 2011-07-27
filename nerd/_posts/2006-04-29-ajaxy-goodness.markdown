@@ -3,7 +3,7 @@ layout: post
 title: Ajaxy Goodness
 date: 2006-04-29
 author: Jeff Watkins
-tags:
+categories:
 - Ajax
 - Design
 ---

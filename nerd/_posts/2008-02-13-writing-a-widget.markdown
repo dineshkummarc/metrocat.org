@@ -3,7 +3,7 @@ layout: post
 title: Writing a Widget
 date: 2008-02-13
 author: Jeff Watkins
-tags:
+categories:
 - Tutorials
 ---
 
@@ -12,7 +12,7 @@ Coherent strives to present a sane Model View Controller paradigm for client-sid
 For this tutorial, we're going to build a simple photo gallery to display a static list of images with captions. In a future tutorial, we'll see how we can expand this sample to pull image information from Flickr or other sources.
 <!--more-->
 
-<link rel="stylesheet" href="http://localhost:8888/js/coherent/demo/widget/widget.css" media="screen"/>
+<link rel="stylesheet" href="http://localhost:8888/js/coherent/demo/widget/widget.css" media="screen">
 
 <script src="http://localhost:8888/js/coherent/demo/widget/PhotoGallery.js"></script>
 

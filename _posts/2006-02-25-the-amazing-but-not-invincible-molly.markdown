@@ -3,7 +3,7 @@ layout: post
 title: The Amazing (But Not Invincible) Molly
 date: 2006-02-25
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
@@ -21,11 +21,10 @@ Our Molly got sick.
 
 <div class="figure"><a href="http://www.flickr.com/photo.gne?id=104451363"><img class="photo" src="http://static.flickr.com/43/104451363_4f64da03b9.jpg" alt="Sad Girl" border="0"></a> </div>
 
-She had been acting more clingy, and eating every two hours, even waking during the night to do so. Not fun for either of us. 
+She had been acting more clingy, and eating every two hours, even waking during the night to do so. Not fun for either of us.
 
 She was diagnosed with an ear infection. Probably the result of a virus.
 
 Fortunately, she has not lost weight. In fact, she has gained to 12lbs, 13 oz. And her condition improves with each passing day.
 
 Unfortunately, she has had multiple days of liquid explosiveness from her posterior. And she still has six days of yucky pink bubblegum antibiotics to swallow, twice a day. Poor, poor baby!
-

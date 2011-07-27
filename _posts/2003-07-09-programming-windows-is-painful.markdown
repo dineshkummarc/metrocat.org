@@ -3,7 +3,7 @@ layout: post
 title: Programming Windows Is Painful
 date: 2003-07-09
 author: Jeff Watkins
-tags:
+categories:
 - Work
 ---
 
@@ -55,8 +55,8 @@ You would think this would be an easy scheme to implement. But once you through 
              IteratorRep* rep;
     };
 
-The <code>EXPORT</code> macro handles the nasty Microsoft specific keywords necessary to export the class from the DLL. The red <span style="color:red"><code>EXPORT</code></span> is where I made my mistake. Naturally, if I have to export the outer class, it is reasonable for me to think I'd need to export the inner class. However, this causes very weird problems when implementing an IteratorRep class. Essentially, the linker is trying to import the implementation of the new IteratorRep-derived class despite having just compiled the implementation. It's all very silly.
+The <code>EXPORT</code> macro handles the nasty Microsoft specific keywords necessary to export the class from the DLL. The <code>EXPORT</code> is where I made my mistake. Naturally, if I have to export the outer class, it is reasonable for me to think I'd need to export the inner class. However, this causes very weird problems when implementing an IteratorRep class. Essentially, the linker is trying to import the implementation of the new IteratorRep-derived class despite having just compiled the implementation. It's all very silly.
 
-I accidentally removed the red <span style="color:red"><code>EXPORT</code></span> macro and everything worked correctly.
+I accidentally removed the <code>EXPORT</code> macro and everything worked correctly.
 
 Were Bill Gates here, I'd punch him in the nose.

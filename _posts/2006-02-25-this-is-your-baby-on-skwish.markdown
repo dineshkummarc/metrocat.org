@@ -3,7 +3,7 @@ layout: post
 title: This is Your Baby on Skwish
 date: 2006-02-25
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 

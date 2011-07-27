@@ -3,7 +3,7 @@ layout: post
 title: Hell Has Frozen Over
 date: 2006-02-07
 author: Jeff Watkins
-tags:
+categories:
 - Politics
 ---
 
@@ -11,7 +11,7 @@ Beelzebub himself called to give me the news. In other news [GM chief agrees to 
 
 >**The chief executive of General Motors (GM) is to take a 50% pay cut to help the struggling carmaker save money.**
 
->Rick Wagoner and other executives have agreed to reduce their pay and forgo bonuses as part of radical measures aimed at improving GM's finances. 
+>Rick Wagoner and other executives have agreed to reduce their pay and forgo bonuses as part of radical measures aimed at improving GM's finances.
 
 If I hadn't read it on the Beeb, I probably wouldn't believe it. Of course, lots of other people (you know, the workers) payed a high price first:
 

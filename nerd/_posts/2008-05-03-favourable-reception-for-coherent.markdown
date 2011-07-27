@@ -3,7 +3,7 @@ layout: post
 title: Favourable Reception for Coherent
 date: 2008-05-03
 author: Jeff Watkins
-tags:
+categories:
 - Coherent
 ---
 

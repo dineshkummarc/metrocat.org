@@ -3,7 +3,7 @@ layout: post
 title: Ajax Makes Everything Better
 date: 2006-09-04
 author: Jeff Watkins
-tags:
+categories:
 - Ajax
 ---
 

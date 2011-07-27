@@ -3,7 +3,7 @@ layout: post
 title: One Word, Sounds Like
 date: 2006-02-17
 author: Jeff Watkins
-tags:
+categories:
 - Design
 ---
 

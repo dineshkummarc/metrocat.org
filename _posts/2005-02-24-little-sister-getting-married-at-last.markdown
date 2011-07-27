@@ -3,7 +3,7 @@ layout: post
 title: Little Sister Getting Married (At Last)
 date: 2005-02-24
 author: Jeff Watkins
-tags:
+categories:
 - Family
 ---
 

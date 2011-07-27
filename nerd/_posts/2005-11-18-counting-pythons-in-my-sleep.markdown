@@ -3,7 +3,7 @@ layout: post
 title: Counting Pythons In My Sleep
 date: 2005-11-18
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 

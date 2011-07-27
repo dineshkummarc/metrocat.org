@@ -3,7 +3,7 @@ layout: post
 title: Derek Wants Us to Embrace our Bottoms
 date: 2005-09-13
 author: Jeff Watkins
-tags:
+categories:
 - Design
 ---
 

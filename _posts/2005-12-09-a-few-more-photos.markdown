@@ -3,7 +3,7 @@ layout: post
 title: A Few More Photos
 date: 2005-12-09
 author: Jeff Watkins
-tags:
+categories:
 - Family
 - Wee-Watkins
 ---

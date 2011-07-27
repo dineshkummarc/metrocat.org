@@ -3,11 +3,11 @@ layout: post
 title: Easter Sunday Surprise
 date: 2005-03-27
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
-<b>1 day <i>after</i> period is due.</b>
+**1 day *after* period is due.**
 
 I spent the day with Mom, and ate more ham than I ever thought humanly possible. Jeff returned to Newburyport.
 

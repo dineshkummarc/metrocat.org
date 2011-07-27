@@ -3,7 +3,7 @@ layout: post
 title: Javascript Has No Class
 date: 2005-08-20
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

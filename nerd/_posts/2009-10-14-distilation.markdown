@@ -3,7 +3,7 @@ layout: post
 title: Distilation
 date: 2009-10-14
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 - distil
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Another Update
 date: 2003-06-22
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 ---
 
@@ -79,7 +79,7 @@ London is called the "Forest City". I can definitely understand why: in the hear
 
 I parted company with Craig, Pam and Brooke the next morning (Thursday, 9 August) and enjoyed a leisurely drive to Kingston, Ontario where I took the ferry to Marysville, Ontario on Wolfe Island. Marysville consists of a few small grocery stores, three small restaurants, and a dozen B&Bs. I got up very early Friday morning to photograph the sunrise. As I drove east on Provincial Hwy 96, I stopped to photograph the fog on a hay field and some dear bounding across the road. At the end of Hwy 96, I photographed the actual sunrise over the water. On my way back, I noticed a small plane in a field and surrounded by long grass. In all, several rolls of Fuji Provia in a few short hours.
 
-After breakfast, I caught the 8:30 ferry to the US. I was delayed at the border a little bit, because the US wasn't open yet. Actually, the customs office didn't open until 9;00. I stopped for lunch beside Tupper Lake and recounted the tale of my travels to a curious older couple. My next stop was AuSable Chasm another orgy of waterfalls for this fan. The AuSable river runs through the chasm for a couple miles and a walk way has been constructed to allow visitors access to some of the really good vantage points. In 1996, a "once in a century" flood tore through the chasm and demolished some of the bridges. The next winter, a second "once in a century" flood finished the job. The `97 flood destroyed some of the walkways that offered lower vantage points. I was five years too late to get some spectacular photographs.
+After breakfast, I caught the 8:30 ferry to the US. I was delayed at the border a little bit, because the US wasn't open yet. Actually, the customs office didn't open until 9:00. I stopped for lunch beside Tupper Lake and recounted the tale of my travels to a curious older couple. My next stop was AuSable Chasm another orgy of waterfalls for this fan. The AuSable river runs through the chasm for a couple miles and a walk way has been constructed to allow visitors access to some of the really good vantage points. In 1996, a "once in a century" flood tore through the chasm and demolished some of the bridges. The next winter, a second "once in a century" flood finished the job. The \`97 flood destroyed some of the walkways that offered lower vantage points. I was five years too late to get some spectacular photographs.
 
 You'll be happy to hear I stayed on the trail the whole time.
 

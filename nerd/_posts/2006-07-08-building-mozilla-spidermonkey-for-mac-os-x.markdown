@@ -3,7 +3,7 @@ layout: post
 title: Building Mozilla SpiderMonkey for Mac OS X
 date: 2006-07-08
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

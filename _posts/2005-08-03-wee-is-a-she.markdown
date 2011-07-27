@@ -3,7 +3,7 @@ layout: post
 title: Wee Is A SHE!!!
 date: 2005-08-03
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
@@ -13,6 +13,9 @@ It was incredibly neat to see her again, even if Jeff was disappointed that her 
 
 I tried to behave myself today. There was a sale at the children's clothing store downstairs. I only bought 2 outfits- one for winter, one for spring. Only one was pink. They were SO adorable! Perhaps I will post pictures soon.
 
-About 4 more months to go! I am enjoying this time as much as possible, because if our daughter is anything like her parents, she will be born full of adventure and ready to join the world. At least now I can be sure where she is, and that she isn't up to mischief. 
+About 4 more months to go! I am enjoying this time as much as possible, because if our daughter is anything like her parents, she will be born full of adventure and ready to join the world. At least now I can be sure where she is, and that she isn't up to mischief.
 
-Speaking of mischief, I should go outside and check out some of the bands playing here at <a href="http://www.yankeehomecoming.com">Yankee Homecoming</a>, and maybe that fried dough stand...
+Speaking of mischief, I should go outside and check out some of the bands playing here at [Yankee Homecoming][1], and maybe that fried dough stand...
+
+   [1]: http://www.yankeehomecoming.com
+

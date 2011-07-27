@@ -3,25 +3,25 @@ layout: post
 title: Resume of Jeff Watkins
 date: 2006-02-18
 author: Jeff Watkins
-tags:
+categories:
 - Uncategorized
 ---
 
 <div style="text-align:center;margin-bottom: 2em;">
     <h1>Jeff Watkins</h1>
     <address>
-    3 Market Sq Apt #3<br/>
-    Newburyport, MA 01950<br/>
-    jeff@newburyportion.com<br/>
+    3 Market Sq Apt #3<br>
+    Newburyport, MA 01950<br>
+    jeff@newburyportion.com<br>
     508-423-4816
     </address>
 </div>
 
 For the last ten years, I've designed and developed cutting-edge user interfaces and proofs-of-concept for the Web and Windows grounded and informed by a background of hard-core C++ application development. I'm now seeking a product design position with an organization that shares my passion for developing exceptional products and where my experience, dedication and enthusiasm can make a real difference.
 
-**Languages:** C/C++/Objective-C, JavaScript, HTML/DHTML/XHTML/CSS, Java, C#, XML/XSLT, SQL/T-SQL, ASP, Python, PHP<br/>
-**APIs:** C++ Standard Library (STL), Apple Carbon & Cocoa, Microsoft .Net, MFC, ATL, COM, J2SE, Servlets/JSP, JDBC<br/>
-**Operating Systems:** MacOS X, Linux/Unix/Solaris, Windows NT/2000/XP<br/>
+**Languages:** C/C++/Objective-C, JavaScript, HTML/DHTML/XHTML/CSS, Java, C#, XML/XSLT, SQL/T-SQL, ASP, Python, PHP<br>
+**APIs:** C++ Standard Library (STL), Apple Carbon & Cocoa, Microsoft .Net, MFC, ATL, COM, J2SE, Servlets/JSP, JDBC<br>
+**Operating Systems:** MacOS X, Linux/Unix/Solaris, Windows NT/2000/XP<br>
 **Servers:** IIS, Apache, Tomcat, MS SQL Server, Oracle 8i, MySQL, CVS, Subversion
 
 Experience

@@ -3,7 +3,7 @@ layout: post
 title: What's This Web 2.0 Stuff
 date: 2005-08-10
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 
@@ -38,9 +38,9 @@ I want to be able to write HTML like the following to define an address book tab
 
 	<table id="userTable" contentKeyPath="applicationState.people">
 		<caption>Address Book</caption>
-		<col displayValueKeyPath="applicationState.people.firstName"/>
-		<col displayValueKeyPath="applicationState.people.lastName"/>
-		<col displayValueKeyPath="applicationState.people.emailAddress"/>
+		<col displayValueKeyPath="applicationState.people.firstName">
+		<col displayValueKeyPath="applicationState.people.lastName">
+		<col displayValueKeyPath="applicationState.people.emailAddress">
 		<thead>
 			<tr>
 				<th>First Name</th>

@@ -3,7 +3,7 @@ layout: post
 title: Notes on Site Design
 date: 2005-11-28
 author: Jeff Watkins
-tags:
+categories:
 - Miscellaneous
 ---
 

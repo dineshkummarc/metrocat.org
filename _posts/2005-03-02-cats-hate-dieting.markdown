@@ -3,7 +3,7 @@ layout: post
 title: Cats Hate Dieting
 date: 2005-03-02
 author: Jeff Watkins
-tags:
+categories:
 - Cats
 ---
 

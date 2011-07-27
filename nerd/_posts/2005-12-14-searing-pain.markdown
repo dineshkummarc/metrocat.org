@@ -3,7 +3,7 @@ layout: post
 title: The Searing Pain of Using Windows
 date: 2005-12-14
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 - Windows
 ---
@@ -21,7 +21,7 @@ I kept checking the Cingular and T-Mobile Web sites to see when they would suppo
 Here's the complete process of synchronising my phone with iCal and Tiger's Address Book:
 
 <div class="figure">
-<img class="photo" src="http://nerd.newburyportion.com/wp-content/uploads/2005/12/isync.gif" alt=""/>
+<img class="photo" src="http://nerd.newburyportion.com/wp-content/uploads/2005/12/isync.gif" alt="">
 </div>
 
 1. Control-click on the iSync application icon in the Dock.
@@ -44,17 +44,17 @@ The following is the exact steps I must take to synchronise my phone with Outloo
 4. Choose **Sync Station** from the Sony Ericsson menu
 5. Choose **Synchronize** from the Sync Station menu
     <div class="figure">
-    <img src="http://nerd.newburyportion.com/wp-content/uploads/2005/12/sync.gif" alt=""/>
+    <img src="http://nerd.newburyportion.com/wp-content/uploads/2005/12/sync.gif" alt="">
     </div>
 6. Hit `Alt`-`Tab` several times to switch to Outlook
 7. Check the box to allow Sync Station to have access to Outlook
     <div class="figure">
-    <img src="http://nerd.newburyportion.com/wp-content/uploads/2005/12/outlook.gif" alt=""/>
+    <img src="http://nerd.newburyportion.com/wp-content/uploads/2005/12/outlook.gif" alt="">
     </div>
 8. Switch back to Sync Station (`Alt`-`Tab`)
 9. Click OK on the stupid dialog box from Sync Station
     <div class="figure">
-    <img src="http://nerd.newburyportion.com/wp-content/uploads/2005/12/complete.gif" alt=""/>
+    <img src="http://nerd.newburyportion.com/wp-content/uploads/2005/12/complete.gif" alt="">
     </div>
 10. Right click on the icon for Sync Station in the system tray
 11. Select **Exit** from the Sync Station system tray menu

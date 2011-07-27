@@ -3,7 +3,7 @@ layout: post
 title: DHTML Binding Example
 date: 2005-08-17
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 
@@ -23,15 +23,15 @@ This is about as unobtrusive as you can get. Check out the HTML:
 			
 		<fieldset>
 			<legend>Person Detail</legend>
-			First Name: <input valueKeyPath="selectedPerson.firstName"/><br />
-			Last Name: <input valueKeyPath="selectedPerson.lastName"/><br />
-			Email: <input valueKeyPath="selectedPerson.email"/><br />
-			URL: <input valueKeyPath="selectedPerson.url"/>
+			First Name: <input valueKeyPath="selectedPerson.firstName"><br>
+			Last Name: <input valueKeyPath="selectedPerson.lastName"><br>
+			Email: <input valueKeyPath="selectedPerson.email"><br>
+			URL: <input valueKeyPath="selectedPerson.url">
 		</fieldset>
 		
-		<input type="button" onclick="addPerson(); return false;" value="Add Person"/>
+		<input type="button" onclick="addPerson(); return false;" value="Add Person">
 		<input type="button" onclick="deleteSelection(); return false;"
-			value="Delete Person" enabledKeyPath="selectedIndex(SelectedIndexToBoolean)"/>
+			value="Delete Person" enabledKeyPath="selectedIndex(SelectedIndexToBoolean)">
 		
 	</form>
 

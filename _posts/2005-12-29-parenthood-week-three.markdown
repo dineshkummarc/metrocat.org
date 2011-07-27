@@ -3,7 +3,7 @@ layout: post
 title: Parenthood, Week Three
 date: 2005-12-29
 author: Anna
-tags:
+categories:
 - Life
 - Wee-Watkins
 ---
@@ -18,7 +18,7 @@ Here are ten additional things I have learned:
 
 4. Breastfeeding can give babies acne.
 
-5. My cranky hours are between 3 and 5 am. 
+5. My cranky hours are between 3 and 5 am.
 
 6. Coincidentally, the hours Molly are most likely to suddenly be wide awake are between 3 and 5 am.
 

@@ -3,7 +3,7 @@ layout: post
 title: Ditching Movable Type
 date: 2005-11-21
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

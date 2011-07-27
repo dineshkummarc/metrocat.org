@@ -3,7 +3,7 @@ layout: post
 title: Sierra is Clueless
 date: 2006-02-20
 author: Jeff Watkins
-tags:
+categories:
 - Design
 ---
 

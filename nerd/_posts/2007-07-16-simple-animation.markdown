@@ -3,7 +3,7 @@ layout: post
 title: Simple Animation
 date: 2007-07-16
 author: Jeff Watkins
-tags:
+categories:
 - Featured
 - Javascript
 ---

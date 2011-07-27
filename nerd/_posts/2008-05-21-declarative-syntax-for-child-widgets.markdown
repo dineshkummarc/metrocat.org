@@ -3,7 +3,7 @@ layout: post
 title: Declarative Syntax for Child Widgets
 date: 2008-05-21
 author: Jeff Watkins
-tags:
+categories:
 - Coherent
 ---
 

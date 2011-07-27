@@ -3,7 +3,7 @@ layout: post
 title: Going Global
 date: 2006-07-29
 author: Jeff Watkins
-tags:
+categories:
 - Ajax
 - Featured
 - Javascript

@@ -3,7 +3,7 @@ layout: post
 title: What's Wrong With Movable Type
 date: 2005-09-08
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

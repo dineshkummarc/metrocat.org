@@ -3,7 +3,7 @@ layout: post
 title: Not Everyone Is Enamoured With The iTunes Phone
 date: 2005-09-08
 author: Jeff Watkins
-tags:
+categories:
 - Technology
 ---
 

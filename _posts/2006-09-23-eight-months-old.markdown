@@ -3,7 +3,7 @@ layout: post
 title: Eight Months Old
 date: 2006-09-23
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
@@ -23,7 +23,7 @@ In other news, Molly had her final gastroenterologist visit, and received her fi
 
 She started to enjoy her swim lessons, just in time for the first session to end. I hope that Jeff can join us in the future, and take some pictures for all to enjoy.
 
-Speaking of pictures to enjoy, I encourage everyone to take a peek at our <a href="http://www.flickr.com/photos/jeffwatkins/">flickr</a> account, if you haven't already. I have organized the pictures by month, and will be adding more that don't appear in our posts. Also, you will be able to enjoy the clever comments that Jeff and I make about each photo, and leave your own.
+Speaking of pictures to enjoy, I encourage everyone to take a peek at our [flickr][1] account, if you haven't already. I have organized the pictures by month, and will be adding more that don't appear in our posts. Also, you will be able to enjoy the clever comments that Jeff and I make about each photo, and leave your own. 
 
 I wish I had spiffy photos of Molly's first "beauty pageant", in which she participated at the beginning of August, but these are much better:
 
@@ -33,15 +33,9 @@ I wish I had spiffy photos of Molly's first "beauty pageant", in which she parti
 
 <div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=246183222"><img class="photo" src="http://static.flickr.com/85/246183222_55985a618f.jpg" alt="Lost in Contemplation" border="0"></a> </div>
 
-She saw her eight-month anniversary in with a bang, as she was frightened and then delighted by fireworks, marking the end of the madness known as <a href="http://www.yankeehomecoming.com/">Yankee Homecoming</a>.
+She saw her eight-month anniversary in with a bang, as she was frightened and then delighted by fireworks, marking the end of the madness known as [Yankee Homecoming][2].
 
 More photos and fun next post....
 
-
-
-
-
-
-
-
-
+   [1]: http://www.flickr.com/photos/jeffwatkins/
+   [2]: http://www.yankeehomecoming.com/

@@ -3,7 +3,7 @@ layout: post
 title: A Few Words on Naming
 date: 2005-08-15
 author: Jeff Watkins
-tags:
+categories:
 - Art-of-Coding
 ---
 

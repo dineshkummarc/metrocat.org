@@ -3,7 +3,7 @@ layout: post
 title: A Dumbed-Down Dr. Doolittle
 date: 2005-07-28
 author: Anna
-tags:
+categories:
 - Cats
 ---
 
@@ -11,11 +11,11 @@ Everything I've read and heard about early childhood indicates that there is a c
 
 Well, here in the Watkins (Northeast Branch) household, we may not yet have a little baby from which to learn, but our fur-children are only to happy to teach us a lesson in communication. Augustus in particular.
 
-Jeff had written earlier (<a href="http://metrocat.org/2004/04/02/howl-no-more">here</a> and <a href="http://metrocat.org/2005/06/27/the-microchipping-of-augustus">here</a>)about his buddy Augustus' particularly annoying habit of "singing" to us all night long. He had even seemed to figure out a possible <a href="http://metrocat.org/2005/03/02/cats-hate-dieting">cause</a>.
+Jeff had written earlier ([here][1] and [here][2])about his buddy Augustus' particularly annoying habit of "singing" to us all night long. He had even seemed to figure out a possible [cause][3]. 
 
-Well, many people have spoken about the difference between <i>hearing</i> and <i>listening</i>. We certainly had heard enough of Augustus' crying, but it took a while to really process what he was saying. Fortunately for Augustus (and somewhat unfortunately for us), he is one persistent feline.
+Well, many people have spoken about the difference between _hearing_ and _listening_. We certainly had heard enough of Augustus' crying, but it took a while to really process what he was saying. Fortunately for Augustus (and somewhat unfortunately for us), he is one persistent feline. 
 
-Now that Magic and Tim are <i>finally</i> on a real diet (and both very unhappy about it, let me tell you), Augustus and Madeline's food is well protected. A little too well protected. As soon as they appear to be done with their food, we take it away, and out of the reach of Magic's eager jaws.
+Now that Magic and Tim are _finally_ on a real diet (and both very unhappy about it, let me tell you), Augustus and Madeline's food is well protected. A little too well protected. As soon as they appear to be done with their food, we take it away, and out of the reach of Magic's eager jaws. 
 
 Augustus still cries in the middle of the night, but Jeff leaps (this is of course a relative term) into action and feeds him right away, standing guard to make certain Magic doesn't bully his way into the bowl.
 
@@ -24,3 +24,7 @@ Madeline also gets hungry (and never at the same time as Augustus). Her approach
 All in all, I think Jeff and I (the cats indirectly wake me up too) get between 4-6 hours of sleep. Yawn.
 
 Bring on the kid, the cats have already trained us!
+
+   [1]: http://metrocat.org/2004/04/02/howl-no-more
+   [2]: http://metrocat.org/2005/06/27/the-microchipping-of-augustus
+   [3]: http://metrocat.org/2005/03/02/cats-hate-dieting

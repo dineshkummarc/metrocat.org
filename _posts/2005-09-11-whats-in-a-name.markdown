@@ -3,7 +3,7 @@ layout: post
 title: What's in a Name?
 date: 2005-09-11
 author: Jeff Watkins
-tags:
+categories:
 - Life
 ---
 

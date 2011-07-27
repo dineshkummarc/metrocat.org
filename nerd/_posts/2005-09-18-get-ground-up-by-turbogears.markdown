@@ -3,7 +3,7 @@ layout: post
 title: Get Ground Up by TurboGears
 date: 2005-09-18
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 - Web
 ---

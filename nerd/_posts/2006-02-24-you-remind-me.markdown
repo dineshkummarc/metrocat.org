@@ -3,7 +3,7 @@ layout: post
 title: You Remind Me
 date: 2006-02-24
 author: Jeff Watkins
-tags:
+categories:
 - Design
 ---
 

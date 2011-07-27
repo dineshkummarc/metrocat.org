@@ -3,7 +3,7 @@ layout: post
 title: Visit to Seattle
 date: 2005-04-19
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 ---
 
@@ -13,7 +13,7 @@ First, I have to say that staying at the [Washington Athletic Club](http://www.w
 
 I started every morning last week with a visit to [The Crumpet Shop](http://www.seattleweekly.com/features/0452/041229_food_thenosh.php) -- just like I started nearly every morning for the four years I lived in the [Pike Place Market](http://www.pikeplacemarket.org/). Seeing Gary & Nancy again was a real pleasure. In fact, Nancy looked right at me twice before she recognised me -- I guess losing 50+ pounds has made me look a little different.
 
-I was delighted to see that Nancy has hung up some of her paintings in the shop. She was just getting back into painting around the time I left, and this was the first time I'd been able to see her work. Otherwise, not much had changed at the Crumpet Shop, although the tea is now available in thermal juggy-things where the patrons can get at it without pestering the poor overworked crumpet slingers. 
+I was delighted to see that Nancy has hung up some of her paintings in the shop. She was just getting back into painting around the time I left, and this was the first time I'd been able to see her work. Otherwise, not much had changed at the Crumpet Shop, although the tea is now available in thermal juggy-things where the patrons can get at it without pestering the poor overworked crumpet slingers.
 
 Way up north, on the edge of [Seattle's Gasworks Park](http://www.cityofseattle.net/parks/parkspaces/GASWORKS.htm), is [Elemental @ Gasworks](http://www.elementalatgasworks.com/). Even if this weren't the masterpiece of my friends [Phred & Laurie](http://metrocat.org/photography/faces/friends.html), Elemental would be a really excellent restaurant. Laurie slaves away behind two portable gas burners while Phred entertains the guests.
 

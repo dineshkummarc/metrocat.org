@@ -3,12 +3,12 @@ layout: post
 title: On a Bed of Bricks
 date: 2005-10-04
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 ---
 
 I received a request from Super 8 Motels to rate our recent stay with them in Kingston. We had a horrible time and I think I did a reasonably decent job of expressing that. The following is what I wrote in the comment box in the survey:
-<!--more-->
+
 > We arrived around 8PM after a long drive. On check-in we were offered a free upgrade to a king size bed (nice gesture and the last nice thing to occur). When we went to the room, there was no bed. Not just a missing king, but no BED. The mattresses were leaning against the walls, but there was no frame.
 > 
 > Finally, we were assigned a room with an actual bed. Unfortunately, the bed would have been softer were it made out of bricks. I am a frequent camper, and I believe I've been more comfortable sleeping on the ground. Eventually we fell asleep only to be awaked by a group of drunken teenagers shouting and running from room to room.

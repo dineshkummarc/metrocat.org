@@ -3,7 +3,7 @@ layout: post
 title: T-Minus 10 and Counting!
 date: 2003-11-18
 author: Anna
-tags:
+categories:
 - Wedding
 ---
 
@@ -15,18 +15,11 @@ Actually, since the wedding is just a little over a week away, perhaps we should
 
 But first, let me digress for a moment. My present job, temporary receptionist in the human resources department of a financial services company (<a href="http://www.pershing.com">Pershing</a>), is both a blessing and a curse during this time:
 
-	1. A blessing, because it has kept me busy enough that I do not
-	obsess over what, by all accounts, will be one of the biggest days
-	of my life.
-	2. A curse, because it leaves me so completely drained, so
-	completely numb (except for those moments when I am in a bad mood-
-	don't ask) that I feel that I am unable to fully enjoy the time
-	leading up to the big day.
+1. A blessing, because it has kept me busy enough that I do not obsess over what, by all accounts, will be one of the biggest days of my life.
+2. A curse, because it leaves me so completely drained, so completely numb (except for those moments when I am in a bad mood- don't ask) that I feel that I am unable to fully enjoy the time leading up to the big day.
 	
-But, I suppose I shouldn't complain. This job is part of the reason
-we will be able to pull this off in such a short period of time.
+But, I suppose I shouldn't complain. This job is part of the reason we will be able to pull this off in such a short period of time.
 
 Now, if I could just relax before then.
 
-And let me say this,<b> if one more person asks me if I am
-nervous...</b>
+And let me say this,<b> if one more person asks me if I am nervous...</b>

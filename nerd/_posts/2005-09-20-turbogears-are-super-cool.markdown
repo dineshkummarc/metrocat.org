@@ -3,7 +3,7 @@ layout: post
 title: TurboGears are Super Cool
 date: 2005-09-20
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 - Web
 ---

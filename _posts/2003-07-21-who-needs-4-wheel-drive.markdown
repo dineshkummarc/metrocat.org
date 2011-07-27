@@ -3,7 +3,7 @@ layout: post
 title: Who Needs 4 Wheel Drive?
 date: 2003-07-21
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 ---
 

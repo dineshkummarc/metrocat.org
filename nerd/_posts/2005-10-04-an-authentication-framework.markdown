@@ -3,7 +3,7 @@ layout: post
 title: An Authentication Framework
 date: 2005-10-04
 author: Jeff Watkins
-tags:
+categories:
 - Ajax
 ---
 
@@ -25,9 +25,9 @@ If you're using Ajax with form-based authentication, what do you do if the user'
 
 Ideally, when building an Ajax application, you would respond with an HTML form for authentication when the browser requests an HTML page and an HTTP authentication error code when the browser uses an XMLHttpRequest to fetch a resource.
 
-<div><img src="/photos/form-auth.png" alt="Form-based Authentication"/></div>
+<div><img src="/photos/form-auth.png" alt="Form-based Authentication"></div>
 
-<div><img src="/photos/Ajax-auth.png" alt="Ajax Authentication"/></div>It's no secret that I'm not a fan of any of the big free (or reasonably free, like [MovableType](http://www.sixapart.com/movabletype/)) content management systems. They all lack something. Possibly, what they really lack is the key ingredient that [37signals](http://www.37signals.com/) has added to all of their products: simplicity.
+<div><img src="/photos/Ajax-auth.png" alt="Ajax Authentication"></div>It's no secret that I'm not a fan of any of the big free (or reasonably free, like [MovableType](http://www.sixapart.com/movabletype/)) content management systems. They all lack something. Possibly, what they really lack is the key ingredient that [37signals](http://www.37signals.com/) has added to all of their products: simplicity.
 
 I'm going to build my own content management system. I'll join the horde of open source (I suspect) CMSs. But I hope to be different, however, I'm not going to give away my secrets now.
 
@@ -50,14 +50,14 @@ Ajax demands greater flexibility from authentication frameworks.
 If you're using Ajax with form-based authentication, what do you do if the user's session expires and you need to redirect him to a login screen? I suppose you could send the HTML for the login screen back instead of JSON formatted objects, but your client-side code would have to be *very* smart.
 
 <div style="text-align:center">
-<img src="/photos/form-auth.png" alt="Form-based Authentication"/>
+<img src="/photos/form-auth.png" alt="Form-based Authentication">
 <p>Form-based Authentication</p>
 </div>
 
 Ideally, when building an Ajax application, you would respond with an HTML form for authentication when the browser requests an HTML page and an HTTP authentication error code when the browser uses an XMLHttpRequest to fetch a resource.
 
 <div style="text-align:center">
-<img src="/photos/Ajax-auth.png" alt="Ajax Authentication"/>
+<img src="/photos/Ajax-auth.png" alt="Ajax Authentication">
 <p>Ajax Authentication</p>
 </div>
 

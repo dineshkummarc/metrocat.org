@@ -3,7 +3,7 @@ layout: post
 title: Safari Can't REST
 date: 2005-10-15
 author: Jeff Watkins
-tags:
+categories:
 - Ajax
 - Safari
 - TurboGears

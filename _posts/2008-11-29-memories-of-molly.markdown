@@ -3,7 +3,7 @@ layout: post
 title: Memories of Molly
 date: 2008-11-29
 author: Jeff Watkins
-tags:
+categories:
 - Wee-Watkins
 ---
 
@@ -15,15 +15,15 @@ One of the things that made (and still makes) Molly special is she's not content
 
 One Saturday morning in July of 2006, Molly and I were playing in her room while Anna slept off one of her more wild nights (you know how she is). Molly decided this just wouldn't do; so she crawled out of her room and down the hall to our bedroom.
 
-<div class="figure"><img class="photo" src="/assets/2008/11/molly-1.png" alt="Molly-1.png" border="0"   ></div>
+<div class="figure"><img class="photo" src="/assets/2008/11/molly-1.png" alt="Molly-1.png" border="0" ></div>
 
 Although she was disappointed at first that Anna wasn't awake, Molly didn't let that stop her. She crawled into the room making enough racket that Anna didn't stand a chance -- although, truth be told, Anna sleeps with ear plugs in because someone in the next apartment snores.
 
-<div class="figure"><img class="photo" src="/assets/2008/11/molly-2.png" alt="Molly-2.png" border="0"   ></div>
+<div class="figure"><img class="photo" src="/assets/2008/11/molly-2.png" alt="Molly-2.png" border="0" ></div>
 
 ### Trouble Brewing ###
 
-Now that Katalin is starting to push up, crawling won't be far behind. I don't envy Bob and Aileen. Although I always said I couldn't wait for Molly to become mobile and start talking, I know we weren't prepared for her crawling when it started. 
+Now that Katalin is starting to push up, crawling won't be far behind. I don't envy Bob and Aileen. Although I always said I couldn't wait for Molly to become mobile and start talking, I know we weren't prepared for her crawling when it started.
 
 These photos don't do Molly's crawling justice. By this point, Molly had been crawling for most of a month: she was bloody fast. One minute she'd be farting or making disgusting gurgling noises (neither of which she learned from me -- I taught her to blow raspberries when she was two) on the mat in her room, the next minute she'd be halfway down the hall.
 

@@ -3,7 +3,7 @@ layout: post
 title: New Apartment
 date: 2006-12-23
 author: Jeff Watkins
-tags:
+categories:
 - Life
 ---
 
@@ -11,11 +11,8 @@ This afternoon we received confirmation that we'll actually have a place to live
 
 Beginning on the first of the year, we'll be residents of the [Harbor Steps](http://www.harborsteps.com/) and our address will be:
 
-> 1301 First Avenue #312<br/>
+> 1301 First Avenue #312<br>
 > Seattle, WA 98101
-
-
-<!--more-->
 
 Most importantly for me, we'll be three blocks south of the Crumpet Shop. So I'll be able to get my tea and a crumpet each morning before going to work.
 

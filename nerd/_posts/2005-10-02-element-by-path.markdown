@@ -3,7 +3,7 @@ layout: post
 title: Element By Path
 date: 2005-10-02
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

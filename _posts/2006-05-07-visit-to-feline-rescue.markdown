@@ -3,13 +3,11 @@ layout: post
 title: Visit to Feline Rescue
 date: 2006-05-07
 author: Jeff Watkins
-tags:
+categories:
 - Cats
 ---
 
 This morning we visited the [Merrimack River Feline Rescue Society](http://www.mrfrs.org/) to introduce Molly to all the wonderful cats available for adoption. I took along my camera and flash to capture photos of the residents.
-
-<!--more-->
 
 The star of the show had to be George. Although he's not willing to let anyone pet him, he's incredibly friendly. Yes, I know that sounds odd, but it's true. Here's George looking down from his favourite perch:
 

@@ -3,7 +3,7 @@ layout: post
 title: Creating Objects
 date: 2005-08-01
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

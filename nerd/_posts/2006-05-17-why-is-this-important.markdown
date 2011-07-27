@@ -3,13 +3,13 @@ layout: post
 title: Why Is This Important?
 date: 2006-05-17
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 
 Although I've decided not to continue purchasing NetNewsWire in the future, I still read [Brent Simmon's blog inessential.com](http://inessential.com). His latest post about [how NetNewsWire reads feeds](http://inessential.com/?comments=1&postid=3307) contains the following statement:
 
-> Itâ€™s important, in this increasingly cross-platform and multiple-gadget world, to be able to get your feeds anywhere, anytime.
+> It's important, in this increasingly cross-platform and multiple-gadget world, to be able to get your feeds anywhere, anytime.
 
 Can anyone explain why this is true? Exactly why is it important to be able to "get my feeds" anywhere? And why is it important to be able to get my feeds *anytime*?
 

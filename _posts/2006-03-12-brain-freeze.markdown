@@ -3,7 +3,7 @@ layout: post
 title: Brain Freeze
 date: 2006-03-12
 author: Jeff Watkins
-tags:
+categories:
 - Miscellaneous
 ---
 

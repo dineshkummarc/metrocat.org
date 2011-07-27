@@ -3,7 +3,7 @@ layout: post
 title: Beware Experts
 date: 2005-08-25
 author: Jeff Watkins
-tags:
+categories:
 - Art-of-Coding
 ---
 

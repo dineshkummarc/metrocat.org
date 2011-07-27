@@ -3,11 +3,11 @@ layout: post
 title: My Baby Is Rocket Powered
 date: 2006-01-28
 author: Jeff Watkins
-tags:
+categories:
 - Wee-Watkins
 ---
 
-<div style="float:right" class="figure"><a href="http://www.flickr.com/photo.gne?id=92413545"><img class="photo" src="http://static.flickr.com/14/92413545_f07f26549b.jpg" alt="I'm Cold" border="0"></a> </div>
+<div class="figure"><a href="http://www.flickr.com/photo.gne?id=92413545"><img class="photo" src="http://static.flickr.com/14/92413545_f07f26549b.jpg" alt="I'm Cold" border="0"></a> </div>
 
 This evening in a fit of who-knows-I've-tried-everything-else, I swaddled Molly using a blanket which is really a bit too small for her. But eventually (and I *do* mean eventually) she fell asleep -- probably from lack of oxygen due to the *really* tight swaddling. After rocking her for another 5 minutes -- hey, what's five minutes after spending 45 with earplugs jammed in my ears while I rocked her and tried to soothe her -- I decided she'd really fallen asleep.
 

@@ -3,7 +3,7 @@ layout: post
 title: Don't Software Engineers Write JavaScript?
 date: 2007-08-30
 author: Jeff Watkins
-tags:
+categories:
 - Art-of-Coding
 - Javascript
 ---

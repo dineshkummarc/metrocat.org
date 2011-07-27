@@ -3,7 +3,7 @@ layout: post
 title: A World Without Microsoft
 date: 2006-06-26
 author: Jeff Watkins
-tags:
+categories:
 - Windows
 ---
 

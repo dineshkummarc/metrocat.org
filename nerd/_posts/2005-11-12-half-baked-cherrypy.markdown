@@ -3,7 +3,7 @@ layout: post
 title: Half-baked CherryPy
 date: 2005-11-12
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 
@@ -22,7 +22,7 @@ Fortunately, all of this Python stuff ships with source code. After pouring over
 Of course, there's likely to be *someone* who'll point out that I still haven't documented the Identity framework. That's definitely true. I've been meaning to, but this whole product release at work has taken most of my attention and the rest has been consumed by writing an ORM for Python (I'm trying to crossbreed Hibernate and CoreData). But I haven't forgotten my obligation to document what I've built. Ultimately, the docs will include this spiffy diagram drawn in [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle/).
 
 <div style="text-align:center">
-<img src="/photos/identity.png" border="0" alt="TurboGears Identity Framework"/>
+<img src="/photos/identity.png" border="0" alt="TurboGears Identity Framework">
 </div>
 
 I hope to get started on the documentation this weekend. After all, I will be committing some changes to the framework to make it a little more customisable -- perhaps not as much as some would like, but more than it already is. Of course, I'm getting *really* close to being able to read & write from SQLite with my new ORM, so maybe that will be more pressing.

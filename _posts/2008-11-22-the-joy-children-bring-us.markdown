@@ -3,7 +3,7 @@ layout: post
 title: The Joy Children Bring Us
 date: 2008-11-22
 author: Jeff Watkins
-tags:
+categories:
 - Wedding
 - Wee-Watkins
 ---

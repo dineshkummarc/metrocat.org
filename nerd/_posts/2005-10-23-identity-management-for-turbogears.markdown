@@ -3,7 +3,7 @@ layout: post
 title: Identity Management for TurboGears
 date: 2005-10-23
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 - Web
 ---
@@ -28,7 +28,7 @@ This How To is written from the perspective of a fresh quick-started project, bu
 
         <head>
             <meta content="text/html; charset=UTF-8"
-                http-equiv="content-type" py:replace="''"/>
+                http-equiv="content-type" py:replace="''">
             <title>Login to TurboGears</title>
         </head>
 
@@ -37,12 +37,12 @@ This How To is written from the perspective of a fresh quick-started project, bu
             <p>${message}</p>
             <form action="${previous_url}" method="POST">
                 <label for="user_name">User Name:</label>
-                <input type="text" id="user_name" name="user_name"/><br/>
+                <input type="text" id="user_name" name="user_name"><br>
 
                 <label for="password">Password:</label>
-                <input type="password" id="password" name="password"/><br/>
+                <input type="password" id="password" name="password"><br>
 
-                <input type="submit" value="Login"/>
+                <input type="submit" value="Login">
             </form>
         </body>
         </html>
@@ -57,7 +57,7 @@ This How To is written from the perspective of a fresh quick-started project, bu
 
         <head>
             <meta content="text/html; charset=UTF-8"
-                http-equiv="content-type" py:replace="''"/>
+                http-equiv="content-type" py:replace="''">
             <title>Welcome to Secured TurboGears</title>
         </head>
 

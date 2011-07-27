@@ -3,7 +3,7 @@ layout: post
 title: Point & Shoot == Frustration
 date: 2005-07-13
 author: Jeff Watkins
-tags:
+categories:
 - Technology
 ---
 

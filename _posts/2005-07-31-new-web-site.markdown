@@ -3,7 +3,7 @@ layout: post
 title: New Web Site
 date: 2005-07-31
 author: Jeff Watkins
-tags:
+categories:
 - Technology
 ---
 

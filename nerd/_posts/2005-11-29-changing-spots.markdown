@@ -3,7 +3,7 @@ layout: post
 title: Changing Spots
 date: 2005-11-29
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 - Windows
 ---

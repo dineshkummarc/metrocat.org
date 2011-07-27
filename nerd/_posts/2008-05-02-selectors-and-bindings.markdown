@@ -3,7 +3,7 @@ layout: post
 title: Selectors and Bindings
 date: 2008-05-02
 author: Jeff Watkins
-tags:
+categories:
 - Coherent
 ---
 

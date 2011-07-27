@@ -3,7 +3,7 @@ layout: post
 title: Tagging is Tough
 date: 2005-12-06
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 - Web
 ---

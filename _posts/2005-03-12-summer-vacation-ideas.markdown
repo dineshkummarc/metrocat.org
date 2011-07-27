@@ -3,7 +3,7 @@ layout: post
 title: Summer Vacation Ideas
 date: 2005-03-12
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 ---
 
@@ -15,4 +15,4 @@ We're going on Summer Vacation with my high-school buddy, [Bradley](http://facul
 
 [Inns and B&Bs in VT](http://www.a1trails.com/lodging/ldgvt.html) -- There are tons of Inns and B&Bs in VT. We could probably plan our own "slackpacking" itinerary. However, the folks at [WonderWalks](http://www.wonderwalks.com/tours.htm) offer lots of cool, if expensive, Inn-to-Inn walks. I doubt if we could actually afford any of these. But they certainly sound cool.
 
-All of this is from a very brief google of `Net resources. I'll check into back issues of Outside magazine and see what I can dig up.
+All of this is from a very brief google of \`Net resources. I'll check into back issues of Outside magazine and see what I can dig up.

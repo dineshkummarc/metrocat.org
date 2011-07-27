@@ -3,7 +3,7 @@ layout: post
 title: Beaming Up To The Mothership
 date: 2007-02-23
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 - Personal
 ---

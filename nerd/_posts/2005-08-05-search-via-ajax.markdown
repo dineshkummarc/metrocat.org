@@ -3,7 +3,7 @@ layout: post
 title: Search via Ajax
 date: 2005-08-05
 author: Jeff Watkins
-tags:
+categories:
 - Ajax
 - Javascript
 ---

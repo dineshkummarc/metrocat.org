@@ -3,7 +3,7 @@ layout: post
 title: No Phone Home
 date: 2005-10-29
 author: Jeff Watkins
-tags:
+categories:
 - Technology
 ---
 
@@ -13,7 +13,7 @@ Apple lists quite a few phones on their [iSync compatibility page](http://www.ap
 
 I don't really have strong feelings about which provider I choose -- any one of Cingular, Sprint, T-Mobile, or Verizon will probably be just fine. But none of their Web sites have a filter category for iSync compatible phones. For example, on the Cingular Web site, I can filter on Bluetooth support -- and my understanding is Bluetooth support is pretty much required for iSync support.
 
-I also don't really want a flip phone. I just don't like `em. That leaves only one phone from Cingular: the Audiovox SMT 5600, which runs Windows for Cellphones. Even if it were compatible with iSync, I'm not running Windows on my phone. For gods sake, I want to be able to make a call not fume at a blue screen of death.
+I also don't really want a flip phone. I just don't like \`em. That leaves only one phone from Cingular: the Audiovox SMT 5600, which runs Windows for Cellphones. Even if it were compatible with iSync, I'm not running Windows on my phone. For gods sake, I want to be able to make a call not fume at a blue screen of death.
 
 Verizon offers several non-flip phones with bluetooth: Kyocera and Motorola walky-talky phones and a Nokia 2128i. None of which is compatible with iSync.
 

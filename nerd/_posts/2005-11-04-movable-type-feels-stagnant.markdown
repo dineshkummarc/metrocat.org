@@ -3,7 +3,7 @@ layout: post
 title: Movable Type Feels Stagnant
 date: 2005-11-04
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

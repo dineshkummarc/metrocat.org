@@ -3,7 +3,7 @@ layout: post
 title: Robert Reich on Consumerism
 date: 2005-02-28
 author: Jeff Watkins
-tags:
+categories:
 - Politics
 ---
 
@@ -11,9 +11,7 @@ In [Robert Reich's latest column in the New York Times][reich-nyt] I have finall
 
 Now one forces us to buy books from Amazon instead of the local bookstore. As Reich admits:
 
-<blockquote cite="http://nytimes.com/2005/02/28/opinion/28reich.html">
-The problem is, the choices we make in the market don't fully reflect our values as workers or as citizens. I didn't want our <a href="http://www.oreillynet.com/pub/wlg/5671" title="Independent booksellers can't compete with Amazon">community bookstore in Cambridge, Mass.</a>, to close (as it did last fall) yet I still bought lots of books from Amazon.com. In addition, we may not see the larger bargain when our own job or community isn't directly at stake. I don't like what's happening to airline workers, but I still try for the cheapest fare I can get.
-</blockquote>
+> The problem is, the choices we make in the market don't fully reflect our values as workers or as citizens. I didn't want our [community bookstore in Cambridge, Mass.][1], to close (as it did last fall) yet I still bought lots of books from Amazon.com. In addition, we may not see the larger bargain when our own job or community isn't directly at stake. I don't like what's happening to airline workers, but I still try for the cheapest fare I can get. 
 
 Recently, I've been trying to find a shop in Newburyport that sells Levi's jeans. (Of course, Anna would like me to make the switch to [No Sweat Apparel][no-sweat], but I'm comfortable with Levi's even if they are no longer made in the USA.) We have both a Marshall's and a K-Mart in the shopping plazas, but I'd much rather find a merchant downtown who sells jeans. Hell, I'd love to find a merchant downtown who will be willing to even order a pair of Levi's for me even if he doesn't normally carry them.
 
@@ -26,3 +24,4 @@ Now that I once again live in a town with a vibrant shopping district (even if i
 [reich-nyt]: http://nytimes.com/2005/02/28/opinion/28reich.html
 [no-sweat]: http://www.nosweatapparel.com/ "Union and/or non-sweatshop produced apparel"
 [knives]: http://www.wusthof.com/main.htm "Really great knives"
+[1]: http://www.oreillynet.com/pub/wlg/5671 (Independent booksellers can't compete with Amazon)

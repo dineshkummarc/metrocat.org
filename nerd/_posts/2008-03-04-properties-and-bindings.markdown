@@ -3,7 +3,7 @@ layout: post
 title: Properties And Bindings
 date: 2008-03-04
 author: Jeff Watkins
-tags:
+categories:
 - Coherent
 - Overview
 ---

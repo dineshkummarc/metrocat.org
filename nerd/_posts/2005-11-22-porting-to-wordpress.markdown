@@ -3,7 +3,7 @@ layout: post
 title: Porting to WordPress
 date: 2005-11-22
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

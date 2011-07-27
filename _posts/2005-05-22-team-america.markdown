@@ -3,7 +3,7 @@ layout: post
 title: Team America
 date: 2005-05-22
 author: Jeff Watkins
-tags:
+categories:
 - Movies
 ---
 

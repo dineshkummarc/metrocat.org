@@ -3,7 +3,7 @@ layout: post
 title: PHP Isn't Pretty
 date: 2006-04-27
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

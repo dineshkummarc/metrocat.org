@@ -3,7 +3,7 @@ layout: post
 title: Keeping Up Standards
 date: 2005-08-19
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

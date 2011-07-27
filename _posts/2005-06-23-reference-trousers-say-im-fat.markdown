@@ -3,7 +3,7 @@ layout: post
 title: Reference Trousers Say I'm Fat
 date: 2005-06-23
 author: Jeff Watkins
-tags:
+categories:
 - Life
 ---
 

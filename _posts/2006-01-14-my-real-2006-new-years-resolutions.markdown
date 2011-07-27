@@ -3,7 +3,7 @@ layout: post
 title: My Real 2006 New Year's Resolutions
 date: 2006-01-14
 author: Anna
-tags:
+categories:
 - Life
 ---
 
@@ -35,6 +35,6 @@ And I have three more for good measure:
 
 11. To spend more than 5 minutes outdoors, admiring the wonders of nature.
 
-12. To pet each of my kitties. With the excitement of the new baby, I must admit I have not been very attentive. 
+12. To pet each of my kitties. With the excitement of the new baby, I must admit I have not been very attentive.
 
 13. To tell my daughter and husband that I love them at least once a day.

@@ -3,7 +3,7 @@ layout: post
 title: I Wish That Time Would Do the Same
 date: 2006-06-23
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 

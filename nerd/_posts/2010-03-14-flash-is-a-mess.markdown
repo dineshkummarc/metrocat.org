@@ -3,7 +3,7 @@ layout: post
 title: Flash Is A Mess
 date: 2010-03-14
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 - Web
 ---

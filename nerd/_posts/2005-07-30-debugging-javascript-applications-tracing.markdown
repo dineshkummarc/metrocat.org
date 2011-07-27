@@ -3,7 +3,7 @@ layout: post
 title: Debugging JavaScript Applications  Tracing
 date: 2005-07-30
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Pitting JavaScript Against Objective-C
 date: 2008-02-11
 author: Jeff Watkins
-tags:
+categories:
 - Coherent
 ---
 

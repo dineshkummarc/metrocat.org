@@ -3,7 +3,7 @@ layout: post
 title: Deviation from the Spec
 date: 2008-02-09
 author: Jeff Watkins
-tags:
+categories:
 - Coherent
 ---
 

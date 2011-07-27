@@ -3,12 +3,12 @@ layout: post
 title: No Brow, High Brow, Low Brow (Part 2)
 date: 2005-03-18
 author: Anna
-tags:
+categories:
 - Life
 - Newburyport
 ---
 
-<center>"HIGH BROW"</center>
+##HIGH BROW##
 
 I had applied the first of several doses of aloe to my burnt brow, and after a bit of cursing (and some lunch), I felt brave enough to venture out in the world.
 

@@ -3,7 +3,7 @@ layout: post
 title: Eagle Harbor at Dawn
 date: 2002-02-21
 author: Jeff Watkins
-tags:
+categories:
 - Travel
 ---
 

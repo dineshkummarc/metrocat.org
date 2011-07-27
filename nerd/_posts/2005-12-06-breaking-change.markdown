@@ -3,7 +3,7 @@ layout: post
 title: Breaking Change
 date: 2005-12-06
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 

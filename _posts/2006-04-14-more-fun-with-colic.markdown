@@ -3,7 +3,7 @@ layout: post
 title: More Fun With Colic
 date: 2006-04-14
 author: Anna
-tags:
+categories:
 - Life
 - Wee-Watkins
 ---
@@ -14,24 +14,20 @@ After four months, however, I am finally starting to figure out Molly's colic. I
 
 Now, I just work my way through the following (choose any combination):
 
-<ul>
-<li>too hot/too cold</li>
-<li>bored/overstimulated</li>
-<li>surroundings too noisy/too quiet</li>
-<li>too much motion/too still</li>
-<li>hungry/too full</li>
-<li>full diaper/unable to create full diaper (of #2)</li>
-<li>regurgitation (with or without heartburn)</li>
-<li>hat or other clothing annoying her</li>
-<li>hit herself in head with toy or otherwise physically injured herself</li>
-<li>startled or frightened</li>
-</ul>
+* too hot/too cold
+* bored/overstimulated
+* surroundings too noisy/too quiet
+* too much motion/too still
+* hungry/too full
+* full diaper/unable to create full diaper (of #2)
+* regurgitation (with or without heartburn)
+* hat or other clothing annoying her
+* hit herself in head with toy or otherwise physically injured herself
+* startled or frightened
 
 She has also recently added another variable:
 
-<ul>
-<li><b>teething!</b></li>
-</ul>
+* **teething!**
 
 Every parent has to play this guessing game. Not every parent has a child that punishes them for the wrong choice by trying to render them deaf. And she doesn't stop until you get it right.
 

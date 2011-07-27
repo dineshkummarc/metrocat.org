@@ -3,11 +3,11 @@ layout: post
 title: Little Did I Know, Part 2
 date: 2005-03-24
 author: Anna
-tags:
+categories:
 - Wee-Watkins
 ---
 
-<b>2 days before period due.</b>
+**2 days before period due.**
 
 I tested again in the morning, before I went to the Dr.'s office for my yearly physical. BFN (Big Fat Negative) again. I was disappointed, but needed to double check in case there was any news to share with the Doc.
 

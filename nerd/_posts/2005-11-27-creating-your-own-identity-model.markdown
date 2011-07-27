@@ -3,7 +3,7 @@ layout: post
 title: Creating Your Own Identity Model
 date: 2005-11-27
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 
@@ -27,7 +27,7 @@ The filter first checks to determine whether the request contains identity crede
 
 The sequence of operations for determining a visitor's identity based on form fields is shown in the figure below:
 
-<div class="figure"><img src="/photos/identity-from-form.png" alt="Identity From Form"/></div>
+<div class="figure"><img src="/photos/identity-from-form.png" alt="Identity From Form"></div>
 
 **Step 1**: The filter first calls the `identity_from_form` method of the provider (SQLObjectProvider in this case) to convert form fields into a valid identity. The provider pulls out the `userId` and `password` fields in preparation for loading the visitor's identity from the model.
 
@@ -47,7 +47,7 @@ For subsequent requests, the visitor's identity can be retrieved from the cookie
 
 After a visitor authenticates using the login form, his browser will send the identity cookie on each request. The sequence of operations for the identity filter then becomes similar to the diagram below:
 
-<div class="figure"><img src="/photos/identity-from-cookie.png" alt="Identity From Cookie"/></div>
+<div class="figure"><img src="/photos/identity-from-cookie.png" alt="Identity From Cookie"></div>
 
 The filter will still attempt to discover the visitor's identity from form fields, however, none will be present. It will then ask the provider to pull an identity from the cookie.
 
@@ -69,7 +69,7 @@ Since not everyone is happy with the default model objects (I'm not either, but 
 
 Let's create a provider model like the following:
 
-<div class="figure"><img src="/photos/identity-howto-model.png" alt="Custom Identity Model"/></div>
+<div class="figure"><img src="/photos/identity-howto-model.png" alt="Custom Identity Model"></div>
 
 Let's tackle the easy ones first:
 

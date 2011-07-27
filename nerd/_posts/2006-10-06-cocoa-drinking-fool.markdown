@@ -3,7 +3,7 @@ layout: post
 title: Cocoa Drinking Fool
 date: 2006-10-06
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Little Helicopter That Could
 date: 2005-06-16
 author: Jeff Watkins
-tags:
+categories:
 - Family
 - Wee-Watkins
 ---
@@ -15,7 +15,5 @@ Shortly after placing a part of the doppler thingy on Anna's belly, the swusht, 
 Immediately, I began to have premonitions of walking through the park holding a tether while our son hovers overhead -- but not directly overhead until after he's toilet trained. And of course, the cost of aviation gas will be a limiting factor in how much spare cash we'll have for the next few decades...
 
 
-[bean]: http://metrocat.org/photography/wee-watkins/baby-belly-week-10.html
-    "The Bean is not photogenic yet"
-[spock-doppler]: http://www.drspock.com/article/0,1510,9851,00.html
-    "Dr. Spock on the Doppler Radar device..."
+[bean]: http://metrocat.org/photography/wee-watkins/baby-belly-week-10.html "The Bean is not photogenic yet"
+[spock-doppler]: http://www.drspock.com/article/0,1510,9851,00.html "Dr. Spock on the Doppler Radar device..."

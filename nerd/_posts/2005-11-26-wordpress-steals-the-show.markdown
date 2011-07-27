@@ -3,7 +3,7 @@ layout: post
 title: WordPress Steals The Show
 date: 2005-11-26
 author: Jeff Watkins
-tags:
+categories:
 - Uncategorized
 ---
 

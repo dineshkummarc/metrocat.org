@@ -3,12 +3,12 @@ layout: post
 title: Weird Wedding
 date: 2005-07-16
 author: Anna
-tags:
+categories:
 - Life
 ---
 
 An ex-boyfriend of mine is getting married today, and I'm feeling a little odd about it.
-<!--more-->
+
 Don't get me wrong- I am <i>very</i> happy I am married to the man I am married to, happy to be living where I'm living, <i>deliriously</i> happy to have a Wee one on the way, and sometimes happy about what I am doing with the rest of my life.
 
 But I still have regrets and occasional bitterness.

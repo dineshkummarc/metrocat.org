@@ -3,7 +3,7 @@ layout: post
 title: Thank You Daddy
 date: 2009-08-22
 author: Jeff Watkins
-tags:
+categories:
 - Wee-Watkins
 ---
 
@@ -34,7 +34,7 @@ Quick directions:
 8. Bake 5 min, flip, back another 5 min.
 9. Remove and let the meat sit for 5 min.
 
-I served the filets with the black berry sauce and some smashed red potatoes. The veggies were already on the table — Anna and I had been noshing on them for some time already. And don't forget the wine.
+I served the filets with the black berry sauce and some smashed red potatoes. The veggies were already on the table — Anna and I had been noshing on them for some time already. And don't forget the wine.
 
 When I served myself and Anna, Molly had only eaten one of the carrot sticks and the tomatoes. I reminded her that she wouldn't be served her dinner until after she finished her veggies. With unhurried luxury (we don't often have beef), Anna and I started our meals. When we finished, Molly had made some progress: she'd eaten all the peas out of 3 of the 6 sugar snap peas leaving their shells, and she'd eaten a couple carrot sticks.
 

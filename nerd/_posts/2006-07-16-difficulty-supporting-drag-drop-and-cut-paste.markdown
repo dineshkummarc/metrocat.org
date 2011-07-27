@@ -3,7 +3,7 @@ layout: post
 title: Difficulty Supporting Drag & Drop and Cut & Paste
 date: 2006-07-16
 author: Jeff Watkins
-tags:
+categories:
 - Web
 ---
 

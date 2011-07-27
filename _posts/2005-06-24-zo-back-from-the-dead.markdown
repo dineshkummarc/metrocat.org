@@ -3,7 +3,7 @@ layout: post
 title: Zoë Back from the Dead
 date: 2005-06-24
 author: Jeff Watkins
-tags:
+categories:
 - Life
 ---
 

@@ -3,14 +3,14 @@ layout: post
 title: Refining the Identity Framework
 date: 2006-01-21
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 
 My goal for any API I develop is to keep things simple. This is especially true for the TurboGears Identity framework, because it identity management and access control can be a pretty daunting concept for anyone to grasp.
 
 > Making the simple complicated is commonplace;
-> making the complicated awesomely simple, that's creativity.<br />
+> making the complicated awesomely simple, that's creativity.<br>
 > -- Charles Mingus
 
 So while there's still time before the 0.9 release, I've been wracking my brains to simplify while keeping in mind the developers who have more demanding needs. Today I checked in some changes that continue the trend towards making Identity easier to use and also make things a little more configurable.

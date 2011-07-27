@@ -3,7 +3,7 @@ layout: post
 title: Upcoming Changes
 date: 2006-12-08
 author: Jeff Watkins
-tags:
+categories:
 - Life
 - Newburyport
 ---
@@ -13,9 +13,6 @@ Things have been a bit quiet here lately. At least I've not had anything signifi
 But now I do:
 
 > On Tuesday, 2 January, 2007 at 6.15pm, Anna, Molly, and I will board an Alaskan Airlines plane bound for Seattle. When we arrive, we will be home.
-
-
-<!--more-->
 
 Back in the summer of 2002, I sold all my worldly possessions to move back East. Now, 4.5 years later, encumbered with new possessions, I'm returning to Seattle.
 

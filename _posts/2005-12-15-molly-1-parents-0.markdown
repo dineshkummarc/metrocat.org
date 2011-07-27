@@ -3,7 +3,7 @@ layout: post
 title: Molly  1, Parents  0
 date: 2005-12-15
 author: Anna
-tags:
+categories:
 - Family
 - Life
 - Wee-Watkins

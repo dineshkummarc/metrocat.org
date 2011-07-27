@@ -3,7 +3,7 @@ layout: post
 title: Primary & Secondary Actions
 date: 2007-08-27
 author: Jeff Watkins
-tags:
+categories:
 - Design
 - Web
 ---

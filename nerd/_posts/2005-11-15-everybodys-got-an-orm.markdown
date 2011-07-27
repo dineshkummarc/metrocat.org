@@ -3,7 +3,7 @@ layout: post
 title: Everybody's Got An ORM
 date: 2005-11-15
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 
@@ -22,7 +22,7 @@ My goals for an alternative ORM are the following:
 I just want to throw out a few quick examples before diving in. The examples all use the following model:
 
 <div style="text-align:center;">
-<img src="/photos/model.png" alt="Model"/>
+<img src="/photos/model.png" alt="Model">
 </div>
 
 The Python code for this model looks like this:
@@ -119,7 +119,7 @@ Dictionary relations would require an intermediate table (unless the dictionary 
 Obviously there's a bit of code under the covers. The diagram below attempts to put some of the pieces in place.
 
 <div style="text-align:center;">
-<img src="/photos/relation.png" alt="Everything"/>
+<img src="/photos/relation.png" alt="Everything">
 </div>
 
 The parts in baby-blue are long-lived objects which (will) be thread-safe. And the parts in pinky-red are ephemeral objects you use and discard.

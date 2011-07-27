@@ -3,7 +3,7 @@ layout: post
 title: Tea Is Better Than Water!
 date: 2008-03-05
 author: Jeff Watkins
-tags:
+categories:
 - Miscellaneous
 ---
 
@@ -17,7 +17,7 @@ This makes my plan of drinking several pots of tea a day seem even better! The a
 
 and:
 
-> [Dr Ruxton] said it was an urban myth that tea is dehydrating.
+> \[Dr Ruxton\] said it was an urban myth that tea is dehydrating.
 
 > "Studies on caffeine have found very high doses dehydrate and everyone assumes that caffeine-containing beverages dehydrate. But even if you had a really, really strong cup of tea or coffee, which is quite hard to make, you would still have a net gain of fluid.
 

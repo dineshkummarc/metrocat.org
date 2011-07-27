@@ -3,7 +3,7 @@ layout: post
 title: Parenthood, Week Two
 date: 2005-12-21
 author: Anna
-tags:
+categories:
 - Life
 - Wee-Watkins
 ---

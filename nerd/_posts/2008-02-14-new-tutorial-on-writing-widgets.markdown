@@ -3,7 +3,7 @@ layout: post
 title: New Tutorial on Writing Widgets
 date: 2008-02-14
 author: Jeff Watkins
-tags:
+categories:
 - Coherent
 - Javascript
 ---

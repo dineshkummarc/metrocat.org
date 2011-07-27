@@ -3,7 +3,7 @@ layout: post
 title: Identity Sample
 date: 2005-11-13
 author: Jeff Watkins
-tags:
+categories:
 - TurboGears
 ---
 

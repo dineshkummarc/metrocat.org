@@ -3,7 +3,7 @@ layout: post
 title: Maudslay State Park
 date: 2005-05-22
 author: Jeff Watkins
-tags:
+categories:
 - Newburyport
 ---
 

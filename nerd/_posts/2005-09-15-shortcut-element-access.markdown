@@ -3,7 +3,7 @@ layout: post
 title: Shortcut Element Access
 date: 2005-09-15
 author: Jeff Watkins
-tags:
+categories:
 - Javascript
 ---
 

@@ -3,20 +3,19 @@ layout: post
 title: No Brow, High Brow, Low Brow (Part 3)
 date: 2005-03-18
 author: Anna
-tags:
+categories:
 - Life
 - Newburyport
 ---
 
-<center>"LOW BROW"</center>
-
+##LOW BROW##
 A little appetizer before the meat of this story...
 
 Jeff recently went shopping for jeans here in Newburyport. Given the upscale nature of many of the shops here, I told him it may be difficult for him to find them at all. I suggested <a href="http://www.nosweatapparel.com">No Sweat Apparel</a>, based in Massachusetts that sells union-made attire. However, Jeff thought that a business from the same state still wasn't local enough to support, and off we went.
 
 We found a very nice men's clothing store nearby, and the clerk happily led us to the jeans section, where he helped Jeff pick out a couple of pairs to try on. While Jeff was in the changing room, he searched the shelves for special jeans made from a new material (recycled wood pulp) called <a href="http://www.newfibers.com/">Tencel</a>. He was very disappointed when he could not find any. I was oddly suspicious that as cool as they sounded, his enthusiasm was driven more by the expensive of the item than its practicality.
 
-He wandered off, leaving me to listen to the conversations of the other store patrons. A young woman had entered with her father. She needed an item altered. Apparently her father had had his golf pants altered at the same shop, and blah, blah, blah. 
+He wandered off, leaving me to listen to the conversations of the other store patrons. A young woman had entered with her father. She needed an item altered. Apparently her father had had his golf pants altered at the same shop, and blah, blah, blah.
 
 When the conversation turned to yachting, I redirected my attention to searching the store for those exciting Tencel jeans. I happened to glance at a few price tags and realized that one could purchase jeans in the shop for prices from a mere $60 to over $100. <i>For one pair of jeans</i>. I suddenly felt as if I had recently crawled out from under a rock, and seen the "real" world.
 

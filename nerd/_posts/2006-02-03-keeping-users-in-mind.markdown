@@ -3,7 +3,7 @@ layout: post
 title: Keeping Users In Mind
 date: 2006-02-03
 author: Jeff Watkins
-tags:
+categories:
 - Design
 ---
 

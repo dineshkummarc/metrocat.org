@@ -3,7 +3,7 @@ layout: post
 title: I'm Buying TextMate
 date: 2005-10-26
 author: Jeff Watkins
-tags:
+categories:
 - Macintosh
 ---
 
