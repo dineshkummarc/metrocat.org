@@ -1,3 +1,45 @@
+body
+{
+  margin: 0;
+}
+
+.header
+{
+  background-image: url(../comps/seattle.png);
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: cover;
+  padding-left: 1in;
+}
+
+@media only screen and (min-width: 480px)
+{
+  .header
+  {
+    height: 160px;
+  }
+  
+}
+
+@media only screen and (min-width: 768px)
+{
+  .header
+  {
+    height: 200px;
+  }
+}
+
+article
+{
+  margin: 1in 1in 0 1in;
+}
+
+header
+{
+  display: block;
+}
+
 article header h1
 {
   margin: 0em;
@@ -28,12 +70,12 @@ article footer a:first-child::before
   content: '« ';
 }
 
-article footer a:last-child
+article footer a:nth-child(2)
 {
   text-align: right;
 }
 
-article footer a:last-child::after
+article footer a:nth-child(2)::after
 {
   content: ' »';
 }

@@ -31,7 +31,7 @@ when you call `somethingClever` the following will be added to the log:
 
 For the debugging library, functions are omitted from the literal versions of objects, because they seldom change and are seldom what you're interested in when you're debugging.
 
-#### Requirements ####
+## Requirements ##
 
 Like the previous version of the debugging library, this version requires you to create a `pre` element with the id "trace".
 

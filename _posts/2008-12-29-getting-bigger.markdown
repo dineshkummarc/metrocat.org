@@ -12,7 +12,7 @@ Molly seems to be getting bigger and bigger every day. Just this morning, I awok
 
 My little girl had dressed herself.
 
-### Where's Christmas ###
+## Where's Christmas ##
 
 As Christmas morning dawned, Molly asked "Where's Christmas?" and "Can I see it?" That's when it dawned on me that I didn't exactly know how to explain the holiday in light of the fact that we're not practising Christians. I can't speak for Anna, but I don't particularly believe in the whole Christian mythos. And I certainly have questions about the behaviour of the Catholic church over the years.
 
@@ -26,7 +26,7 @@ Next on Molly's favourite list is the Thing. I don't know what to call it. And I
 
 Finally, Molly adores her Dora Play Tent. I'm not big on Dora, although I do think the [Saturday Night Live spoof of Dora](http://www.nbc.com/Saturday_Night_Live/video/clips/tv-funhouse-maraka/84996/) is very funny. But Molly just loves playing in the tent.
 
-### Next Year ###
+## Next Year ##
 
 We'd like to de-emphasise gifts next year. I'm not certain whether that can be done given the incredible marketing message of Christmas. We're trying to come up with some sensible ways to celebrate the Winter Holiday without racking up debt on everyone's credit cards...
 

@@ -48,13 +48,13 @@ Using the new Selector library, you could create widgets based on any CSS query 
 
 To be backward compatible, the node specifier (`div.header em`) should be checked to see whether it is an ID. This means that `#foo` would be equivalent to simply `foo`. Because presently, Coherent allows you to specify the ID of the node as a string without the preceding hash. Perhaps I can generate a deprecation warning...
 
-### Bindings and event handlers on sub-widgets ###
+## Bindings and event handlers on sub-widgets ##
 
 The second parameter to the widget declarations is how you may specify bindings for the sub-widget as well as events to handle. This hash should contain either key path entries (e.g. `htmlKeyPath`) or event handler entries (e.g. `onclick`). Essentially, after finding the node via a selector query, Coherent will enumerate the keys in this hash and for keys with a string value, call `setAttribute` on the node with the key and value. For keys with a function value, Coherent will observe the event of the same name as the key after stripping the `on` prefix (e.g. `onclick` &#x21D2; `click`).
 
 This is roughly similar to how the [`setupNodeWithSelectors` method](/2008/05/selectors-and-bindings) works. So this seems like a reasonable approach.
 
-### Changes to Coherent's OOP model ###
+## Changes to Coherent's OOP model ##
 
 In order to make this work, I'd need to tweak Coherent's OOP model a bit. Essentially, JavaScript assigns special meaning to using a function as the target of the `new` operator. What I'd be doing it taking advantage of this to branch and execute different code depending on how the _constructor_ was invoked.
 

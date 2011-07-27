@@ -7,7 +7,7 @@ categories:
 - Ajax
 ---
 
-#### Authentication baked into the framework ####
+## Authentication baked into the framework ##
 
 All the frameworks I've looked at have poor authentication support. Some don't have an authentication framework at all. Some support HTTP Basic Auth or HTTP Digest Auth. Others support form-based login withought HTTP auth.
 
@@ -15,7 +15,7 @@ Using form-based authentication is preferred for Web applications because you ha
 
 HTTP Authentication has the advantage of simplicity. You can use HTTP auth to secure a folder on your Web server with only a few configuration parameters. You also have a surprising amount of flexibility with HTTP auth: your user records can be stored in a DB or in LDAP or in a flat file.
 
-#### Authentication in an Ajax world ####
+## Authentication in an Ajax world ##
 
 I've been working with [TurboGears](http://www.turbogears.org) lately to build out the server-side of the CMS. One of TurboGear's halmark features is the ability to seamlessly return either XHTML or Javascript objects in [JSON](http://www.json.org/) format. That's huge if you're working with Ajax like I am. When you combine the JSON data with my [DHTML Bindings Framework](http://metrocat.org/nerd/2005/08/dhtml-binding-example), you've got a *really* powerful toolset.
 
@@ -33,7 +33,7 @@ I'm going to build my own content management system. I'll join the horde of open
 
 Now I want to talk about authentication for Web applications.
 <!--more-->
-#### Authentication baked into the framework ####
+## Authentication baked into the framework ##
 
 All the frameworks I've looked at have poor authentication support. Some don't have an authentication framework at all. Some support HTTP Basic Auth or HTTP Digest Auth. Others support form-based login withought HTTP auth.
 
@@ -41,7 +41,7 @@ Using form-based authentication is preferred for Web applications because you ha
 
 HTTP Authentication has the advantage of simplicity. You can use HTTP auth to secure a folder on your Web server with only a few configuration parameters. You also have a surprising amount of flexibility with HTTP auth: your user records can be stored in a DB or in LDAP or in a flat file.
 
-#### Authentication in an Ajax world ####
+## Authentication in an Ajax world ##
 
 I've been working with [TurboGears](http://www.turbogears.org) lately to build out the server-side of the CMS. One of TurboGear's halmark features is the ability to seamlessly return either XHTML or Javascript objects in [JSON](http://www.json.org/) format. That's huge if you're working with Ajax like I am. When you combine the JSON data with my [DHTML Bindings Framework](http://metrocat.org/nerd/2005/08/dhtml-binding-example), you've got a *really* powerful toolset.
 

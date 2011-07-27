@@ -21,13 +21,13 @@ Much as I love to criticise Microsoft, they are the only browser provider with a
 
 Both Apple and the Mozilla crew would do well to emulate Microsoft by releasing a debugger for their browsers. Apple already has a substantial lead over the Mozilla team because they have an incredible development environment available for free download. I don't know how difficult it would be to integrate Xcode and Safari, but someone should be looking into it. Mozilla should probably look into a plug-in for Eclipse to realise their goal of cross-platform support.
 
-#### Debugging Without A Debugger ####
+## Debugging Without A Debugger ##
 
 If you're like me and don't have a JavaScript debugger at your disposal, you can still take advantage of some of JavaScript's inherent power to make your life easier. Even if you do have a debugger (you're forced to target legacy, non-compliant browsers like Internet Explorer), you may find it more productive to simply instrument your code with trace statements.
 
 Unlike working with a debugger, code instrumentation doesn't allow you to inspect the state of your application adhoc, but when things aren't quite working the way you expect, tracing can give you a great deal of insight into the behaviour of your application. And because code with tracing runs only a little slower than code without tracing and considerably faster than single-stepping through code in the debugger, tracing is a valuable development tool whether you have a debugger at your disposal or not.
 
-#### Tracing in HTML Applications ####
+## Tracing in HTML Applications ##
 
 Attached to this article you'll find a JavaScript file containing a basic trace function. This function will display its arguments to a div with the ID "trace". You can use the `trace` function like so:
 
@@ -68,7 +68,7 @@ This works for all browsers other than Safari (there is a workaround for Safari 
 
 Safari users should pass the *magical* `arguments` object to `traceArgs` and everything will work just fine.
 
-#### What's Next? ####
+## What's Next? ##
 
 In future articles, I'll add to these meager debugging tools with a function that converts JavaScript objects into their literal string representations as well as some code timing and coverage functions.
 

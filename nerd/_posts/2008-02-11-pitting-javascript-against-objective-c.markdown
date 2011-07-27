@@ -11,7 +11,7 @@ In many ways, the API of Coherent is drawn from various Cocoa APIs: [NSKeyValueC
 
 I'm not certain that's such a great idea. After all, the target market for Coherent is _JavaScript_ programmers not Objective-C programmers. So just how important is it to mimic the API that Objective-C programmers will feel comfortable with?
 
-### Getters & Setters ###
+## Getters & Setters ##
 
 In Cocoa, classes declare getters and setters to access instance properties. The property getter is named the same as property, while the setter is prefixed with `set`. You might have the following code to access the name property of a class:
 

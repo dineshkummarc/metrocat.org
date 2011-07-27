@@ -74,7 +74,7 @@ That's a lot of looping. And there's a totally unnecessary loop over actionA and
 
 Wouldn't it be great if there were an optimising JavaScript compiler to make this pain go away?
 
-### Enter self-modifying code
+## Enter self-modifying code
 
 There's no optimising JavaScript compilers yet (and JScript.NET doesn't count because it's not JavaScript). So what if we wrote our own _self optimising_ code? There's some good [information on Wikipedia about self-modifying code](http://en.wikipedia.org/wiki/Self-modifying_code), but that's not exactly what I'm suggesting.
 
@@ -213,7 +213,7 @@ This is pretty gnarly code. Of course, I'm certain I could optimise this a bit t
 
 This function would be created using the form `new Function('actions', body)` to prevent creating a closure on the current scope. Then the function would be immediately executed to return the new animation object. The constants (total duration = 1000, duration of action[0] = 400, duration of action[1] = 500, start of action[2] = duration of action[0] + duration of action[1] = 900, duration of action[2] = 100) are the values that get calculated in the previous function `Chain`, but they can be literals now, because I'm only dealing with one action at a time. This shaves a few property accesses off the top during the tight part of the animation loop.
 
-### Complicating factors
+## Complicating factors
 
 Both of the previous examples were basically pretty simple: the first one limited the animation to actions running simultaneously but grouped logically, and the second one only examined a single sequence of actions. Naturally, a little more logic would be required to handle sequential actions and simultaneous actions or two simultaneous sequences of actions. But then the declarative syntax for the animation will have to be fairly flexible to begin with.
 
@@ -383,7 +383,7 @@ Because I've normalised the duration of the _total_ animation to 1.0, the math t
 
 Now there are some things I'm leaving out of this. What happens when the _first_ execution specifies t=1.0? Um... basically all hell breaks loose, because not all the parts are executed correctly. The compiler really ought to generate code for these sort of boundary cases, but I couldn't be bothered because the code was already pretty long for an example.
  
-### Is it worth the effort?
+## Is it worth the effort?
 
 So it's pretty clear that a lot can be done to generate code that will run faster than my existing code. Obviously, if you can generate your animation at page load and cache it, you can reap tremendous benefit if you reuse the animation many times. But overall, will it be worth the effort? Is the trade off of a longer set up worth faster executing animation loops? I don't know. In order to find out, I'll have to implement the compiler...
 

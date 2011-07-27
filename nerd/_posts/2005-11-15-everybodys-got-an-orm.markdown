@@ -17,7 +17,7 @@ My goals for an alternative ORM are the following:
 * Conservative Network Traffic -- In order to scale smoothly, Web applications (and any other application) must be extremely careful to optimise communication with the DB server.
 * Rich Support for Idiomatic Programming -- Reducing the number of compromises necessary just because the data will live in a database will make developing applications quicker, easier and ultimately more robust.
 <!--more-->
-#### Some Quick Examples ####
+## Some Quick Examples ##
 
 I just want to throw out a few quick examples before diving in. The examples all use the following model:
 
@@ -44,7 +44,7 @@ The Python code for this model looks like this:
 
 So far this doesn't look significantly different from entities defined when using SQLObject.
 
-#### No magic ####
+## No magic ##
 
 Python has some really cool features like metaclasses and first-class class types. However cool these features may be, overuse tends to leave developers feeling like magic is happening while they aren't looking.
 
@@ -61,7 +61,7 @@ The first bit of magic is where the column values get stored: because the attrib
 
 The second bit of magic is a metaclass (`EntityMeta`) that picks up the column descriptors and creates a *private* dictionary of columns and relations. The metaclass will also create a primary key if you didn't specify one, although you are permitted and even encouraged to define your own primary keys. The metaclass also adds each entity class to the `ClassRegistry`.
 
-#### Conservative network traffic ####
+## Conservative network traffic ##
 
 One of the things I like most about Hibernate (and it certainly isn't the XML push-ups necessary to get it configured) is the notion that nothing gets sent to the database until I commit the `Session`. This is *huge*. If I create a bunch of objects and after considerable work discover everything is all horked up, I call `rollback` and I've only wasted my own time. Nothing ever touched the database server.
 
@@ -73,7 +73,7 @@ Because the column values are stored in a *private* dictionary and accessed via 
 
 In the future, I'd like to load dependant objects (not discussed yet) and possibly the destination of to-one relations using joins during initial selects. I'd also like to have component objects, which are defined by columns in the same table as the component object's container. Consider an Author's address. You *could* have a separate table for addresses (usually what I do) or you could put the street, city, state, and zip code columns in the Author table. By defining a component object as defined by those columns, you get the advantage of object-oriented design and tabular simplicity.
 
-#### Rich support for idiomatic programming ####
+## Rich support for idiomatic programming ##
 
 Let's create a sample book:
 
@@ -114,7 +114,7 @@ Although I haven't actually written them yet, I fully expect to have both `list`
 
 Dictionary relations would require an intermediate table (unless the dictionary key is a value in the to-many object?) which would contain three columns: id1, id2, and dict-key.
 
-#### Plugging it together ####
+## Plugging it together ##
 
 Obviously there's a bit of code under the covers. The diagram below attempts to put some of the pieces in place.
 
@@ -140,7 +140,7 @@ Probably another example would help. I'll use a TurboGears-y example:
 
 Loading an object isn't quite as convenient as the equivalent code in SQLObject, but this allows entity objects to be stored in several different databases. And it's possible to do something clever like looking for a thread-local `Context` and loading the book via that.
 
-#### Fly in the ointment ####
+## Fly in the ointment ##
 
 Of course, all the code barely registers as Alpha quality code. But there's one nasty bug that I know about: using autoincrement key generators can mean some to-one relations don't get set correctly. There's an *easy* solution to this problem: I just need to rearrange the order in which objects are saved based on the to-one relations.
 
@@ -152,7 +152,7 @@ I'm fairly certain libraries like SQLObject also have this problem, but I've not
 
 So the trick will be to determine which entity allows a null value in the ToOne column and save that one first. Then save the other entity and update the first. Not perfect, but Relations (from which ToOne is derived) already have a notion about which side is the primary relation. So I can probably hook into that.
 
-#### Take a look ####
+## Take a look ##
 
 You're welcome to take a look at the source code. It's available from my subversion server (I love TextDrive):
 

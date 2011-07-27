@@ -10,13 +10,13 @@ categories:
 After squashing a couple nasty bugs this weekend, I got to thinking about the performance implications of my solution. In a nutshell, the solution required wrapping getter methods with code to establish the ownership link between the value and the object. This wrapping only occurs for properties that are observed or part of a dependent key relationship, but still, we're talking an extra layer of code.
 <!--more-->
 
-### It's UI code
+## It's UI code
 
 Fundamentally, the purpose of Coherent is to make writing the UI of Web applications more like writing the UI of desktop applications. And when you really think about the top needs for UI code, blinding speed just isn't one of them.
 
 For high-level code, I'd much rather trade off a little bit of speed in favour of a more flexible, de-coupled implementation. For low-level code, like CSS Selector engines, you absolutely _must_ have the fastest you can get. Until your browser supports the [W3C Selectors API](http://www.w3.org/TR/selectors-api/), like nightly WebKit builds, you want your JavaScript implementation to be as fast as possible. But for high-level APIs intended to speed application development, a few extra cycles lost here and there won't hurt.
 
-### Trade-offs
+## Trade-offs
 
 One of the trade-offs that I'm making revolves around when to perform the method wrapping. If this were desktop software, the model objects might live a life partially independent of the UI. It's conceivable your code might perform some sort of background processing and fill in your model objects. In that case, you don't necessarily want to be calling wrapped methods, you want every last drop of processor power at your disposal. In that case, you'd only want to wrap methods when the object becomes the target of an observer.
 
@@ -24,7 +24,7 @@ But for Web applications, the presumption I'm making is that the data wouldn't b
 
 So the trade off in this case is less time spent wrapping methods in exchange for a few more change notifications sent when no one cares.
 
-### Writing the code for you
+## Writing the code for you
 
 It's been suggested that Coherent could use a facility to automatically generate getter and setter methods. The syntax I'm thinking would be something like the following:
 

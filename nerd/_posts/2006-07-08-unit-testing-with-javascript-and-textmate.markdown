@@ -24,7 +24,7 @@ Of course, half the fun of unit tests is when they fail. And to be really useful
 
 I've wrapped all of this into a command for [TextMate](http://www.macromates.com/) which I've placed in my tweaked JavaScript bundle (I fixed the patterns for function definitions so they work across multiple lines). Now I can simply hit Cmd-T to run all the tests associated with my project. Or if there's no `tests` folder, the command runs just the tests in the current file.
 
-### Assertions ###
+## Assertions ##
 
 I've included most of the default assertion types that I'm familiar with.
 
@@ -40,7 +40,7 @@ I've included most of the default assertion types that I'm familiar with.
 
 Unlike many libraries, I've chosen to place the message first. This wasn't an arbitrary decision. I actually use the message to locate the line number of the test should it fail, because JavaScript doesn't include line numbers in thrown exceptions. So it's important that your failure messages be unique. If two tests have the same message or if there's no message (you bad developer, you), the library simply reports the line number of the test function and lets you figure it out.
 
-### Testing for Exceptions ###
+## Testing for Exceptions ##
 
 Just like in JUnit, you use a `try`/`catch` block to test for situations where an exception _should_ be thrown. For example:
 
@@ -56,7 +56,7 @@ Just like in JUnit, you use a `try`/`catch` block to test for situations where a
 
 I suppose I could come up with a more clever solution than this, but I didn't want to spend all my time on building the library. If you have any thoughts, don't hesitate to let me know.
 
-### Writing a Test ###
+## Writing a Test ##
 
 Tests are pretty simple. They self-register, so all you need to do is create one. For example, here's the first few tests of the base code for my DOM Bindings library:
 
@@ -110,7 +110,7 @@ In addition to test functions, you can write a `setup` and `teardown` function f
 3. Invoke the test function on the cloned fixture
 4. Invoke the cloned fixture's `teardown` function (again, there's an empty default defined on the `Test` class)
 
-### Supported Environments ###
+## Supported Environments ##
 
 At the moment, the unit testing library supports SpiderMonkey (and the TextMate bundle includes the SpiderMonkey JavaScript shell to execute it). However, I've got preliminary support for the Microsoft Windows Scripting Host -- I just need to do some more testing when I get a PC (like at work).
 
@@ -118,6 +118,6 @@ The [TextMate JavaScript bundle](http://nerd.newburyportion.com/downloads/JavaSc
 
 Finally, the binaries for SpiderMonkey and JavaScriptLint are PowerPC only. I've only built them from their makefiles; so they won't work as speedily on Intel Macs.
 
-### Update ###
+## Update ##
 
 I had to fix the original code that determined the line numbers for assert messages. It turns out that SpiderMonkey reformats the script significantly so what you get back from `fn.toString()` is _very_ different from what you originally wrote. The solution was to search the original source code. It's not terribly efficient, but the function only executes on an error anyway.

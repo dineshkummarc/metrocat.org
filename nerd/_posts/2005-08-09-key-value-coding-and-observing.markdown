@@ -13,7 +13,7 @@ This technology is built into Apple's Objective-C runtime and forms the foundati
 
 I've heard Cocoa developers bemoan the lack of Cocoa Bindings as they branch out into the world of Web programming. Well, Key-Value Coding and Observing is the first step on the road to delivering DHTML Bindings.
 <!--more-->
-#### Good To Have A Goal ####
+## Good To Have A Goal ##
 
 I've set myself the goal of implementing the core functionality behind Cocoa Bindings in JavaScript. This isn't an easy task, because unlike Apple, I don't control the runtime library. I have to work within the scope of the JavaScript language.
 
@@ -46,7 +46,7 @@ In JavaScript, while we *can* write accessors and mutators, there's no preventin
 	
 Allowing for differences in language syntax, this gives us roughly the same functionality as the accessors and mutators in Objective-C. Of course, in this example, the accessor and mutator are completely useless.
 
-#### A Brief Overview of Key-Value Coding ####
+## A Brief Overview of Key-Value Coding ##
 
 Key-Value Coding is an informal protocol which defines how to access an object's properties using textual names rather than hard-coded calls to accessors and mutators. For example, to access a Cat's name in Objective-C, I would type:
 
@@ -73,7 +73,7 @@ I'll agree, that isn't super ungainly. But with Key-Value Coding, it becomes:
 
 That's actually more typing. Yow! Why would anyone want to *use* Key-Value Coding?
 
-#### Observing Other Objects ####
+## Observing Other Objects ##
 
 Key-Value Coding is simply essential if you want to tie two objects together without those object having prior knowledge of the structure of each other: the glorious goal of loosely-coupled design.
 
@@ -86,7 +86,7 @@ Now, whenever `myCat's` `name` property changes, I'll be notified.
 
 You can read Apple's documentation on [Key-Value Coding](http://developer.apple.com/documentation/Cocoa/Conceptual/KeyValueCoding/index.html) and [Observing](http://developer.apple.com/documentation/Cocoa/Conceptual/KeyValueObserving/index.html) at you're leasure. I'm interested in applying this to JavaScript.
 
-#### Key-Value Coding in JavaScript ####
+## Key-Value Coding in JavaScript ##
 
 Because I also write Mac software, I've tried to keep the API of Key-Value Coding as similar to the Objective-C version as JavaScript will allow. So consider the following:
 
@@ -110,7 +110,7 @@ Like the Objective-C version of Key-Value Coding, you can slice Arrays too. Let'
 	
 The `namesOfSiblings` variable will now contain an array with the values: "Tim", "Magic", and "Madeline". To make this work, the Array object defines its own `getValueForKeyPath` and `getValueForKey` that return as an array the result of querying each element of the array for the same key or key path.
 
-#### Observing in JavaScript ####
+## Observing in JavaScript ##
 
 Observing property changes in JavaScript is a little different than in Objective-C. In part because JavaScript gives us some nice additional features and also because I simply didn't need all the features of the Objective-C implementation.
 
@@ -129,7 +129,7 @@ Observing property changes in JavaScript is a little different than in Objective
 	
 This declares a constructor for `CatObserver` objects which will report changes to the names of a cat's siblings.
 
-##### Structure of the ChangeNotification Object #####
+### Structure of the ChangeNotification Object ###
 
 The ChangeNotification has the following properties:
 
@@ -149,7 +149,7 @@ The ChangeNotification has the following properties:
 
 Conveniently, the `ChangeNotification` object defines a `toString` method which will display the basics of the change notification.
 
-#### Problems with JavaScript ####
+## Problems with JavaScript ##
 
 The JavaScript implementation of Key-Value Coding & Observing has one flaw, you can always access a property directly. And when you directly set a value for a property, I have no way of knowing it has changed.
 
@@ -176,7 +176,7 @@ I've bracketted the modification of the age property with calls to `willChangeVa
 
 When you call `willChangeValueForKey`, the key-value coding implementation caches the previous value of the key. Later when you call `didChangeValueForKey`, it uses this cached value to notify all observers. Clean and simple.
 
-#### Dependant Properties ####
+## Dependant Properties ##
 
 Sometimes a property is computed from the values of other properties. This is a *dependant* property, and key-value observing supports this just fine:
 
@@ -202,6 +202,6 @@ This constructor for a basic `Person` object declares in its final line that cha
 
 **Note:** the `fullName` property is read-only here, because I've declared an accessor but no mutator. Later when we look at DHTML Bindings, you'll see why that is important. For now, if you try to set a value for the `fullName` property, you'll get an exception.
 
-#### Code Coming Soon ####
+## Code Coming Soon ##
 
 The JavaScript code that implements Key-Value Coding and Key-Value Observing is nearly complete. I want to clean it up a bit more, add real support for Arrays, and write a couple examples. Expect it before the end of the week...

@@ -14,7 +14,7 @@ Jeff is somewhat more lucky. His hair was already gone. But our sanity, well, th
 
 In the meantime, let me document what we have tried to do in order to calm the savage wee colicky beastie.
 
-###THE "CHEMICAL" CURES###
+##THE "CHEMICAL" CURES##
 
 Zantac- Not my personal choice. Recommended by our first pediatrician, who diagnosed Molly with acid reflux, based on a brief verbal description by her frantic parents. Smelled like a chemical plant; must have tasted just as yummy, as Molly didn't even like to swallow it. Stopped torturing our child after two days, as the screaming didn't even remotely subside. Had the side effect of excess poo production.
 
@@ -28,7 +28,7 @@ Baby's Bliss GripeWater Liquid- So far, so good. Contains sodium bicarbonate, gi
 
 We are also going to try powder acidophilus and are contemplating another homeopathic cure, as recommended by Molly's chiropractor (who has helped to adjust Molly's neck- I'm sure not being able to turn her head to the left added to her annoyance). I have also tried drinking chamomile tea myself, and have had a beer (yes, gasp), neither of which helped Molly but made me feel a little more relaxed.
 
-###THE COMFORT CURES###
+##THE COMFORT CURES##
 
 Boob Juice -- Molly loves breastfeeding, and we both love to cuddle. However, it does seem counterproductive to feed her more if it bothers her tummy. Still working this out.
 
@@ -52,7 +52,7 @@ Swing -- Our Fisher Price Power Plus Swing, which plugs in the wall (Yay! No nee
 
 Massage -- Sometimes very effective, sometimes just annoying. I hope that this will soothe her more when the worst is over, but now it is effective to just try and calm us all down.
 
-###CONCLUSION###
+##CONCLUSION##
 
 Looking at this list, it is no wonder that Jeff and I are completely exhausted and going out of our minds. I can only hope that this is indeed colic we are battling, and that as such it will pass into memory within another month or two.
 

@@ -17,7 +17,7 @@ There are three primary ways to create new types of objects:
 
 If you're familiar with other object-oriented languages, you may be tempted to dive directly into constructors and miss all the excitement.
 
-#### Ad-hoc Composition ####
+## Ad-hoc Composition ##
 
 Perhaps the easiest way to create a new object is to build it as you go along. Consider the following code:
 
@@ -53,7 +53,7 @@ The previous example stashes the original value of the `display` attribute of th
 
 How would you do this in Java or C++? (It's not hard in Objective-C by the way.)
 
-#### Literal Objects ####
+## Literal Objects ##
 
 All languages allow you to declare literal strings and numbers, but you might not expect that JavaScript allows you to declare a literal object. The syntax is a little strange, but you'll get accustomed to it quickly. Reproducing the person example from the previous section, we have:
 
@@ -80,7 +80,7 @@ The definition of the `getFullName` method uses an anonymous function. According
 
 I frequently use object literals when I'd like to return multiple values from a function or when I have *somewhat* static objects that I'd like to declare without the overhead of constructors.
 
-#### Constructors ####
+## Constructors ##
 
 One drawback to both ad-hoc composition and literal objects is that they create Objects. That is, you don't get any default properties or methods other than those defined on the Object object (which are almost worthless). This is where a constructor comes to the rescue.
 
@@ -134,6 +134,6 @@ A more advanced constructor hides the definition of the `computeArea` and `compu
 		this.computeRadius= computeRadius;
 	}
 
-#### More To Come ####
+## More To Come ##
 
 There's a lot more that can be written about constructors and that doesn't even begin to cover prototypes. For example, did you know JavaScript can have both private methods and private properties?

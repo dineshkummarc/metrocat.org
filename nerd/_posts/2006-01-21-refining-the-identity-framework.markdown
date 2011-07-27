@@ -15,7 +15,7 @@ My goal for any API I develop is to keep things simple. This is especially true 
 
 So while there's still time before the 0.9 release, I've been wracking my brains to simplify while keeping in mind the developers who have more demanding needs. Today I checked in some changes that continue the trend towards making Identity easier to use and also make things a little more configurable.
 
-###IdentityFailure exception###
+##IdentityFailure exception##
 Previously there were a number of places where I would handle an access control failure. I'd set the errors into the CherryPy request and then <strike>throw</strike> raise an `InternalRedirect` exception. This meant you couldn't signal an access control failure of your own. That's simple, but not very flexible or powerful.
 
 Hence there's now a new exception, `IdentityFailure`, which you can raise (and which get's raised by the Identity framework) to signal that a custom access control check has failed. `IdentityFailure` is simply a subclass of the CherryPy `InternalRedirect` exception, so everything still works as expected. You pass the error or errors to the constructor before you raise the exception and the visitor will be directed to the appropriate URL.
@@ -23,7 +23,7 @@ Hence there's now a new exception, `IdentityFailure`, which you can raise (and w
     if identity.current.user.colour!="green":
         raise identity.IdentityFailure( _("You must be green to get in.") )
 
-###Callable failure URLs
+##Callable failure URLs
 Previously, you could specify a single URL to which the visitor should be redirected upon the failure of an access control check. You can still do that, but you can *also* use a `callable` instead of a string to allow customising the URL based on the particular error.
 
 So you could put the following into your config.py:
@@ -41,7 +41,7 @@ And then in your controllers file add a function, `url_for_identity_failure`, th
 
 This example would prompt the anonymous visitor to login while alerting registered users that they didn't have access to the resources.
 
-###Customising the model###
+##Customising the model##
 Creating a custom model for the default IdentityProvider was a little complicated, you had to specify the name of the module containing your model classes. And all classes *had* to reside in one module (yeah, not a horrible restriction, but not *really* necessary). Taking advantage of the new configuration mechanism, you now specify the classes for the identity model directly. Take the following config file as an example:
 
     identity.soprovider.model.user="test.model.User"
@@ -52,7 +52,7 @@ This assumes you have a project named `test`, which I do, and that your classes 
 
 *NOTE:* You shouldn't name your model classes `TG_User`, `TG_Group`, and `TG_Permission` because the `TG_` prefix is reserved for TurboGears framework classes.
 
-###Protecting an entire tree###
+##Protecting an entire tree##
 The Identity framework has offered two classes that promised to apply access controls to an entire controller tree: `SecureResource` and `SecureObject`.
 
 `SecureResource` is a mix-in class you can add to your controllers so that every exposed method and every sub-controller will be protected by the access control predicate specified in the `require` class attribute.

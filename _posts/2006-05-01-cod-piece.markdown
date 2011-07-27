@@ -9,7 +9,7 @@ categories:
 
 This evening Anna and I enjoyed some Wicked Chowder. This is a variation of a recipe called [Killer Shrimp](http://www.cyber-kitchen.com/recipes/Killer_Shrimp.htm) which I first read about on [Matthew Haughey's Ten Years of My Life](http://tenyearsofmylife.com/2005/01/16/).
 
-### Ingredients ###
+## Ingredients ##
 * 2 tbsps fresh or dried rosemary
 * 2 tsps thyme
 * 1 tsp black pepper
@@ -24,7 +24,7 @@ This evening Anna and I enjoyed some Wicked Chowder. This is a variation of a re
 * 1lb cod fillet
 * 1 loaf of sour dough bread
 
-###Directions###
+##Directions##
 1. Partially grind up the rosemary, thyme, and fennel seed. You should really still be able to see pieces of the spices rather than just spice dust.
 
 2. Put everything except the shrimp and cod into a pot and simmer for an hour or two until the broth has reduced a bit.

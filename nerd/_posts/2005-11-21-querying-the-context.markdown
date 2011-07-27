@@ -13,7 +13,7 @@ Probably the most graceful I've seen is the Pythonic query in [Dejavu](http://pr
 
 One of the least graceful is the SQLBuilder module which is part of [SQLObject](http://sqlobject.org). While I recognise the vast amount of really clever code that goes into making SQLBuilder work, I just find it icky. ***Note:*** *This is just my personal opinion.*
 <!--more-->
-#### High expectations ####
+## High expectations ##
 
 One of the goals for the querying facility within my ORM library is the ability to cleanly perform multiple queries. Given the following model:
 
@@ -27,7 +27,7 @@ One of the goals for the querying facility within my ORM library is the ability 
         
 I want to be able to perform the following query: Find the `Page` that was most recently modified. Currently this is pretty tough. I've not spent enough time with Dejavu to know how I would perform this query with that library, but I'm pretty certain this would be a *really* nasty rat's-nest of SQLBuilder code.
 
-#### First steps ####
+## First steps ##
 
 Last night I took the very first steps on the road to providing a clean query facility. I haven't yet built a parser for queries, so they must be built by combining objects (like SQLBuilder).
 
@@ -68,7 +68,7 @@ But eventually I want to have the syntax something like:
 
     context.fetch( User, "address.city='Newburyport'" )
 
-#### A fetched collection ####
+## A fetched collection ##
 
 One of the driving reasons behind creating this query code (beside the obvious ability to retrieve objects from the database) is a `Query` column for `Entities`. These `Query` columns would contain a predefined database query that can access properties of the host object. So if I were building a smart playlist like in iTunes, I might have:
 
@@ -78,6 +78,6 @@ One of the driving reasons behind creating this query code (beside the obvious a
 
 I think this would be *really* powerful.
         
-#### Parser generator ####
+## Parser generator ##
 
 Were I writing a C++ or Java library, I'd know where to go for a good parser generator. But what's the tool of choice for Python?

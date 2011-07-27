@@ -13,7 +13,7 @@ Just because JavaScript doesn't support classes, doesn't mean you can't write re
 <!--more-->
 Prototypes are an alternate form of inheritance that is every bit as powerful as classes, but not nearly as popular. Frequently developers who are only familiar with languages like C++, Java, or SmallTalk may look down on prototype inheritance. But the paradigm is *Object*-Oriented Programming, not *Class*-Oriented Programming.
 
-#### What's a Prototype ####
+## What's a Prototype ##
 
 Well, duh. Outside of programming circles this is obvious:
 
@@ -41,7 +41,7 @@ If you've read [What's an Object](http://metrocat.org/nerd/2005/07/31/whats-an-o
 
 Hence, in Javascript the prototype is the pattern for the real object.
 
-#### Assigning a Prototype ####
+## Assigning a Prototype ##
 
 You can't actually assign a value to the prototype property of an object, instead, you set a prototype as part of an object constructor function. Consider the following example:
 
@@ -56,7 +56,7 @@ You can't actually assign a value to the prototype property of an object, instea
 	
 The constructor here is pretty obvious, however, the line immediately following the constructor is where the trick occurs. Although, you can't assign a value to the prototype property of an existing object, you can (seemingly) create a prototype property for a constructor (which is itself an object, so this syntax can be a little bit confusing). When I create a new Cat object, `augustus`, using this constructor, the new object's `prototype` property will have a reference to the same Object instance as every other Cat object.
 
-#### What Good Is A Prototype ####
+## What Good Is A Prototype ##
 
 Whenever you access either a property or a method of an object, Javascript first attempts to resolve the property or method directly on the object. If the object doesn't have a property or method with the name you've specified, Javascript will next look on the object's prototype object. Therefore, any properties and methods of an object's prototype *appear* to be properties and methods of the object itself.
 
@@ -85,7 +85,7 @@ If we were to ask the `augustus` object what its `species` property contains, we
 
 This is different from the `name` and `age` properties. Even if we use the same string for the `name`, we'll still have two instances of the name.
 
-#### Inheritence Chain ####
+## Inheritence Chain ##
 
 Of course, nothing stops you from building a deep inheritence hierarchy.
 
@@ -130,7 +130,7 @@ The second interesting aspect of this example is I've added a `commonName` prope
 	
 The `commonName` property on Silvestris is still there, but it's hidden by the `commonName` property on Catus. This is exactly what happened when I defined a `toString` method for Cat earlier. The default `toString` method of Object is still there, but when you ask for the `toString` method, Javascript finds the version on the Cat prototype and stops looking before finding the method on Object.
 
-#### A Difference In Style Makes A Difference in Memory ####
+## A Difference In Style Makes A Difference in Memory ##
 
 Consider the two constructors below. The first creates a method and assigns it within the constructor while the second creates a method and assigns it to the prototype.
 

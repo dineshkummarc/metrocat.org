@@ -11,7 +11,7 @@ One of the more interesting methods of the Function object is `call`. This allow
 
 Yes, yes, nobody likes a Smart Ass more than me, but this really *is* interesting. You'll see...
 <!--more-->
-#### Functions Are Objects Too ####
+## Functions Are Objects Too ##
 
 Before explaining the `call` method of the Function object, it might make some sense to explain that in Javascript, functions are objects just like everything else. When you write the following code:
 
@@ -28,7 +28,7 @@ So you've created a global variable containing a reference to a function object.
 
 Because functions are objects, they have properties and methods -- just like other objects. The most interesting property of a function is the `arguments` property (from which you can construct a stack trace if you're not running Safari using the `caller` property of `arguments`). I think the `call` method is the most interesting method of the function object.
 
-#### Every Function Is A Method ####
+## Every Function Is A Method ##
 
 Every function is a method and has access to the `this` operator. In a global function, the `this` operator refers to the Global object (hence the global in global function). The Global object is where functions like `eval`, `parseInt`, and `parseFloat` are defined. And of course, where all your global functions are defined.
 
@@ -44,7 +44,7 @@ So every function has access to `this`. In other languages like C++ and Java, th
 	
 In the code above, there's nothing about the implementation of `fullName` connecting it to the two objects. Provided both objects have `firstName` and `lastName` properties, `fullName` will execute without error.
 
-#### Calling a Function Sets the `this` Object ####
+## Calling a Function Sets the `this` Object ##
 
 The first parameter of the `call` method is an object which will be the value returned by the `this` operator in the function.
 
@@ -61,7 +61,7 @@ In this example, the `obj3` object will be returned by the `this` operator insid
 
 You can pass additional parameters to call; each parameter will be passed in turn to the function.
 
-#### What Good Is It? ####
+## What Good Is It? ##
 
 You may well ask why the `call` method is important. When used in the key-value library, it allows me to extend objects with additional methods (in this case, event handlers) without poluting the namespace of the object. The observer list is a good example. Using the `call` method allows me to add behaviour specific to the keyPath I'm observing, when this behaviour may not be used in any other place. Because the function isn't made a method of the observing object, noone else can call it with potentially incorrect parameters. Only the observed object has access to this hidden function.
 
@@ -88,6 +88,6 @@ Deep inside the guts of the key-value observing code, you'll find the following 
 
 This code is nestled deep in the implementation of an object used to keep track of each observer for a key path. Notice, the first parameter, `this.observer`, will be the object returned by the `this` operator in the callback method.
 
-#### Dynamic Objects Means You'll Never Know What They'll Do Next ####
+## Dynamic Objects Means You'll Never Know What They'll Do Next ##
 
 Javascript is an incredibly dynamic language. By combining `eval` with creating functions and methods on the fly, you can develop extremely flexible solutions. It's precisely this flexibility that makes code like the key-value library and ultimately the DHTML bindings library viable.

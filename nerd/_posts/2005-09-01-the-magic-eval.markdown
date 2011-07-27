@@ -14,7 +14,7 @@ of an `XMLHttpRequest`.
 But `eval` can be tricky and extremely frustrating. Let's dive into some of
 the most critical aspects...
 <!--more-->
-#### What is `eval`? ####
+## What is `eval`? ##
 
 Most simply, `eval` is a method on the global object (AKA a global
 function) accepting a single string argument which it executes as either a
@@ -48,7 +48,7 @@ Common uses of `eval`:
 The first and second uses of `eval` are quite common, and I hope like hell
 the third use is rare, but I wouldn't be surprised if it were common.
 
-#### Scoping of `eval`uated code ####
+## Scoping of `eval`uated code ##
 
 One of the interesting aspects of `eval` is that the executed code has
 access to all the variables and functions defined in the enclosing scope.
@@ -79,7 +79,7 @@ beyond the execution context of the `eval` statement, but you have to stash
 them somewhere. This is easy if you know the names of the functions and
 variables, but impossible if you don't.
 
-#### Eval in the global scope ####
+## Eval in the global scope ##
 
 When Javascript code is `eval`uated in the global scope, the same rules of
 scoping apply. But *the code exists in the global scope*. This means its

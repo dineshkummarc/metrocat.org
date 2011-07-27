@@ -18,7 +18,7 @@ The Distil project should be named `distil.yml` and be placed in the root of you
 
 You can also abbreviate `-buildfile` as `-file` or simply `-f`.
 
-### An Example Distil File###
+## An Example Distil File##
 
 The following is a **very** simple distil project file. It has two targets: `all` and `login`.
 
@@ -53,7 +53,7 @@ Additionally, when built in debug mode (the default), distil will create a symbo
 
 Any top-level key/value pair that isn't an option is a target. While YAML will permit you to define your options anywhere in the file, you'll find it easier to understand your build file.
 
-### Target ###
+## Target ##
 
 A target inherits all of the global options and may define its own. The name of the target is used to form the name of the output files for this target. The standard format is:
 
@@ -66,7 +66,7 @@ The debug and uncompressed versions of the target's output files are similar:
 
 The `all` target is assumed to be your primary target &mdash; and for simple projects, your only target &mdash; so the name of its output files do not include the target name.
 
-### Options ###
+## Options ##
 
 These options may be defined either for the entire project or only for a specific target.
 
@@ -132,6 +132,6 @@ generate docs
 
 	This will build only the specified target (`webkit`) and turn on documentation for this build.
 
-### Conclusion ###
+## Conclusion ##
 
 Although Distil is a work in progress, I'm using it to build a production system containing 130 Javascript files and 20 CSS files.

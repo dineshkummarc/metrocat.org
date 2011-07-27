@@ -60,7 +60,7 @@ The buttons at the bottom allow visitors to cycle forward and backwards through 
 
 Go ahead, try it. It just works.
 
-### Parts is parts ###
+## Parts is parts ##
 
 Obviously, our widget is nothing without some HTML to hook it up to. Let's create the bare minimum of markup: we need an image to display the current photo, a paragraph to present the photo's caption, and two links to serve as our next and previous button. We'll rely on Safari's top-notch CSS support to make it all look pretty.
 
@@ -110,7 +110,7 @@ We also add listeners for the click event on both the next and previous buttons.
 
 For widgets like our photo gallery, it really is this simple. As your widgets get more complex, of course, your `init` logic will get a bit more complex. But by using sub-widgets, `Part`s and `PartList`s, your work can be less onerous.
 
-### Handling events ###
+## Handling events ##
 
 At the moment, our photo gallery isn't very interesting, but before we get into stuff that's specific to the Coherent library, let's implement the click event handlers to allow the visitor to switch between the available images.
 
@@ -167,7 +167,7 @@ Updating the navigation controls is similarly very simple: if we're at the begin
 
 That's it. Again, this is a pretty simple widget, but you'll find that using `Part`s and sub-widgets makes your event handlers considerably simpler.
 
-### Widget Properties ###
+## Widget Properties ##
 
 In the previous code fragment, you may have noticed two calls to an unfamiliar method: `setValueForKey`. This method is declared on the `coherent.KVO` class which is an ancestor of `coherent.Widget`. Essentially, calling `setValueForKey(newValue, keyName)` is equivalent to the following code:
 
@@ -206,7 +206,7 @@ Next we need to determine how the properties interact. In this case, the `select
 
 Normally, widgets will have considerably more properties than our photo gallery, but each property will be implemented roughly like `selectedImage`.
 
-### Data Binding ### {#data-binding}
+## Data Binding ## {#data-binding}
 
 Most widgets need to interact with the data from your application. (If not, what the heck do they do?) Widgets need to declare these data connection points, called bindings, so that Coherent can manage notifying the widget when a bound value changes. Widgets can also push changes out to the bound data as well, and Coherent will notify the owner of the data via a change notification.
 
@@ -243,7 +243,7 @@ Through the magic occurring behind the scenes, these two observer methods will c
 
 In most cases, your observer methods will not usually be this simple. However, you can often factor out some logic like the call to the method `updateNavigation` &mdash; which enables and disables the next and previous buttons.
 
-### Create the Widget ###
+## Create the Widget ##
 
 The data for our photo gallery could come from any where, but for now, we'll just hard-code some photos and captions into our HTML document. Our `galleryData` structure contains an entry for the index of the selected photo as well as an array of photos. These don't have to both be in the same place, in fact, a future tutorial will demonstrate using an `ArrayController` to manage the selection and an `AjaxController` to fetch the photos from Flickr.
 
@@ -280,7 +280,7 @@ Now that we have data, we can create our widget. All that's needed is to instant
                         selectedIndex: '*.selected'
                      });
 
-### See it in action ###
+## See it in action ##
 
 If this sounds simple, it really is. In case you didn't notice, the [photo gallery](#demo) at the top of the page was live. And if you'd like to see how it works, why not [download the source](http://localhost:8888/download/) and check it out?
 

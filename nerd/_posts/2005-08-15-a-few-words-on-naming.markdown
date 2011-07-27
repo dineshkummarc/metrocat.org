@@ -15,7 +15,7 @@ In the hopes that I might be able to influence your own naming scheme, I've set 
 <!--more-->
 To give credit where it is due, my naming guidelines are basically an adaptation of Apple's Objective-C naming guidelines. I've tried to make these guidelines work well with languages like JavaScript and C++.
 
-### Purpose of Naming Guidelines ###
+## Purpose of Naming Guidelines ##
 
 Why have a naming scheme? Why not just make it up as you go along? Heaps of software has followed this *process* for almost as long as there have been programmers. Developers frequently claim there just isn't enough time to plan out things like a naming scheme. Almost worse is when developers spend so much time arguing the nearly religious aspects of how functions and member variables should be named that they get nothing done.
 
@@ -23,7 +23,7 @@ At their best, naming guidelines are meant to help developers communicate with t
 
 Not all guidelines will apply to all languages, but a guideline helps developers understand what a function or variable does.
 
-### 1. Identify a Function's Arguments ###
+## 1. Identify a Function's Arguments ##
 
 Don't be afraid to describe a function's arguments as part of the name. I know function overloading is all the rage these days, but I'm actually not arguing against this. By identifying the arguments, you offer a developer reading your code hints about what the values you're passing mean to the function. If you name your function correctly, you will leave virtual blanks that users of your function feel compelled to fill in. And a properly named function makes it clear what types of values go in these blanks.
 
@@ -44,7 +44,7 @@ This doesn't break the naming guideline.
 
 It isn't necessary to name every single argument, especially if those arguments have default values.
 
-### 2. Function or Accessor? ###
+## 2. Function or Accessor? ##
 
 Functions which perform an action or calculate a value should begin with a verb. Hence we have `calculateAverageCostPerSeat` or `save` or `updateRowCount`. In this case, the return value of the function is likely to be less significant than the operation of the function.
 
@@ -65,11 +65,11 @@ You may opt to use the `get` prefix for functions which access non-intrinsic pro
 
 Of course, if you're using Java, your classes should be compliant with the prevailing Java practise of prefixing *all* accessors with `get`.
 
-### 3. Don't Abbreviate ###
+## 3. Don't Abbreviate ##
 
 Unless you're absolutely certain that no one will ever be confused, don't abbreviate. Use `count` instead of `cnt`. Use `index` instead of `idx`. But definitely use `Html` instead of `HyperTextMarkupLanguage`.
 
-### 4. Be Clear Who Owns What ###
+## 4. Be Clear Who Owns What ##
 
 If you're working in a language without Garbage Collection (you have my sympathy), you'll want to clarify ownership of created objects. Any function with `create`, `copy` or `new` in the name should confer ownership of the new resource to the caller. So if you have the following methods:
 
@@ -78,13 +78,13 @@ If you're working in a language without Garbage Collection (you have my sympathy
 
 The first function, `childWithId` returns a pointer to the child window with the specified ID. If the caller wants to make certain the child window persists, he'd better call `retain` or `addReference` or whatever. The second function creates a new window with the given frame rectangle. The caller receives ownership of this new object and is responsible for releasing it when appropriate.
 
-### 5. Naming Member Variables ###
+## 5. Naming Member Variables ##
 
 Give up on the stupid Hungarian Notation already. It's hardly ever been used correctly and even Microsoft doesn't use it any more in their latest software. Along with this, throw out the stupid `m_` prefix. You shouldn't ever be refering to member variables directly. Therefore, you won't need to know 
 
 But do make your member variables meaningful. Having a `count` variable really doesn't tell you as much as `numberOfWindows`.
 
-### 6. Naming Variables ###
+## 6. Naming Variables ##
 
 Everyone uses variables like `i` or `s` or `p`. That's just life. Most of the time those are actually meaningful names. Really. The following is actually good code:
 
@@ -98,6 +98,6 @@ Everyone uses variables like `i` or `s` or `p`. That's just life. Most of the ti
 
 Of course, you could bloat things out a bit by calling the iterator something like `windowIterator`. That would be more clear, but probably overkill. Developers understand loop variables.
 
-### 7. Above All, Be Consistent ###
+## 7. Above All, Be Consistent ##
 
 If you chose to start all your functions with uppercase letters, you'll probably be punished in the afterlife, but at least you should be consistent. Don't start some of your functions with lowercase letters and others with uppercase. Even if you think you've some clever scheme where lowercase denotes private or similar. Let the compiler be the final arbitrator of what's a private method. Furthermore, if you ever change your mind, you're stuck updating lots of code.

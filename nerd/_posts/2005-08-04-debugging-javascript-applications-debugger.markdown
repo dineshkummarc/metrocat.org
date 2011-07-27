@@ -26,7 +26,7 @@ I mocked everything up in HTML to make certain it worked correctly, then I trans
 
 Obviously when you've got all the kinks worked out, delete all that.
 
-#### Interoperability with Debugging Library ####
+## Interoperability with Debugging Library ##
 
 I've modified the debugging library to make certain it is compatible with the debugger library. However, you need to make certain you include the debugger after the debugging library, because the debugger redefines a function previously defined in the debugging library.
 

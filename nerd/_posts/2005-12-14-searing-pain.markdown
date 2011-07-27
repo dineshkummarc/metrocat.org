@@ -16,7 +16,7 @@ At long last, I've purchased a cell phone. I held out as long as I could. My cla
 
 I kept checking the Cingular and T-Mobile Web sites to see when they would support phones on the [iSync compatible phone list](http://apple.com/isync/), but they never did. Well, none that weren't from Motorola. Finally, I thought to check Amazon, where I found a nice phone from Sony Ericsson: the z520a. It doesn't suck (because it wasn't made by Motorola) and it works perfectly with iSync.
 
-### Synchronising on Macintosh ###
+## Synchronising on Macintosh ##
 
 Here's the complete process of synchronising my phone with iCal and Tiger's Address Book:
 
@@ -30,7 +30,7 @@ Here's the complete process of synchronising my phone with iCal and Tiger's Addr
 
 *Note:* I leave iSync hidden (Cmd-H) because I never interact with the UI.
 
-### Synchronising with Outlook ###
+## Synchronising with Outlook ##
 
 Windows doesn't have a built-in synchronisation service like iSync. Perhaps Microsoft will address this in Windows Vista when it ships in a few years, but I doubt it. And even if Vista *does* include a synchronisation service, it probably *won't* co-operate with Microsoft Outlook.
 
@@ -63,13 +63,13 @@ I *absolutely* have to exit the Sync Station software because it insists on poll
 
 Yes, I could put an alias to the Sync Station synchronise command on the task bar's quick launch area, but I wanted to compare out of the box experience.
 
-### No comparison ###
+## No comparison ##
 
 There really is no comparison between the Macintosh experience and the Windows experience. Synchronising with iSync is a pleasure, while synchronising on Windows is like scrubbing the backs of my eyeballs with sandpaper.
 
 Of course, the iSync experience isn't perfect. The little menu bar widget doesn't seem to work correctly unless iSync is actually running. So if it's running, why not just use the context menu from the dock icon? And I'd really love it if iSync would notice that the phone had come into range (yes, this is polling via Blue Tooth again) and automatically synchronise. Finally, when adding or updating contacts or iCal entries, it would be *so* cool if iSync would push out the updates once a minute or so.
 
-### Alternatives ###
+## Alternatives ##
 
 There might be an alternative to the Sony Ericsson synchronisation software, but if there is, I hold out slim hope that it will be easier to use. And even when Microsoft wakes up and decides to support devices other than WinCE devices with their Active Sync technology, I expect support to be limited and cumbersome.
 

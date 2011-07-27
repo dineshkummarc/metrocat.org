@@ -17,7 +17,7 @@ Wouldn't you know it? This just happens to be outside the function that catches 
 
 Fortunately, all of this Python stuff ships with source code. After pouring over the code for CherryPy, I've discovered I can magically change the `cherrypy.request.objectPath` value to the URL I would normally use as the parameter to `InternalRedirect`.
 
-#### Inadvisability of casting stones ###
+## Inadvisability of casting stones ##
 
 Of course, there's likely to be *someone* who'll point out that I still haven't documented the Identity framework. That's definitely true. I've been meaning to, but this whole product release at work has taken most of my attention and the rest has been consumed by writing an ORM for Python (I'm trying to crossbreed Hibernate and CoreData). But I haven't forgotten my obligation to document what I've built. Ultimately, the docs will include this spiffy diagram drawn in [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle/).
 

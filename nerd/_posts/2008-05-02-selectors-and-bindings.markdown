@@ -24,7 +24,7 @@ The offensive parts to the purists are `contentKeyPath`, `srcKeyPath`, and `text
 
 I understand &mdash; really, I do &mdash; the whole separation of presentation from content and content from behaviour. However, in this particular case, I'm not actually marking up the content. I'm marking up the template for the content. To me, it makes a difference. But I understand I'll never convince you if you're already against custom attributes.
 
-### An alternative to custom attributes ###
+## An alternative to custom attributes ##
 
 So the other day I was kicking around an idea for an alternative syntax for describing the bindings between elements and the data model. Ideally I could have a format similar to the following:
 
@@ -76,7 +76,7 @@ So now I'm thinking in terms of what the _right_ API should be for this. I'm thi
 
 But imagine my surprise when I read about [the wacky behaviour of `querySelectorAll`](http://ejohn.org/blog/thoughts-on-queryselectorall/) this morning. This potentially explains some bugs I experienced the first time I tried to implement the selector API. I'm not entirely certain where I come down on the issue. But it sure _seems_ that if you're going to add a native feature to provide similar functionality to the numerous selector engines available, you should probably define the spec as closely as possible to the majority behaviour.
 
-### Mimicking "standard" behaviour ###
+## Mimicking "standard" behaviour ##
 
 I think my best bet is to mimic the standard behaviour of the prevailing libraries. My initial solution is to prefix the selector with the ID of the scope node. So in the call above, the selectors translate as follows:
 

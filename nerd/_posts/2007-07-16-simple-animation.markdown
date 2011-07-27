@@ -55,7 +55,7 @@ These examples take advantage of closures to return a function (`animate`) that 
 
 Additionally, each returned `animate` function has an optional `setup` and `finish` method. These methods allow the `Animator` to make certain the node or nodes are in the correct configuration before beginning. And in the case of the `finish` method for `FadeOut`, the node is hidden and its opacity is cleared. This leaves the node in a standard state.
 
-### Get Animated ###
+## Get Animated ##
 
 At this point, we have functions that will either fade in or fade out a node. All we need to do is step over the values between 0 and 1 and our nodes will fade like mad.
 
@@ -96,7 +96,7 @@ The inner animation function will never be called with the value 0, because the 
 
 When the animation reaches the end (1==t), we call the `finish` method if one is defined, and terminate the animation by returning without resetting the timeout.
 
-### Get Smart ###
+## Get Smart ##
 
 The previous animator function was very naive. Why? Because it doesn't account for the speed of the machine performing the animation. If the delay between steps winds up being greater than the computed `stepDuration` value, your animation will lag. To see how this can be a problem, point your iPhone browser at the [online Apple store's iPhone Gallery page](http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore.woa/wa/RSLID?nnmm=browse&tg_tabcontroller=tab5&mco=80BBAD87&node=home/iphone/iphone). The animations are very chunky, because the iPhone's JavaScript engine runs slower than the JavaScript engine on my MacBook Pro.
 
@@ -134,7 +134,7 @@ What we need is something that is responsive to the speed of the JavaScript engi
 
 What's the difference? Well, for starters, we've got a new variable `start` which records the time at which the animation began. More importantly, rather than simply incrementing the time (`now+= stepDuration;`) we're actually determining the current time (`now= (new Date()).getTime();`). This is hugely important, because if your browser's JavaScript engine is slow, it might actually take longer than `stepDuration` milliseconds between each animation frame. This animator function will compensate for that by dropping frames.
 
-### Get Fast ###
+## Get Fast ##
 
 You may have been wondering why the animation functions are structured like they are. All animation functions follow the same structure:
 
@@ -157,7 +157,7 @@ Why didn't I use real JavaScript objects instead of returning a whacky function 
 
 Remember back in the `animator` function how we call the `animate` method returned from the factory function: `fn(t)`. If we'd returned an object from the factory instead of a function, this call would have looked like the following instead: `animate.run(t)`. The problem is this would have required an additional property look up before calling the function. Of course, I could have pulled out the `run` function and called it via its `call` method. But why? The `animate` functions don't have any state. Why should they be objects.
 
-### Get Clever ###
+## Get Clever ##
 
 I can think of one last improvement for our `animator` function: playing multiple animations at the same time. Let's say you want to fade in an object while moving it from left to right, our current `animator` function would leave you cold.
 
@@ -211,6 +211,6 @@ This function will execute any number of `animate` functions. It does it _rather
 
 This is why I didn't use either prototype's `Enumerable.each` or `Array.forEach`. Either one would have incurred considerable overhead. Prototype's `each` method would have imposed 3 additional function calls, while `forEach` imposes 2 additional function calls (although for FireFox and Safari 3 one of those calls would be to native code). For native code implementations of `forEach` it _might_ be worth the additional function call. Otherwise, there's no way it would be faster than an inline `for` loop.
 
-### Get Going ###
+## Get Going ##
 
 Just a few thoughts on animation before I get around to writing about the joy of QuickTime. I haven't forgotten.

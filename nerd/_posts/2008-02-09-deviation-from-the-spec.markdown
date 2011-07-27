@@ -10,7 +10,7 @@ categories:
 As I'm writing the documentation for various parts of the library, I've come across several places where I'm not adhering to the Cocoa spec exactly. In some cases, I think my implementation makes better sense for JavaScript. But in others, it's clear in hind sight why Apple chose to design the API the way it did.
 <!--more-->
 
-### Deviant arrays ###
+## Deviant arrays ##
 
 A good example of the differences between JavaScript and Cocoa can be seen with how the two environments handle arrays. In Cocoa, arrays are separated in the mutable and immutable instances, while, in JavaScript we only have mutable arrays. Additionally, in Cocoa, all access to arrays is via messages like `objectAtIndex:` and `insertObject:atIndex:`. In JavaScript, access to array elements is not constrained to methods we can override; developers can use direct element access to change the contents of the array without letting us know. Furthermore, you can't reliably create a subclass of JavaScript's Array.
 
@@ -31,7 +31,7 @@ In Cocoa the equivalent code would be:
 
 (Of course, there may be an easier way to do this, but it mimics the call used on the JavaScript side.)
 
-### To throw, or not to throw ###
+## To throw, or not to throw ##
 
 One more deviation I've noticed surrounds what to do when `valueForKey` encounters a missing property. In Cocoa, the documentation for `valueForKey:` states:
 
@@ -43,7 +43,7 @@ But I think I've implemented this wrong. As a result of my decision there is no 
 
 On the other hand, Cocoa makes no distinction between a null value caused by an object not having a value for a particular key and a null value caused by an ancestor being AWOL along a key path. Let me illustrated this with some example code:
 
-#### Foo.h ####
+### Foo.h ###
 
 	@interface Foo : NSObject
 	{
@@ -53,7 +53,7 @@ On the other hand, Cocoa makes no distinction between a null value caused by an 
 	@property (readwrite, assign) Bar* bar;
 	@end
 
-#### Bar.h ####
+### Bar.h ###
 
 	@interface Bar : NSObject
 	{
@@ -63,7 +63,7 @@ On the other hand, Cocoa makes no distinction between a null value caused by an 
 	@property (readwrite, copy) NSString* name;
 	@end
 
-#### Foo.m ####
+### Foo.m ###
 
 	@implementation Foo
 	@synthesize bar;

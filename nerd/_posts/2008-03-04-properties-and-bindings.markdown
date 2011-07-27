@@ -13,7 +13,7 @@ Possibly the two most important concepts in the Coherent library are properties 
 
 
 
-### Properties ###
+## Properties ##
 
 In object oriented programming, a property is any attribute of an object. Technically properties might be public or private, but principally, I usually think of properties as publicly accessible values. Any bit of code may query the value of a property or set its value.
 
@@ -73,7 +73,7 @@ This may not seem like a big difference, but you'll notice it when you go to use
 
 This may feel natural if you're a C++ or Java programmer, but then you're also probably accustomed to chewing broken glass, sticking needles in your eyes, and other painful party tricks.[^cpp]
 
-#### Observing properties ####
+### Observing properties ###
 
 One feature built into Coherent is the ability to observe the changes made to an object's properties. For any KVO-compliant[^kvoCompliant] object, you may add an observer via a call to:
 
@@ -104,7 +104,7 @@ The second technique is to modify your properties by calling `setValueForKey` or
 
 Not substantially different, but if you call `setValueForKey` more than once, you (might) get more than one change notification.
 
-#### Coalesced property changes ####
+### Coalesced property changes ###
 
 One of the important responsibilities of the `willChangeValueForKey` and `didChangeValueForKey` pair is to coalesce property changes. If you plan to call multiple methods that might trigger changes for a particular property, you can wrap those calls with a `willChange`/`didChange` pair. The change notification will only be triggered when the final `didChangeValueForKey` method is called.
 
@@ -112,7 +112,7 @@ Additionally, the first time `willChangeValueForKey` is called, it will retrieve
 
 Property change coalescing occurs no matter how you update your properties. So whether you call `setValueForKey`, `willChangeValueForKey`/`didChangeValueForKey`, or write your own getter/setter methods (e.g. `getFoo` and `setFoo`), if the _new_ value isn't any different than the existing value, no change notification will occur.
 
-### Bindings ###
+## Bindings ##
 
 At their most simple, bindings are a two way method of keeping objects synchronised without having to write an enormous amount of glue code. Through a binding, you are creating a mediated connection between a view or controller and your data model. Changes to one are reflected in the other automatically.
 
@@ -182,13 +182,13 @@ As you modify the value in the input field, the values are pushed into your data
 
 <div class="figure"><img src="/wordpress/wp-content/uploads/2008/03/binding21.png" alt="binding2.png" border="0"   ></div>
 
-#### Bindings can be properties too ####
+### Bindings can be properties too ###
 
 It isn't necessary to expose your bindings as properties, but it can be useful. For example, the `InputWidget` exposes a `value` binding, however, the `value` binding isn't also exposed as a property: you can't call `setValue` and `getValue` to retrieve the current widget value. On the other hand, the `ObjectController` exposes the `editable` binding and also has an `editable` property.
 
 Typically, when a property is also exposed as a binding, setting the property should immediately set the binding. So, in the case of the `ObjectController`, setting the value of the `editable` property will automatically update the object at the other end of its `editable` binding.
 
-### Wrapping it up ###
+## Wrapping it up ##
 
 An understanding of properties and bindings is essential to making effective use of Coherent. With luck, this overview has shed light on some of the essential details and given you confidence to dive in and write some code. It won't hurt. I promise.
 

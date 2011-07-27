@@ -11,10 +11,10 @@ Perhaps I've already told you that <a href="/photography/our-cats/augustus-in-a-
 
 You'll want the following ingredients:
 
-###Size Right Harness
+##Size Right Harness
 This is the best harness I've found yet. We've tried a couple and this one is easy to put on and really doesn't seem to annoy Augustus at all.
 
-###Retractable Lead
+##Retractable Lead
 Augustus doesn't like a woven nylon leash because it actually weighs something and he feels like he's _restrained_. However a retractable lead uses a thin nylon string which seems to weigh almost nothing (plus it's longer). You can get a good [16' long lead from PetsMart][1]. 
     
 Of course, having all this equipment is great; but it won't make your cat <i>like</i> walking on a leash. In the past, numerous people have weighed in with their advice on helping a cat acclimate to a harness: all of it turned out to be bunk. The least accurate was, "Put the harness on him while he's in the house and let him wear it for a while to get comfortable with it." I can tell you first hand, he'll never grow comfortable wearing a harness. He's a bloody cat and cat's don't wear harnesses.

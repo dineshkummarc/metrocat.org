@@ -17,7 +17,7 @@ Given that browsers *have* to implement this sort of thing for CSS (well, maybe 
 
 It isn't too hard to build some JavaScript which will parse this.
 <!--more-->
-#### Traversing the DOM ####
+## Traversing the DOM ##
 
 First I need to break up the path into its components. A simple `split` will suffice. Then I'll need a regular expression to match the various components of the element reference: tag name, id (or name), and index.
 

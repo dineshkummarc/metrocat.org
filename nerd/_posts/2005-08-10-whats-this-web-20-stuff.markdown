@@ -28,7 +28,7 @@ Here's my list of what the Web really needs to be a credible 1.0 environment:
 4. Other stuff
 
 
-#### Model View Controller Framework ####
+## Model View Controller Framework ##
 
 Josh turned me on to a article by an IBM blogger [comparing Web 2.0 and MVC](http://www-128.ibm.com/developerworks/blogs/dw_blog_comments.jspa?blog=392&entry=92098&ca=drs-bl). It's a cool article, but it glosses over the fact that one of the greatest approaches to building robust user interfaces is completely missing from Web applications.
 
@@ -58,7 +58,7 @@ That covers both the Model and the View. You'll probably still have to write the
 
 And for god's sake, figure out how to do *real* undo.
 
-#### Stateful, Persistent, Two-Way Network Connections ####
+## Stateful, Persistent, Two-Way Network Connections ##
 
 Don't get me wrong, having XMLHttpRequest built into every modern browser is really nice. I've used it now in a host of little ways from the [search field on this Web site](http://metrocat.org/nerd/2005/08/05/search-via-ajax) to long-running server processes which would otherwise cause the form submission to timeout. But XMLHttpRequest is a one-shot, one-way communication mechanism: the server can't call me to let me know something interesting has happened.
 
@@ -76,7 +76,7 @@ Don't even bother suggesting SOAP. SOAP is dead as far as I'm concerned. It gave
 
 That's where XMLHttpRequest (and the whole Ajax thing) wins big: everyone can understand it. Hell, the whole API for XMLHttpRequest only has a handful of methods. That's so easy even I grasped it the first time I read it.
 
-#### Scalable Vector Graphics in *ALL* Browsers ####
+## Scalable Vector Graphics in *ALL* Browsers ##
 
 SVG has been around for ages. Really. Ages. I can remember talking to an investor about building a Web-based Visio application using SVG. At the time support was limited to a plug-in from Adobe. But now browsers are starting to include support for SVG natively. [Eric Seidel has started implementing SVG in Safari's WebCore.](http://webkit.opendarwin.org/blog/?p=7). The Mozilla project is working steadily on [adding SVG to Firefox](http://www.mozilla.org/projects/svg/).
 
@@ -84,7 +84,7 @@ Basically, I'm tired of using images to *draw* my Web application's interface. I
 
 This is so simple that there really isn't much more to write about it. Let's implement SVG already.
 
-#### Other Stuff ####
+## Other Stuff ##
 
 Of course there's other stuff I'd like to see in the Web application platform. Most of it is minor: like being able to reliably specify that a page should occupy the entire browser window.
 

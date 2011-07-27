@@ -13,7 +13,7 @@ Just one of the things that made me shake my head: *"The primary mechanism by wh
 
 Bzzzt! Wrong. And you've got a PhD? In What?
 <!--more-->
-### The danger of experts ###
+## The danger of experts ##
 
 Now I don't really have a problem with some kid standing up on his virtual soap box and making a fool of himself before the ink is even dry on his precious PhD sheepskin. What I really have a problem with is the general calibre of developer using Javascript is such that this sort of mistake will be accepted as gospel.
 
@@ -21,7 +21,7 @@ How do I know? Well I didn't stumble across this Web site out of thin air. I enc
 
 What's worse, is some of the code is quite good. I'd question the need for quite a lot of it, but that's just because I'm very comfortable with Javascript and don't need an extensive library like this.
 
-### I'm no expert ###
+## I'm no expert ##
 
 If you ever catch me claiming to be an expert at anything, call bullshit. I've written a lot of software over the years for numerous platforms with a variety of languages and libraries. That gives me perspective.
 
@@ -29,7 +29,7 @@ And I'm naturally opinionated. (Ask anyone who knows me well.)
 
 Of course, I have a way of stating things that would enable you to *think* I'm an expert: I don't go in for self doubt in the realm of software design. But I frequently change my mind when someone questions my ideas, because it's just code.
 
-### Providing an alternative voice ###
+## Providing an alternative voice ##
 
 I once worked for a guy who classified software developers into two groups: those that *got it* and those that didn't. Of course, *getting it* was solely defined by him. But I like that description. Each of us finds somethings come naturally. For some of my colleagues, developing complex algorithms comes easily. For me, my brain overheats and melts down if I have to think up anything more complicated than a basic sort algorithm.
 

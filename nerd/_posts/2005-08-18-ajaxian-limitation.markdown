@@ -14,13 +14,13 @@ Typically when returning HTML using an XMLHttpRequest object I set the `innerHTM
 
 Let's find out...
 <!--more-->
-#### Ajax Is All About Rich Content ####
+## Ajax Is All About Rich Content ##
 
 When I first started writing Web applications back in 1995, "rich content" meant anything with images, sound, and words. Behaviour didn't enter into it because scripting wasn't really possible, and even when it became possible with the first generation of Javascript, there wasn't really much you could accomplish with it.
 
 Today, "rich content" is almost synonymous with dynamic content. Behaviour is almost a required feature of rich content. So it seems reasonable that you might want to return rich content from your XMLHttpRequest.
 
-#### Problems Returning DHTML from XMLHttpRequest ####
+## Problems Returning DHTML from XMLHttpRequest ##
 
 Most of my early uses of XMLHttpRequest simply return HTML. No script elements. No behaviour. Static, non-rich content. But that means the behaviour of your Web application is fixed. You must load all the Javascript include files you *might ever need* when the browser first parses your HTML file. That's not a good recipe for modular software design.
 
@@ -37,7 +37,7 @@ In the past, when the XMLHttpRequest completed, I would take the `responseText` 
 
 Unfortunately, this will not process any `script` tags contained within the `responseText`. Check out this [example](http://metrocat.org/nerd/examples/ajax-scripting-test1.html) of storing an HTML fragment with a `script` tag to the `innerHTML` property. Were the `script` tag processed, we'd see an alert box. No alert box, therefore, `script` tag not processed.
 
-#### Alternatives to Fetching DHTML ####
+## Alternatives to Fetching DHTML ##
 
 There are two simple alternatives that will solve this problem admirably.
 
@@ -48,7 +48,7 @@ There are two simple alternatives that will solve this problem admirably.
 
 I'm not known for taking the easy way out. I want to solve this problem.
 
-#### Evaluating `script` Tags ####
+## Evaluating `script` Tags ##
 
 It would seem the answer is to evaluate the `script` tags in the response from XMLHttpRequest. This shouldn't be too hard. The first step is to evaluate each `script` tag in the response:
 
@@ -75,7 +75,7 @@ It would seem the answer is to evaluate the `script` tags in the response from X
 
 Unfortunately, this doesn't propagate functions defined in the fetched DHTML to the global scope. That's an unacceptable limitation.
 
-#### Giving Up, For Now... ####
+## Giving Up, For Now... ##
 
 I've tried numerous ways to massage the script tags into something that will work correctly, but the only solutions mean writing weird and wacky Javascript. I hate weird and wacky syntax.
 

@@ -11,7 +11,7 @@ You probably think you know the answer to this one, but I'd bet you can't put it
 
 Objects in JavaScript are associative arrays (such as in Perl). This opens up a number of powerful techniques to the daring JavaScript programmer. You are daring, aren't you?
 <!--more-->
-#### Accessing an Object's Attributes ####
+## Accessing an Object's Attributes ##
 
 We're all familiar with accessing an objects attributes via the dot operator (.), however, you may not be aware that you can also access an object's attributes using the array operator ([]). Here's an example:
 
@@ -67,7 +67,7 @@ You can also iterate over all the attributes of an object using the `in` operato
 			return "{}";
 	}
 			
-#### Object's Really Don't Have Methods ####
+## Object's Really Don't Have Methods ##
 
 I know you've been told otherwise. And you've even called methods on objects. Or you think you have.
 
@@ -98,6 +98,6 @@ Remember, functions are objects too. And all functions have a *method* named `ca
 
 (Note: I don't think there are any implementations of JavaScript that really translate method invocations like this. But it helps to think about how this all works. I plan to cover the `call` method in depth in a later article.)
 
-#### Objects Everywhere ####
+## Objects Everywhere ##
 
 Not only is everything an object (even string and numeric literals), but you can create your own objects. However, creating your own objects begins to expose some of the real complexity of JavaScript, and is best left for another article.

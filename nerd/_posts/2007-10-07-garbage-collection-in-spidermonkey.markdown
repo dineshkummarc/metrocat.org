@@ -72,7 +72,7 @@ It turns out, what I needed to do was install a garbage collection callback to m
 
 Rather than recount my trial and error process, I'm simply going to jump to the solution.
 
-### SetGCCallbackRT: install a garbage collector callback ###
+## SetGCCallbackRT: install a garbage collector callback ##
 
 The first step is to install the garbage collector callback. You might be tempted to use `SetGCCallback` rather than `SetGCCallbackRT`, because you probably have a `JSContext*` hanging around -- since you need one for almost every call. That might fool you into thinking you can have a GC callback for each context, but you can't. Under the covers, `SetGCCallback` simply gets a pointer to the `JSRuntime` and calls `SetGCCallbackRT`. So I figure it's better to be specific about what I'm doing.
 
@@ -181,7 +181,7 @@ The last piece is the actual garbage collector callback function. Even it does a
         return JS_TRUE;
     }
 
-### Marking your objects ###
+## Marking your objects ##
 
 So if the boiler plate of the `GCManager` mix in does about what you'd expect, where is the unexpected bit? There really isn't any. There are just two more functions you'll need: `JS_IsAboutToBeFinalized` and `JS_MarkGCThing`. And you can undoubtedly guess what these functions do.
 

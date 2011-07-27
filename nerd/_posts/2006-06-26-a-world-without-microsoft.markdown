@@ -15,7 +15,7 @@ Wilcox suggests that Microsoft's competitors jump on the opportunity to sow Fear
 
 Well, who are Microsoft's competitors in the desktop operating system market? I mean really.
 
-### What about Linux? ###
+## What about Linux? ##
 
 There simply isn't a Linux distribution that's actually ready for the desktop. Oh, I don't mean the distributions aren't stable or that they don't ship with interesting applications. But for all the effort that folks like Ubuntu put into it, there's just no polish and consistency. Say what you want about Microsoft's UI, but applications that follow the rules look consistent. On Linux there's at least three major widget libraries and they all look slightly different. RedHat and Ubuntu have done a good job of making the different kits look _mostly_ alike.
 
@@ -23,7 +23,7 @@ But visual consistency isn't the big problem facing Linux. The real problem is t
 
 So the truth is, it doesn't matter how good Open Office or AbiWord actually _is_. Neither application is Microsoft Office.
 
-### What about Mac OS X? ###
+## What about Mac OS X? ##
 
 While I'd like to think that Microsoft's continued troubles is a great opportunity for Apple to carve a chunk out of Windows' market share for Mac OS X, I don't think it will. Oh, don't get me wrong: if Apple has competent corporate sales reps, they'll be starting to instil doubt in the minds of the CIO and IT staff who might be customers for Apple hardware. Part of the message that Apple can offer is that in addition to playing well in a Windows network, Mac OS X can run Microsoft Office. And now, with the Intel Core Duo-based Macintosh, you can run legacy Windows applications via Parallels or whatever product Apple ships with Leopard. This is a really compelling message, but it has one significant flaw: Apple isn't really trying to sell Mac OS X, it's trying to sell Macintosh hardware.
 
@@ -35,7 +35,7 @@ Apple can crack this nut by selling their hardware running Windows XP. Imagine t
 
 Do I really think this will happen? Maybe in a few companies. Especially in companies where the CIO personally likes Macintosh hardware better than the boring beige boxes offered by the likes of Dell, Gateway, HP and others. But it really won't happen large scale. Why? Partly because I don't think Steve Jobs would sell an iMac running Windows. Not an iMac that _can_ run Windows, which he already sells. But an iMac that starts up out of the box and boots directly into Windows XP.
 
-### So who? ###
+## So who? ##
 
 The answer to my wife's question, "What happens if Microsoft doesn't ship the next version of Windows?" is nothing happens. At the moment in the operating system market, the only competitor to Windows Vista is Windows XP. This is the same problem Microsoft faces with the upcoming version of Office: fragmentation. There will be a tremendous number of companies for whom updating to Vista just isn't worth the effort. There just isn't enough in Vista to make the transition attractive.
 

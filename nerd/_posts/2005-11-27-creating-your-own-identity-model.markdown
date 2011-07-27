@@ -15,13 +15,13 @@ So it makes sense to provide a short tutorial on how to create an alternate mode
 
 <!--more-->
 
-### Location of Identity information ###
+## Location of Identity information ##
 
 A visitor's identity can be presented either via form fields or a cookie. You can configure the names of the form fields and the cookie via configuration parameters.
 
 Future versions of the Identity filter might also look for identity credentials in HTTP Authentication headers and Atom Authentication headers. But today the two options are form fields and cookie.
 
-#### Identity in the form ####
+### Identity in the form ###
 
 The filter first checks to determine whether the request contains identity credentials in the form fields. This allows visitors to authenticate as a different identity from whatever the cookie contains.
 
@@ -43,7 +43,7 @@ Once the cookie has been sent back to the visitor's browser, the identity is ret
 
 For subsequent requests, the visitor's identity can be retrieved from the cookie.
 
-#### Identity in a cookie ####
+### Identity in a cookie ###
 
 After a visitor authenticates using the login form, his browser will send the identity cookie on each request. The sequence of operations for the identity filter then becomes similar to the diagram below:
 
@@ -63,7 +63,7 @@ However, if the signature is valid, the provider then checks to determine whethe
 
 This identity is then returned to the filter, which stashes it in the `current` variable for use by your controllers.
 
-### Creating a new model ###
+## Creating a new model ##
 
 Since not everyone is happy with the default model objects (I'm not either, but you don't want my model objects either).
 
@@ -106,7 +106,7 @@ That was easy. Now the slightly more complicated items:
         members= RelatedJoin( "User" )
         permissions= RelatedJoin( "Permission" )
 
-### Connecting our model ###
+## Connecting our model ##
 
 We now need to inform the default Identity provider, SqlObjectProvider, which classes it should use to handle the database. This is done with a few configuration statements in your `def.cfg` or `production.cfg` file.
 
