@@ -36,7 +36,7 @@ You explore the fun that is the SpiderMonkey Garbage Collection API.
 
 I posted the following to the development list on Wednesday.
 
-> **Date:** Wed, 03 Oct 2007<br>
+> **date:** Wed, 03 Oct 2007<br>
 > **From:** Jeff Watkins<br>
 > **Subject:** GC & Caching JSObjects again<br>
 > **To:** SpiderMonkey Dev List<br>

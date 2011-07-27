@@ -15,6 +15,12 @@ module Jekyll
       if @site.config[yaml_section]
         self.data.merge!(@site.config[yaml_section])
       end
+
+      if self.data.has_key?('date')
+        # ensure Time via to_s and reparse
+        self.date = Time.parse(self.data["date"].to_s)
+      end
+
       self.data
     end
     

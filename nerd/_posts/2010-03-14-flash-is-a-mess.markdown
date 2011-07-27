@@ -51,7 +51,7 @@ I just tried to watch the most recent Colbert Report, Kevin, and I got the follo
     5   com.apple.HIToolbox           	0x9597ccc3 ReceiveNextEventCommon + 354
     6   com.apple.HIToolbox           	0x9597cb48 BlockUntilNextEventMatchingListInMode + 81
     7   com.apple.AppKit              	0x91c3eac5 _DPSNextEvent + 847
-    8   com.apple.AppKit              	0x91c3e306 -[NSApplication nextEventMatchingMask:untilDate:inMode:dequeue:] + 156
+    8   com.apple.AppKit              	0x91c3e306 -[NSApplication nextEventMatchingMask:untildate:inMode:dequeue:] + 156
     9   com.apple.AppKit              	0x91c0049f -[NSApplication run] + 821
     10  com.apple.WebKit.PluginHost   	0x00006123 0x1000 + 20771
     11  com.apple.WebKit.PluginHost   	0x00001ef9 0x1000 + 3833

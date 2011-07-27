@@ -1,0 +1,46 @@
+article header h1
+{
+  margin: 0em;
+}
+
+article header p
+{
+  margin: 0;
+  font-style: italic;
+}
+
+article footer
+{
+  display: table;
+  width: 100%;
+}
+
+article footer a
+{
+  display: table-cell;
+  width: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+article footer a:first-child::before
+{
+  content: '« ';
+}
+
+article footer a:last-child
+{
+  text-align: right;
+}
+
+article footer a:last-child::after
+{
+  content: ' »';
+}
+
+img
+{
+  /* ensure images don't overflow their container elements */
+  max-width: 100%;
+}
+
