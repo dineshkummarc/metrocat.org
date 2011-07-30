@@ -12,7 +12,8 @@ By now you may have noticed that I like long, descriptive names. Take an example
 Most importantly, the name `setKeysTriggerChangeNotificationForDependentKey` leaves absolutely no doubt what the function does.
 
 In the hopes that I might be able to influence your own naming scheme, I've set down my guidelines. If you don't already have a naming scheme, consider adopting one. It will make your life easier. That's what they're supposed to do.
-<!--more-->
+
+
 To give credit where it is due, my naming guidelines are basically an adaptation of Apple's Objective-C naming guidelines. I've tried to make these guidelines work well with languages like JavaScript and C++.
 
 ## Purpose of Naming Guidelines ##
@@ -35,10 +36,10 @@ Yes, this is a *really* long function name, but if our goal is clarity, it reall
 
 I could have two overloaded versions of this function with the following Java method signatures:
 
-	setKeysTriggerChangeNotificationForDependentKey( String[] keys,
-													 String dependantKey )
-	setKeysTriggerChangeNotificationForDependentKey( Collection<String> keys,
-													 String dependantKey )
+    setKeysTriggerChangeNotificationForDependentKey( String[] keys,
+                                                     String dependantKey )
+    setKeysTriggerChangeNotificationForDependentKey( Collection<String> keys,
+                                                     String dependantKey )
 
 This doesn't break the naming guideline.
 
@@ -56,8 +57,8 @@ You may also differentiate the return values via adjectives. Remember adjectives
 
 Notice that the accessor functions don't begin with `get`. My recommendation is that you use `get` only when you're returning a value indirectly. Consider the following C++ examples:
 
-	void getWindowText( char* textBuffer, unsigned textBufferSize );
-	std::string windowText();
+    void getWindowText( char* textBuffer, unsigned textBufferSize );
+    std::string windowText();
 
 Both functions retrieve the window text. The first function expects you to have pre-allocated a buffer, while the second function returns a Standard Library string object containing the window's text.
 
@@ -73,8 +74,8 @@ Unless you're absolutely certain that no one will ever be confused, don't abbrev
 
 If you're working in a language without Garbage Collection (you have my sympathy), you'll want to clarify ownership of created objects. Any function with `create`, `copy` or `new` in the name should confer ownership of the new resource to the caller. So if you have the following methods:
 
-	Window* childWithId( unsigned controlId );
-	Window* newWindowWithFrame( Rect& frameRectangle );
+    Window* childWithId( unsigned controlId );
+    Window* newWindowWithFrame( Rect& frameRectangle );
 
 The first function, `childWithId` returns a pointer to the child window with the specified ID. If the caller wants to make certain the child window persists, he'd better call `retain` or `addReference` or whatever. The second function creates a new window with the given frame rectangle. The caller receives ownership of this new object and is responsible for releasing it when appropriate.
 
@@ -88,11 +89,11 @@ But do make your member variables meaningful. Having a `count` variable really d
 
 Everyone uses variables like `i` or `s` or `p`. That's just life. Most of the time those are actually meaningful names. Really. The following is actually good code:
 
-	vector<WindowPtr>::iterator i;
-	for (i=windowArray.begin(); i!=windowArray.end(); ++i)
-	{
-		//	... Do something meaningful
-	}
+    vector<WindowPtr>::iterator i;
+    for (i=windowArray.begin(); i!=windowArray.end(); ++i)
+    {
+        //    ... Do something meaningful
+    }
 
 > If you were really a hardcore C++ STL jocky, you'd be using the algorithm libraries. But I have to confess, I hate those bloody generic algorithms. It's almost never worth the effort to figure out how to write a limited use *functor* or composite a function object.
 

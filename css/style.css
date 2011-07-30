@@ -13,26 +13,9 @@ body
   padding-left: 1in;
 }
 
-@media only screen and (min-width: 480px)
-{
-  .header
-  {
-    height: 160px;
-  }
-  
-}
-
-@media only screen and (min-width: 768px)
-{
-  .header
-  {
-    height: 200px;
-  }
-}
-
 article
 {
-  margin: 1in 1in 0 1in;
+  margin: 20px;
 }
 
 header

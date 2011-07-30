@@ -17,7 +17,7 @@ I'm a tidy person by nature. My dictionary defines tidy as:
 >     * (of a person) inclined to keep things or one's appearance neat and in order : _she was a tidy little girl._
 >     * not messy; neat and controlled : _he wrote down her replies in a small, tidy hand._
 > 
-> 2. [ attrib. ] informal (of an amount, esp. of money) considerable : _the book will bring in a tidy sum._
+> 2. \[ attrib. \] informal (of an amount, esp. of money) considerable : _the book will bring in a tidy sum._
 
 In today's lax and permissive speech, people tend to conflate tidy and clean, however, the two really are different: a clean room is free of dirt and other dreck, while in a tidy room papers are stacked neatly and the books are put away and not scattered across the couch.
 

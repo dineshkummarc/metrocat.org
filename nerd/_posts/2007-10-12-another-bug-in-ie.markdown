@@ -38,4 +38,4 @@ What does your browser display?
     <hr style="visibility: hidden; clear:both; margin-bottom: 1.5em;">
 </div>
 
-<small>**Note:** [Jina](http://jinabolton.com/) would kill me for having inline styles in the HTML above, but for some reason the `<style>` block I tried to add got munged by Markdown.</small>
+**Note:** [Jina](http://jinabolton.com/) would kill me for having inline styles in the HTML above, but for some reason the `<style>` block I tried to add got munged by Markdown.

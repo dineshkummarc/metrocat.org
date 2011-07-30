@@ -11,7 +11,8 @@ categories:
 Thanks to a kind mention by [Josh Porter](http://www.bokardo/), I've seen something of a spike in traffic. And a lot of it has come from links relating to AJAX.
 
 I'm actually working on a cool AJAX demo and the search tool on this site was just a quick hack. In case you're interested in how it works, here's a quick tutorial.
-<!--more-->
+
+
 First of all, I'm using [MovableType](http://www.sixapart.com/movabletype/) for my content management system (I know there are cooler systems out there, I just happen to know MT pretty well. And the new Beta is shaping up nicely -- although I couldn't upgrade the 3.2b2 database to 3.2b3, grrr...). So I created a module to add search functionality to every page.
 
 The first thing the template module does is include a javascript, [`scripts/search.js`](http://metrocat.org/nerd/scripts/search.js). then it lays out the search window. By default the search window is hidden via the `#searchWindow` css rule. This prevents it from appearing incorrectly before the `load` event handler can fire.

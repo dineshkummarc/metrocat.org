@@ -8,7 +8,8 @@ categories:
 ---
 
 At some point, you'll tire of JavaScript's built in objects and want to create an object to call your own. This is what object-oriented programming is all about.
-<!--more-->
+
+
 There are three primary ways to create new types of objects:
 
 1. Ad-hoc Composition
@@ -100,39 +101,39 @@ Everyone has seen the clich&eacute; constructor for a circle:
         this.computeCircumference= circle_computeCircumference;
     }
 
-	function circle_computeArea()
-	{
-		return Math.pi*this.radius*this.radius;
-	}
+    function circle_computeArea()
+    {
+        return Math.pi*this.radius*this.radius;
+    }
 
-	function circle_computeCircumference()
-	{
-		return 2*Math.pi*this.radius;
-	}
-	
+    function circle_computeCircumference()
+    {
+        return 2*Math.pi*this.radius;
+    }
+    
 This declares a constructor which stamps out Circle objects with X and Y coordinates for the center of the circle, a radius, and two methods, `computeArea` and `computeCircumference`. However, the drawback to this constructor is that it polutes the global namespace with two unnecessary functions: `circle_computeArea` and `circle_computeCircumference`.
 
 A more advanced constructor hides the definition of the `computeArea` and `computeCircumference` functions within the constructor itself:
 
-	function Circle( x, y, radius )
-	{
-		function computeArea()
-		{
-			return Math.pi*this.radius*this.radius;
-		}
-		
-		function computeCircumference()
-		{
-			return 2*Math.pi*this.radius;
-		}
-		
-		this.x= x;
-		this.y= y;
-		this.radius= radius;
-		
-		this.computeArea= computeArea;
-		this.computeRadius= computeRadius;
-	}
+    function Circle( x, y, radius )
+    {
+        function computeArea()
+        {
+            return Math.pi*this.radius*this.radius;
+        }
+        
+        function computeCircumference()
+        {
+            return 2*Math.pi*this.radius;
+        }
+        
+        this.x= x;
+        this.y= y;
+        this.radius= radius;
+        
+        this.computeArea= computeArea;
+        this.computeRadius= computeRadius;
+    }
 
 ## More To Come ##
 

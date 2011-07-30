@@ -8,7 +8,8 @@ categories:
 ---
 
 One of the routine complaints about Coherent (yes, I'm talking about you Ryan) is the use of custom attributes. It seems that some people like their HTML pure, like it was back in the old days.
-<!--more-->
+
+
 
 I see nothing wrong with the following mark up:
 
@@ -33,7 +34,7 @@ So the other day I was kicking around an idea for an alternative syntax for desc
     },
 
     ul li img: {
-		 srcKeyPath: *.iconHref
+         srcKeyPath: *.iconHref
     },
 
     ul li em: {
@@ -48,7 +49,7 @@ Gosh, that looks just like JSON... so how about this:
         },
 
         'ul li img': {
-    		 srcKeyPath: '*.iconHref'
+             srcKeyPath: '*.iconHref'
         },
 
         'ul li em': {
@@ -66,7 +67,7 @@ So now I'm thinking in terms of what the _right_ API should be for this. I'm thi
         },
 
         'ul li img': {
-    		 srcKeyPath: '*.iconHref'
+             srcKeyPath: '*.iconHref'
         },
 
         'ul li em': {

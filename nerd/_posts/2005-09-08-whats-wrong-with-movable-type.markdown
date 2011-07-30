@@ -8,7 +8,8 @@ categories:
 ---
 
 I just upgraded our installation of [Movable Type](http://www.sixapart.com/movabletype/) to version 3.2. The new stream-lined interface is much better than version 3.1, but I've learned to absolutely loathe MT in the last two days.
-<!--more-->
+
+
 ## Design decisions ##
 
 Everything in Movable Type, excepting the server configuration, lives in the database. While I understand that being able to query a database for the configuration of each Weblog is convenient, it makes using standard system development practices impractical.

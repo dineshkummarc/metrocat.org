@@ -8,7 +8,8 @@ categories:
 ---
 
 After squashing a couple nasty bugs this weekend, I got to thinking about the performance implications of my solution. In a nutshell, the solution required wrapping getter methods with code to establish the ownership link between the value and the object. This wrapping only occurs for properties that are observed or part of a dependent key relationship, but still, we're talking an extra layer of code.
-<!--more-->
+
+
 
 ## It's UI code
 

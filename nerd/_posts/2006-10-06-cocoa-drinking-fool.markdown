@@ -10,7 +10,8 @@ categories:
 After spending most of my spare time building Web technologies lately, I'm
 finally going to switch gears to building a Cocoa application.
 
-<!--more-->
+
+
 
 I can't tell you much about the application -- yet -- but I do plan to present
 weekly status-like reports. For example, do you know that Quartz uses floating

@@ -13,7 +13,8 @@ It's also become clear that many people *want* to extend the default model to in
 
 So it makes sense to provide a short tutorial on how to create an alternate model for the SQLObjectProvider. But first, I need to explain how the Filter processes each incoming request.
 
-<!--more-->
+
+
 
 ## Location of Identity information ##
 
@@ -37,9 +38,9 @@ The sequence of operations for determining a visitor's identity based on form fi
 
 Once the cookie has been sent back to the visitor's browser, the identity is returned to the filter. The filter then makes the identity available via the thread-local storage wrapper `current`. You can refer to the current identity in your code with the following:
 
-	from turbogears import identity
-	if 'admin' in identity.current.groups:
-		pass
+    from turbogears import identity
+    if 'admin' in identity.current.groups:
+        pass
 
 For subsequent requests, the visitor's identity can be retrieved from the cookie.
 

@@ -8,7 +8,8 @@ categories:
 ---
 
 As part of my work on the Identity framework for [TurboGears](http://www.turbogears.org), I've had to write a filter for [CherryPy](http://www.cherrypy.org). While I'm certain the team building CherryPy is well meaning, I doubt whether there's a coherent design in place.
-<!--more-->
+
+
 For example, because CherryPy doesn't allow filters to catch and handle exceptions thrown, er, raised by the controllers, I've had to resort to throwing, er, raising an `InternalRedirect` exception which is somewhat strange.
 
 One of the latest features of the framework raises an `IdentitySessionExpiredException` when your login has expired (um, duh?). However, because only the filter is able to check your identity credentials to determine whether your session has expired, I need to redirect as part of the `beforeMain` filter function.

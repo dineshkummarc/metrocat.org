@@ -12,24 +12,25 @@ Those of you who have explored Apple's Cocoa technologies are probably already f
 This technology is built into Apple's Objective-C runtime and forms the foundation of the greatest advancement in UI programming: [Cocoa Bindings](http://developer.apple.com/documentation/Cocoa/Conceptual/CocoaBindings/index.html).
 
 I've heard Cocoa developers bemoan the lack of Cocoa Bindings as they branch out into the world of Web programming. Well, Key-Value Coding and Observing is the first step on the road to delivering DHTML Bindings.
-<!--more-->
+
+
 ## Good To Have A Goal ##
 
 I've set myself the goal of implementing the core functionality behind Cocoa Bindings in JavaScript. This isn't an easy task, because unlike Apple, I don't control the runtime library. I have to work within the scope of the JavaScript language.
 
 In Objective-C there is no way to access an object's properties (known as ivars). You must use accessor and mutator methods. So your class might be declared as follows:
 
-	@interface Cat : NSObject
-	{
-		NSString* _name;
-	}
-	
-	- (id) initWithName: (NSString*) name;
-	
-	- (NSString*) name;
-	- (void) setName: (NSString*) name;
-	
-	@end
+    @interface Cat : NSObject
+    {
+        NSString* _name;
+    }
+    
+    - (id) initWithName: (NSString*) name;
+    
+    - (NSString*) name;
+    - (void) setName: (NSString*) name;
+    
+    @end
 
 > This isn't meant to be a tutorial on Objective-C -- you either already know it and are super-productive or you're resisting becoming super-productive (like I did for 2 years).
 
@@ -37,39 +38,39 @@ In Objective-C, only the Cat object's methods can actually access the `_name` me
 
 In JavaScript, while we *can* write accessors and mutators, there's no preventing someone from directly accessing a property on our objects (Well, no commonly known way. More on that later.) We could write a constructor for a Cat object in JavaScript as follows:
 
-	function Cat( name )
-	{
-		this.name= name;
-		this.getName= function () { return this.name; }
-		this.setName= function (name) { this.name= name; };
-	}
-	
+    function Cat( name )
+    {
+        this.name= name;
+        this.getName= function () { return this.name; }
+        this.setName= function (name) { this.name= name; };
+    }
+    
 Allowing for differences in language syntax, this gives us roughly the same functionality as the accessors and mutators in Objective-C. Of course, in this example, the accessor and mutator are completely useless.
 
 ## A Brief Overview of Key-Value Coding ##
 
 Key-Value Coding is an informal protocol which defines how to access an object's properties using textual names rather than hard-coded calls to accessors and mutators. For example, to access a Cat's name in Objective-C, I would type:
 
-	//	Assume myCat is a previously instantiated Cat object
-	NSString* nameOfMyCat= [myCat name];
-	//	Give myCat a new name
-	[myCat setName: @"Augustus"];
-	
+    //    Assume myCat is a previously instantiated Cat object
+    NSString* nameOfMyCat= [myCat name];
+    //    Give myCat a new name
+    [myCat setName: @"Augustus"];
+    
 Using Key-Value Coding, I would have the following code:
 
-	//	Retrieve the name from a previously instantiated Cat object
-	NSString* nameOfMyCat= [myCat valueForKey: @"name"];
-	//	Give myCat a new name
-	[myCat setValue: @"Augustus" forKey: @"name"];
-	
+    //    Retrieve the name from a previously instantiated Cat object
+    NSString* nameOfMyCat= [myCat valueForKey: @"name"];
+    //    Give myCat a new name
+    [myCat setValue: @"Augustus" forKey: @"name"];
+    
 Not a huge difference. But what if you want to access the value of a property nested 3 objects deep? So, how about getting the age of the mother of Augustus' first kill? Without Key-Value Coding, this would be:
 
-	//	Assuming a lot more meat to the Cat class and a Mouse class.
-	int firstKillsMomsAge= [[[myCat firstKill] mother] age];
+    //    Assuming a lot more meat to the Cat class and a Mouse class.
+    int firstKillsMomsAge= [[[myCat firstKill] mother] age];
 
 I'll agree, that isn't super ungainly. But with Key-Value Coding, it becomes:
 
-	int firstKillsMomsAge= [myCat valueForKeyPath: "firstKill.mother.age"];
+    int firstKillsMomsAge= [myCat valueForKeyPath: "firstKill.mother.age"];
 
 That's actually more typing. Yow! Why would anyone want to *use* Key-Value Coding?
 
@@ -79,8 +80,8 @@ Key-Value Coding is simply essential if you want to tie two objects together wit
 
 This is where Key-Value Observing enters the picture. With a few lines of code, I can wire up two objects so that one responds to the property changes of another:
 
-	[myCat addObserver: self forKeyPath: @"name"
-		   options: NSKeyValueObservingOptionNew context: NULL];
+    [myCat addObserver: self forKeyPath: @"name"
+           options: NSKeyValueObservingOptionNew context: NULL];
 
 Now, whenever `myCat's` `name` property changes, I'll be notified.
 
@@ -90,43 +91,43 @@ You can read Apple's documentation on [Key-Value Coding](http://developer.apple.
 
 Because I also write Mac software, I've tried to keep the API of Key-Value Coding as similar to the Objective-C version as JavaScript will allow. So consider the following:
 
-	var myCat= new Cat( "Augustus" );
-	var nameOfMyCat= myCat.getValueForKey( "name" );
-	myCat.setValueForKey( "Madeline", "name" );
-	
+    var myCat= new Cat( "Augustus" );
+    var nameOfMyCat= myCat.getValueForKey( "name" );
+    myCat.setValueForKey( "Madeline", "name" );
+    
 Like the Objective-C version of Key-Value Coding, you can slice Arrays too. Let's expand the definition of a Cat to see how this works:
 
-	function Cat( name )
-	{
-		this.name= name;
-		this.siblings= [];
-	}
-	
-	var myCat= new Cat( "Augustus" );
-	myCat.setValueForKey( [ new Cat("Tim"), new Cat("Magic"),
-							new Cat("Madeline") ] );
-	//	now "slice" the sibling array
-	var namesOfSiblings= myCat.getValueForKeyPath( "siblings.name" );
-	
+    function Cat( name )
+    {
+        this.name= name;
+        this.siblings= [];
+    }
+    
+    var myCat= new Cat( "Augustus" );
+    myCat.setValueForKey( [ new Cat("Tim"), new Cat("Magic"),
+                            new Cat("Madeline") ] );
+    //    now "slice" the sibling array
+    var namesOfSiblings= myCat.getValueForKeyPath( "siblings.name" );
+    
 The `namesOfSiblings` variable will now contain an array with the values: "Tim", "Magic", and "Madeline". To make this work, the Array object defines its own `getValueForKeyPath` and `getValueForKey` that return as an array the result of querying each element of the array for the same key or key path.
 
 ## Observing in JavaScript ##
 
 Observing property changes in JavaScript is a little different than in Objective-C. In part because JavaScript gives us some nice additional features and also because I simply didn't need all the features of the Objective-C implementation.
 
-	//	using the Cat definitions from above
-	function CatObserver( cat )
-	{
-		function observeSiblingNameChangeForKeyPath( change, keyPath )
-		{
-			trace( "received change=" + change );
-			trace( "    for keyPath=" + keyPath );
-		}
-	
-		cat.addObserverForKeyPath( this, "siblings.name",
-								   observeSiblingNameChangeForKeyPath, null );
-	}
-	
+    //    using the Cat definitions from above
+    function CatObserver( cat )
+    {
+        function observeSiblingNameChangeForKeyPath( change, keyPath )
+        {
+            trace( "received change=" + change );
+            trace( "    for keyPath=" + keyPath );
+        }
+    
+        cat.addObserverForKeyPath( this, "siblings.name",
+                                   observeSiblingNameChangeForKeyPath, null );
+    }
+    
 This declares a constructor for `CatObserver` objects which will report changes to the names of a cat's siblings.
 
 ### Structure of the ChangeNotification Object ###
@@ -159,19 +160,19 @@ This means you either have to exclusively use the key-value coding methods (`get
 
 Imagine we have the following code:
 
-	function Cat( name, age )
-	{
-		function celebrateBirthday()
-		{
-			this.willChangeValueForKey( "age" );
-			this.age++;
-			this.didChangeValueForKey( "age" );
-		}
-		
-		this.name= name;
-		this.age= age;
-	}
-	
+    function Cat( name, age )
+    {
+        function celebrateBirthday()
+        {
+            this.willChangeValueForKey( "age" );
+            this.age++;
+            this.didChangeValueForKey( "age" );
+        }
+        
+        this.name= name;
+        this.age= age;
+    }
+    
 I've bracketted the modification of the age property with calls to `willChangeValueForKey` and `didChangeValueForKey`. I bet you can figure out what they do.
 
 When you call `willChangeValueForKey`, the key-value coding implementation caches the previous value of the key. Later when you call `didChangeValueForKey`, it uses this cached value to notify all observers. Clean and simple.
@@ -180,24 +181,24 @@ When you call `willChangeValueForKey`, the key-value coding implementation cache
 
 Sometimes a property is computed from the values of other properties. This is a *dependant* property, and key-value observing supports this just fine:
 
-	function Person( firstName, lastName )
-	{
-		function getFullName()
-		{
-			if (this.firstName && this.lastName)
-				return this.firstName + " " + this.lastName;
-			else
-				return this.firstName || this.lastName;
-		}
-		
-		this.firstName= firstName;
-		this.lastName= lastName;
-		
-		this.setKeysTriggerChangeNotificationForDependantKey( ["firstName",
-															   "lastName"],
-															  "fullName" );
-	}
-	
+    function Person( firstName, lastName )
+    {
+        function getFullName()
+        {
+            if (this.firstName && this.lastName)
+                return this.firstName + " " + this.lastName;
+            else
+                return this.firstName || this.lastName;
+        }
+        
+        this.firstName= firstName;
+        this.lastName= lastName;
+        
+        this.setKeysTriggerChangeNotificationForDependantKey( ["firstName",
+                                                               "lastName"],
+                                                              "fullName" );
+    }
+    
 This constructor for a basic `Person` object declares in its final line that changes to either the `firstName` or `lastName` property should also notify any observers of the `fullName` property.
 
 **Note:** the `fullName` property is read-only here, because I've declared an accessor but no mutator. Later when we look at DHTML Bindings, you'll see why that is important. For now, if you try to set a value for the `fullName` property, you'll get an exception.

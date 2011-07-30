@@ -16,7 +16,8 @@ My goals for an alternative ORM are the following:
 * No Magic -- The dynamic nature of Python lends itself to magic solutions, metaclasses and twiddling under the covers.
 * Conservative Network Traffic -- In order to scale smoothly, Web applications (and any other application) must be extremely careful to optimise communication with the DB server.
 * Rich Support for Idiomatic Programming -- Reducing the number of compromises necessary just because the data will live in a database will make developing applications quicker, easier and ultimately more robust.
-<!--more-->
+
+
 ## Some Quick Examples ##
 
 I just want to throw out a few quick examples before diving in. The examples all use the following model:

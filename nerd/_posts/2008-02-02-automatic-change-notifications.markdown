@@ -9,54 +9,55 @@ categories:
 
 One of the problems with using Coherent in the past has been making certain you fire change notifications at the correct times. To do this you either needed to modify your properties via `setValueForKey` or bracket the property change with `willChangeValueForKey` and `didChangeValueForKey`. It always seemed pretty dumb that when you're writing a mutator method you always needed to have `willChangeValueForKey` and `didChangeValueForKey` at the beginning and end of your method.
 
-<!--more-->
+
+
 
 For example:
 
-	var MyClass= Class.create(coherent.KVO, {
+    var MyClass= Class.create(coherent.KVO, {
 
-		name: function()
-		{
-			return this.__name;
-		},
+        name: function()
+        {
+            return this.__name;
+        },
 
-		setName: function(newName)
-		{
-			this.willChangeValueForKey('name');
-			this.__name= newName;
-			this.didChangeValueForKey('name');
-		}
+        setName: function(newName)
+        {
+            this.willChangeValueForKey('name');
+            this.__name= newName;
+            this.didChangeValueForKey('name');
+        }
 
-	});
+    });
 
 That's not terribly convenient. It's also not particularly efficient, because if there are no observers for the `name` property, you have an extra two function calls -- never mind what those functions actually do.
 
 With recent builds of Coherent, you can now simply have:
 
-	var MyClass= Class.create(coherent.KVO, {
+    var MyClass= Class.create(coherent.KVO, {
 
-		name: function()
-		{
-			return this.__name;
-		},
+        name: function()
+        {
+            return this.__name;
+        },
 
-		setName: function(newName)
-		{
-			this.__name= newName;
-		}
+        setName: function(newName)
+        {
+            this.__name= newName;
+        }
 
-	});
+    });
 
 Of course, this is an example of a pointless use of getter/setters in JavaScript, but nevertheless...
 
 So how do change notifications get sent if there's no call to `willChange` and `didChange`? Under the covers, `infoForKey` wraps `setName` with the following:
 
-	function wrappedMutator(newValue)
-	{
-		this.willChangeValueForKey(key);
-		originalMutator.call(this, newValue);
-		this.didChangeValueForKey(key);
-	}
+    function wrappedMutator(newValue)
+    {
+        this.willChangeValueForKey(key);
+        originalMutator.call(this, newValue);
+        this.didChangeValueForKey(key);
+    }
 
 Where `key` and `originalMutator` are variables inherited from a closure. At the moment, this mutator swizzling occurs on the class rather than simply on the instance. So in the future all instances of `MyClass` will trigger change notifications. It turns out the secret to making this work lies at the heart of `addObserverForKeyPath`: if there are no prior observers for the key path, Coherent will request the key info for the key path via `infoForKeyPath`. That causes any currently existing mutator methods to get wrapped. But if an object along the key path isn't present, the mutators will still get wrapped when values along the path are changed.
 

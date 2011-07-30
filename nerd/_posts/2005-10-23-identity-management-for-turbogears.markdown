@@ -11,7 +11,8 @@ categories:
 I just committed the code for the TurboGears identity management support (revision 89). And because this is such new code, I thought it might be helpful to include a short How To for getting everything up and running.
 
 This How To is written from the perspective of a fresh quick-started project, but most everything applies for existing projects.
-<!--more-->
+
+
 1\. Create new project (idtest). Set dburi.
 
 2\. Edit idtest.egg-info/sqlobject.txt

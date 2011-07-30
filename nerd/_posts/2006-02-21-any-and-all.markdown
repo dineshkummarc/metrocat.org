@@ -13,7 +13,8 @@ On the one hand, I think it's wrong to overload binary operators (`&`, `|` and `
 
 I don't like it and unless someone forces me to implement it, I'm not going to. (So there!)
 
-<!--more-->
+
+
 
 On the other hand, I'd not heard of the `any()` and `all()` built-in functions. I think they are very cool. That should be obvious because I basically have my own version of them in Identity. I think it's very important that the Identity predicates be able to work with these new functions. But there may be problems.
 

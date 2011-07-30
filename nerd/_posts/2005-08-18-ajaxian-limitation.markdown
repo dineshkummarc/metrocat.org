@@ -13,7 +13,8 @@ I was just thinking about adding another Ajax-y feature to the site when it occu
 Typically when returning HTML using an XMLHttpRequest object I set the `innerHTML` property of a div on the page with the result (provided the operation was successful). But I'm willing to bet that any scripts contained in that HTML doesn't get interpreted.
 
 Let's find out...
-<!--more-->
+
+
 ## Ajax Is All About Rich Content ##
 
 When I first started writing Web applications back in 1995, "rich content" meant anything with images, sound, and words. Behaviour didn't enter into it because scripting wasn't really possible, and even when it became possible with the first generation of Javascript, there wasn't really much you could accomplish with it.
@@ -26,14 +27,14 @@ Most of my early uses of XMLHttpRequest simply return HTML. No script elements. 
 
 In the past, when the XMLHttpRequest completed, I would take the `responseText` and assign that to the `innerHTML` of a div on my page. Like so:
 
-	function requestComplete( request )
-	{
-		var results= document.getElementById( "htmlResult" );
-		if (!results)
-			return;
-			
-		results.innerHTML=request.responseText;
-	}
+    function requestComplete( request )
+    {
+        var results= document.getElementById( "htmlResult" );
+        if (!results)
+            return;
+            
+        results.innerHTML=request.responseText;
+    }
 
 Unfortunately, this will not process any `script` tags contained within the `responseText`. Check out this [example](http://metrocat.org/nerd/examples/ajax-scripting-test1.html) of storing an HTML fragment with a `script` tag to the `innerHTML` property. Were the `script` tag processed, we'd see an alert box. No alert box, therefore, `script` tag not processed.
 
@@ -52,26 +53,26 @@ I'm not known for taking the easy way out. I want to solve this problem.
 
 It would seem the answer is to evaluate the `script` tags in the response from XMLHttpRequest. This shouldn't be too hard. The first step is to evaluate each `script` tag in the response:
 
-	function requestComplete( request )
-	{
-		var results= document.getElementById( "htmlResult" );
-		if (!results)
-			return;
-			
-		results.innerHTML=request.responseText;
-		var children= results.children;
-		var child;
-		var index;
-		
-		for (index=0; index<children.length; ++index)
-		{
-			child= children[index];
-			if (child.tagName && "SCRIPT"==child.tagName)
-			{
-				eval( child.innerHTML );
-			}
-		}
-	}
+    function requestComplete( request )
+    {
+        var results= document.getElementById( "htmlResult" );
+        if (!results)
+            return;
+            
+        results.innerHTML=request.responseText;
+        var children= results.children;
+        var child;
+        var index;
+        
+        for (index=0; index<children.length; ++index)
+        {
+            child= children[index];
+            if (child.tagName && "SCRIPT"==child.tagName)
+            {
+                eval( child.innerHTML );
+            }
+        }
+    }
 
 Unfortunately, this doesn't propagate functions defined in the fetched DHTML to the global scope. That's an unacceptable limitation.
 
@@ -81,14 +82,14 @@ I've tried numerous ways to massage the script tags into something that will wor
 
 Worse, the weird and wacky syntax doesn't really address the following example:
 
-	<script type="text/javascript">
-		function tabLabelWasClicked()
-		{
-			alert( "The tab label was clicked!" );
-		}
-	</script>
-	<span id="tabLabel" onclick="tabLabelWasClicked()">Tab 1</span>
-	
+    <script type="text/javascript">
+        function tabLabelWasClicked()
+        {
+            alert( "The tab label was clicked!" );
+        }
+    </script>
+    <span id="tabLabel" onclick="tabLabelWasClicked()">Tab 1</span>
+    
 Yes, I can transform the code in the `script` tag so that it will return an object that includes the `tabLabelWasClicked` function, but then I'll have to transform the `onclick` handler to call the same function. But that means every `script` tag will need a unique container object. That's just a pain.
 
 So, I'm going to give up on this problem for now. It's just a problem. This doesn't mean you can't expand the behaviour of your Web application by dynamically loading Javascript, but it does mean you'll have to separate your behaviour and content. The unobtrusive Javascripter guys will be delighted.

@@ -9,7 +9,8 @@ categories:
 ---
 
 Possibly the two most important concepts in the Coherent library are properties and bindings. If you're familiar with modern programming languages, you've probably run across properties before, but bindings may be new unless you've worked with Apple's Cocoa library. In order to get the most out of Coherent, you'll need to understand these two facilities.
-<!--more-->
+
+
 
 
 
@@ -19,57 +20,57 @@ In object oriented programming, a property is any attribute of an object. Techni
 
 Most modern object-oriented programming languages have some concept of properties. Some older languages like Java and C++ fake it via getter and setter methods. But some languages like Python, Ruby, and C# have native properties. JavaScript in Class A browsers[^classA] also supports properties using the following syntax:
 
-	var someObject= {
+    var someObject= {
 
-		get foo()
-		{
-			return this.theValueOfFoo;
-		},
+        get foo()
+        {
+            return this.theValueOfFoo;
+        },
 
-		set foo(newFoo)
-		{
-			this.theValueOfFoo= newFoo;
-		}
+        set foo(newFoo)
+        {
+            this.theValueOfFoo= newFoo;
+        }
 
-	};
+    };
 
 It's not the ideal syntax, but it's quite a bit better than the alternative:
 
-	var someObject= {};
-	someObject.__defineGetter__('foo', function() {
-		return this.theValueOfFoo;
-	});
-	someObject.__defineSetter__('foo', function(newFoo) {
-		this.theValueOfFoo=newFoo;
-	});
+    var someObject= {};
+    someObject.__defineGetter__('foo', function() {
+        return this.theValueOfFoo;
+    });
+    someObject.__defineSetter__('foo', function(newFoo) {
+        this.theValueOfFoo=newFoo;
+    });
 
 You can then access this property directly and under the covers, JavaScript will call the correct methods.
 
-	someObject.foo="I am Foo!";
-	window.alert(someObject.foo);
+    someObject.foo="I am Foo!";
+    window.alert(someObject.foo);
 
 That's all great so long as none of your visitors uses Internet Explorer. The barnacle encrusted JavaScript engine employed by Internet Explorer saw its last significant feature improvement nearly a decade ago. So it doesn't have any of the shiny new features found in Class A browsers. It's the killjoy of the browser community.
 
 So unless you're certain all your visitors have modern browsers, you're stuck writing getter and setter methods like in Java or C++[^objCstyle]. So the example above becomes:
 
-	var someObject= {
+    var someObject= {
 
-		getFoo: function()
-		{
-			return this.theValueOfFoo;
-		},
+        getFoo: function()
+        {
+            return this.theValueOfFoo;
+        },
 
-		setFoo: function(newFoo)
-		{
-			this.theValueOfFoo= newFoo;
-		}
+        setFoo: function(newFoo)
+        {
+            this.theValueOfFoo= newFoo;
+        }
 
-	};
+    };
 
 This may not seem like a big difference, but you'll notice it when you go to use `someObject`:
 
-	someObject.setFoo('I am Foo!');
-	window.alert(someObject.getFoo());
+    someObject.setFoo('I am Foo!');
+    window.alert(someObject.getFoo());
 
 This may feel natural if you're a C++ or Java programmer, but then you're also probably accustomed to chewing broken glass, sticking needles in your eyes, and other painful party tricks.[^cpp]
 
@@ -86,21 +87,21 @@ For properties you implement via getter and setter methods, there's nothing you 
 
 The first technique is to wrap modification of the property with calls to `willChangeValueForKey` and `didChangeValueForKey`. So to keep with the previous observer example, lets look at some code in `someObject` that updates the `foo` property:
 
-		addOneToFoo: function()
-		{
-			this.willChangeValueForKey('foo');
-			++this.foo;
-			this.didChangeValueForKey('foo');
-		},
+        addOneToFoo: function()
+        {
+            this.willChangeValueForKey('foo');
+            ++this.foo;
+            this.didChangeValueForKey('foo');
+        },
 
 This technique allows you to make numerous modifications to the `foo` property and only signal the observers when you're good and ready. Additionally, you can use `willChange`/`didChange` to wrap calls to a number of methods which all trigger changes to the same property. These changes will be delayed and coalesced into a single update.
 
 The second technique is to modify your properties by calling `setValueForKey` or `setValueForKeyPath`. This is a _pseudo_-atomic operation that updates the property value and notifies observers all at once. Of course, under the covers, `setValueForKey` calls `willChange` and `didChange` for you. The `addOneToFoo` method could then be written as:
 
-		addOneToFoo: function()
-		{
-			this.setValueForKey(this.foo+1, 'foo');
-		},
+        addOneToFoo: function()
+        {
+            this.setValueForKey(this.foo+1, 'foo');
+        },
 
 Not substantially different, but if you call `setValueForKey` more than once, you (might) get more than one change notification.
 
@@ -122,47 +123,51 @@ At their most simple, bindings are a two way method of keeping objects synchroni
 
 This can be reflected in your UI with the following mark up:
 
-    <div class="inline-demo">
-    <fieldset id="properties-bindings-demo1">
-        <label>Name:</label>
-        <div><input type="text" valueKeyPath="person.name"
-                    nullPlaceholder="Your Name"></div>
-        <label>Greeting:</label>
-        <div>Hello, <span textKeyPath="person.name"
-                          nullPlaceholder="Your Name"></span>.</div>
-    </fieldset>
-    </div>
+{% highlight html linenos %}
 
-    <script>
-    	coherent.DataModel('person', {name: 'Bozo the Clown'});
-    	coherent.setupNode($('properties-bindings-demo1'));
-    </script>
+<div class="inline-demo">
+<fieldset id="properties-bindings-demo1">
+    <label>Name:</label>
+    <div><input type="text" valueKeyPath="person.name"
+                nullPlaceholder="Your Name"></div>
+    <label>Greeting:</label>
+    <div>Hello, <span textKeyPath="person.name"
+                      nullPlaceholder="Your Name"></span>.</div>
+</fieldset>
+</div>
+
+<script>
+    coherent.DataModel('person', {name: 'Bozo the Clown'});
+    coherent.setupNode($('properties-bindings-demo1'));
+</script>
+
+{% endhighlight %}
 
 And ultimately, this yields the following interaction:
 
 <style>
 .inline-demo fieldset div
 {
-	line-height:24px;
-	margin-left: 9em;
-	margin-top: 3px;
+    line-height:24px;
+    margin-left: 9em;
+    margin-top: 3px;
 }
 .inline-demo fieldset div input
 {
-	margin-top:4px;
+    margin-top:4px;
 }
 .inline-demo fieldset label
 {
-	float:left;
-	clear:both;
-	line-height: 24px;
-	width: 8em;
-	text-align: right;
+    float:left;
+    clear:both;
+    line-height: 24px;
+    width: 8em;
+    text-align: right;
 }
 .inline-demo .nullValue
 {
-	font-style: italic;
-	color: #ccc;
+    font-style: italic;
+    color: #ccc;
 }
 </style>
 <div class="inline-demo">
@@ -174,8 +179,8 @@ And ultimately, this yields the following interaction:
 </fieldset>
 </div>
 <script>
-	coherent.DataModel('person', {name: 'Bozo the Clown'});
-	coherent.setupNode($('properties-bindings-demo1'));
+    coherent.DataModel('person', {name: 'Bozo the Clown'});
+    coherent.setupNode($('properties-bindings-demo1'));
 </script>
 
 As you modify the value in the input field, the values are pushed into your data model. First the `InputWidget` calls `setValueForKeyPath` to update the data model with the current value of the input field. The `Person` object triggers a change notification, which is observed by the `TextWidget`. The `TextWidget` updates its associated DOM node with the new value.

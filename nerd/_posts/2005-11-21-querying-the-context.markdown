@@ -12,7 +12,8 @@ An important part of any ORM is being able to easily query the objects contained
 Probably the most graceful I've seen is the Pythonic query in [Dejavu](http://projects.amor.org/docs/dejavu/managing.html) where you literally write Python code which gets disassembled and turned into queries under the covers.
 
 One of the least graceful is the SQLBuilder module which is part of [SQLObject](http://sqlobject.org). While I recognise the vast amount of really clever code that goes into making SQLBuilder work, I just find it icky. ***Note:*** *This is just my personal opinion.*
-<!--more-->
+
+
 ## High expectations ##
 
 One of the goals for the querying facility within my ORM library is the ability to cleanly perform multiple queries. Given the following model:

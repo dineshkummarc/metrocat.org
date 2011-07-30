@@ -19,7 +19,8 @@ on. I wanted to build on JSP because of the really cool tag library support
 (I still think this is a critical addition to something like TurboGears),
 but there was no way I could ever justify (or probably afford) a hosting
 account that allowed me to run JSPs.
-<!--more-->
+
+
 During my investigations I'd run across [AxKit](http://www.axkit.org),
 [CherryPy](http://www.cherrypy.org) (which is a vital component of
 TurboGears), [Mason](http://www.masonhq.org), and numerous other packages

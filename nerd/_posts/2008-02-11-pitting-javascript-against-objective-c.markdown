@@ -15,30 +15,30 @@ I'm not certain that's such a great idea. After all, the target market for Coher
 
 In Cocoa, classes declare getters and setters to access instance properties. The property getter is named the same as property, while the setter is prefixed with `set`. You might have the following code to access the name property of a class:
 
-	-(NSString*) name;
-	-(void) setName: (NSString*)newName;
+    -(NSString*) name;
+    -(void) setName: (NSString*)newName;
 
 These methods are invoked as follows:
 
-	NSString* theName= [someObject name];
-	[someObject setName: aNewName];
+    NSString* theName= [someObject name];
+    [someObject setName: aNewName];
 
 On the other hand, the idiom in JavaScript is to mimic the Java Beans style of getter and setter methods: the getter is prefixed with `get` and the setter with `set`. The same code might be written in JavaScript as:
 
-	getName: function()
-	{
-		...
-	},
+    getName: function()
+    {
+        ...
+    },
 
-	setName: function()
-	{
-		...
-	}
+    setName: function()
+    {
+        ...
+    }
 
 (Presuming this is inside an Object literal...) And these methods would be invoked as follows:
 
-	var theName= someObject.getName();
-	someObject.setName(aNewName);
+    var theName= someObject.getName();
+    someObject.setName(aNewName);
 
 Prior to r146, Coherent required getters to follow the Objective-C idiom. However, now Coherent will check first for a getter with the `get` prefix before looking for a getter with the same name as the property.
 

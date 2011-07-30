@@ -11,7 +11,8 @@ Now that [TurboGears has experimental support for SQLAlchemy](http://nerd.newbur
 
 Writing a SQLAlchemy Identity Provider won't be a terribly difficult task, however, Visit didn't include facility for abstracting the database access. But now it does via the `VisitManager`.
 
-<!--more-->
+
+
 
 Frankly, the visit tracking code was already pretty simple, but in order to allow plugging in different database implementations I had to factor out some of the functionality. This is what I wound up with as the `BaseVisitManager`:
 

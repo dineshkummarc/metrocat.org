@@ -13,14 +13,14 @@ So I've been [thinking about JavaScript performance](http://nerd.metrocat.org/20
 
 The problem isn't the simple case where I want multiple animation steps to occur either simultaneously or in sequence but when I want to compose complex animations by chunks of code that know nothing about each other. There's no way for the various chunks of code to co-operate to prepare an optimised animation. For example, say chunk A creates an animation segment to fade out a number of nodes:
 
-	function fadeOutNode(node)
-	{
-		return new Fade(node, 0, 1);
-	}
+    function fadeOutNode(node)
+    {
+        return new Fade(node, 0, 1);
+    }
 
-	var nodes= functionToRetrieveNodesToAnimate();
-	var actions= nodes.map(fadeOutNode);
-	return Blend(actions);
+    var nodes= functionToRetrieveNodesToAnimate();
+    var actions= nodes.map(fadeOutNode);
+    return Blend(actions);
 
 Blend is a simple action that steps each component action each time it is called:
 
@@ -198,7 +198,7 @@ This is pretty gnarly code. Of course, I'm certain I could optimise this a bit t
 
             stepNOP: function(t)
             {},
-
+            
             setup: function()
             {
                 actions[0].setup();
@@ -211,7 +211,7 @@ This is pretty gnarly code. Of course, I'm certain I could optimise this a bit t
         };
     }
 
-This function would be created using the form `new Function('actions', body)` to prevent creating a closure on the current scope. Then the function would be immediately executed to return the new animation object. The constants (total duration = 1000, duration of action[0] = 400, duration of action[1] = 500, start of action[2] = duration of action[0] + duration of action[1] = 900, duration of action[2] = 100) are the values that get calculated in the previous function `Chain`, but they can be literals now, because I'm only dealing with one action at a time. This shaves a few property accesses off the top during the tight part of the animation loop.
+This function would be created using the form `new Function('actions', body)` to prevent creating a closure on the current scope. Then the function would be immediately executed to return the new animation object. The constants (total duration = 1000, duration of action\[0\] = 400, duration of action\[1\] = 500, start of action\[2\] = duration of action\[0\] + duration of action\[1\] = 900, duration of action\[2\] = 100) are the values that get calculated in the previous function `Chain`, but they can be literals now, because I'm only dealing with one action at a time. This shaves a few property accesses off the top during the tight part of the animation loop.
 
 ## Complicating factors
 
@@ -255,7 +255,7 @@ In this example, there are a total of 6 animation steps which will execute sort 
 
 <div class="figure"><img src="http://nerd.metrocat.org/wp-content/uploads/2007/11/complex.png" alt="complex.png" border="0"   ></div>
 
-The compiler will generate four step functions similar to the sequential example above. The first step function will handle the interval t= [0, 0.333], the second step function will handle t= (0.333, 0.5], the third step function handles t= (0.5, 0.666], and finally the fourth step function handles t= (0.666, 1.0]. Let's look at the code:
+The compiler will generate four step functions similar to the sequential example above. The first step function will handle the interval t= \[0, 0.333\], the second step function will handle t= (0.333, 0.5], the third step function handles t= (0.5, 0.666], and finally the fourth step function handles t= (0.666, 1.0]. Let's look at the code:
 
     function decomplexifier(actions)
     {

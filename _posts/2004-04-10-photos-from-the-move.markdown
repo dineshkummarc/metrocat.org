@@ -26,7 +26,7 @@ Eventually we called it quits around 7 PM.
 The next morning, I awoke bright and early to begin unloading the truck. Our friends Gretchen & Owen were to arrive at 11 AM and I wanted to have everything unpacked and waiting on the sidewalk to maximise their time. Un-tetrissing the truck took about an hour.
 
 <div class="figure">
-	<img class="photo" src="/photos/IMG_0695.jpg" alt="Truck and boxes" title="Our truck and most of the boxes">
+    <img class="photo" src="/photos/IMG_0695.jpg" alt="Truck and boxes" title="Our truck and most of the boxes">
 </div>
 
 I tried to keep track of the number of boxes during the unpacking process; but I seem to have lost count around 80 boxes. <b>80 boxes.</b> With <b>23</b> boxes labelled books. There's no telling how many other boxes Anna hid books in without labelling them.

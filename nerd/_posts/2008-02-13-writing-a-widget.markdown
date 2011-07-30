@@ -10,51 +10,50 @@ categories:
 Coherent strives to present a sane Model View Controller paradigm for client-side Web development. So writing a Widget using the Coherent library may be a bit different from what your accustomed to. However, if you've ever written desktop software, this should feel right at home.
 
 For this tutorial, we're going to build a simple photo gallery to display a static list of images with captions. In a future tutorial, we'll see how we can expand this sample to pull image information from Flickr or other sources.
-<!--more-->
 
-<link rel="stylesheet" href="http://localhost:8888/js/coherent/demo/widget/widget.css" media="screen">
+    <link rel="stylesheet" href="http://localhost:8888/js/coherent/demo/widget/widget.css" media="screen">
 
-<script src="http://localhost:8888/js/coherent/demo/widget/PhotoGallery.js"></script>
+    <script src="http://localhost:8888/js/coherent/demo/widget/PhotoGallery.js"></script>
 
-<a name="demo"></a>
-<div id="photo-gallery" markdown="0">
-    <img src="/js/coherent/demo/widget/photos/molly-1.jpg">
-    <p>Caption</p>
-    <a href="#" class="next">Next</a>
-    <a href="#" class="prev">Previous</a>
-</div>
+    <a name="demo"></a>
+    <div id="photo-gallery" markdown="0">
+        <img src="/js/coherent/demo/widget/photos/molly-1.jpg">
+        <p>Caption</p>
+        <a href="#" class="next">Next</a>
+        <a href="#" class="prev">Previous</a>
+    </div>
 
-<script markdown="0">
-var galleryData= {
-    selected: 0,
-    photos: [
-        {
-            caption: "Molly on the slide.",
-            href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-1.jpg"
-        },
-        {
-            caption: "Monkey in training",
-            href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-2.jpg"
-        },
-        {
-            caption: "Spaz attack!",
-            href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-3.jpg"
-        },
-        {
-            caption: "Ride `Em, Molly!",
-            href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-4.jpg"
-        },
-        {
-            caption: "Don't mess with my zebra.",
-            href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-5.jpg"
-        }
-    ]
-};
-new PhotoGallery('photo-gallery', galleryData, {
-                    images: '*.photos',
-                    selectedIndex: '*.selected'
-                 });
-</script>
+    <script markdown="0">
+    var galleryData= {
+        selected: 0,
+        photos: [
+            {
+                caption: "Molly on the slide.",
+                href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-1.jpg"
+            },
+            {
+                caption: "Monkey in training",
+                href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-2.jpg"
+            },
+            {
+                caption: "Spaz attack!",
+                href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-3.jpg"
+            },
+            {
+                caption: "Ride `Em, Molly!",
+                href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-4.jpg"
+            },
+            {
+                caption: "Don't mess with my zebra.",
+                href: "http://localhost:8888/js/coherent/demo/widget/photos/molly-5.jpg"
+            }
+        ]
+    };
+    new PhotoGallery('photo-gallery', galleryData, {
+                        images: '*.photos',
+                        selectedIndex: '*.selected'
+                     });
+    </script>
 
 The buttons at the bottom allow visitors to cycle forward and backwards through the list of available photos. In this case, wrapping around is not supported, but would be easy to implement.
 

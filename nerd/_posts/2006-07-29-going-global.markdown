@@ -12,7 +12,8 @@ categories:
 So far, the most popular posts I've written (if you discount the [rant about syncing my mobile phone on Windows](http://nerd.newburyportion.com/2005/12/searing-pain)) are the two about getting dynamically loaded JavaScript code to execute in the global context.
 
 
-<!--more-->
+
+
 
 ## A Bit of History ##
 Just to recap, in [Ajaxian Limitation](http://nerd.newburyportion.com/2005/08/ajaxian-limitation) I complained about the difficulty I encountered trying to get the JavaScript returned from an `XmlHttpRequest` to function correctly. After poking around a bit, I encountered a clever solution to this problem which I documented in [The Magic Eval](http://nerd.newburyportion.com/2005/09/the-magic-eval). Thanks to the help of lots of people, I think I can offer a final reduction of the problem and solution.

@@ -43,52 +43,52 @@ I just tried to watch the most recent Colbert Report, Kevin, and I got the follo
     Crashed Thread:  0  Dispatch queue: com.apple.main-thread
     
     Thread 0 Crashed:  Dispatch queue: com.apple.main-thread
-    0   ...romedia.Flash Player.plugin	0x13a946ab FlashPlayer_10_0_42_34_FlashPlayer + 687051
-    1   com.apple.CoreFoundation      	0x96f4cedb __CFRunLoopRun + 8059
-    2   com.apple.CoreFoundation      	0x96f4a864 CFRunLoopRunSpecific + 452
-    3   com.apple.CoreFoundation      	0x96f4a691 CFRunLoopRunInMode + 97
-    4   com.apple.HIToolbox           	0x9597cf0c RunCurrentEventLoopInMode + 392
-    5   com.apple.HIToolbox           	0x9597ccc3 ReceiveNextEventCommon + 354
-    6   com.apple.HIToolbox           	0x9597cb48 BlockUntilNextEventMatchingListInMode + 81
-    7   com.apple.AppKit              	0x91c3eac5 _DPSNextEvent + 847
-    8   com.apple.AppKit              	0x91c3e306 -[NSApplication nextEventMatchingMask:untildate:inMode:dequeue:] + 156
-    9   com.apple.AppKit              	0x91c0049f -[NSApplication run] + 821
-    10  com.apple.WebKit.PluginHost   	0x00006123 0x1000 + 20771
-    11  com.apple.WebKit.PluginHost   	0x00001ef9 0x1000 + 3833
+    0   ...romedia.Flash Player.plugin    0x13a946ab FlashPlayer_10_0_42_34_FlashPlayer + 687051
+    1   com.apple.CoreFoundation          0x96f4cedb __CFRunLoopRun + 8059
+    2   com.apple.CoreFoundation          0x96f4a864 CFRunLoopRunSpecific + 452
+    3   com.apple.CoreFoundation          0x96f4a691 CFRunLoopRunInMode + 97
+    4   com.apple.HIToolbox               0x9597cf0c RunCurrentEventLoopInMode + 392
+    5   com.apple.HIToolbox               0x9597ccc3 ReceiveNextEventCommon + 354
+    6   com.apple.HIToolbox               0x9597cb48 BlockUntilNextEventMatchingListInMode + 81
+    7   com.apple.AppKit                  0x91c3eac5 _DPSNextEvent + 847
+    8   com.apple.AppKit                  0x91c3e306 -[NSApplication nextEventMatchingMask:untildate:inMode:dequeue:] + 156
+    9   com.apple.AppKit                  0x91c0049f -[NSApplication run] + 821
+    10  com.apple.WebKit.PluginHost       0x00006123 0x1000 + 20771
+    11  com.apple.WebKit.PluginHost       0x00001ef9 0x1000 + 3833
     
     Thread 1:  Dispatch queue: com.apple.libdispatch-manager
-    0   libSystem.B.dylib             	0x94f3d0ea kevent + 10
-    1   libSystem.B.dylib             	0x94f3d804 _dispatch_mgr_invoke + 215
-    2   libSystem.B.dylib             	0x94f3ccc3 _dispatch_queue_invoke + 163
-    3   libSystem.B.dylib             	0x94f3ca68 _dispatch_worker_thread2 + 234
-    4   libSystem.B.dylib             	0x94f3c4f1 _pthread_wqthread + 390
-    5   libSystem.B.dylib             	0x94f3c336 start_wqthread + 30
+    0   libSystem.B.dylib                 0x94f3d0ea kevent + 10
+    1   libSystem.B.dylib                 0x94f3d804 _dispatch_mgr_invoke + 215
+    2   libSystem.B.dylib                 0x94f3ccc3 _dispatch_queue_invoke + 163
+    3   libSystem.B.dylib                 0x94f3ca68 _dispatch_worker_thread2 + 234
+    4   libSystem.B.dylib                 0x94f3c4f1 _pthread_wqthread + 390
+    5   libSystem.B.dylib                 0x94f3c336 start_wqthread + 30
     
     Thread 2:
-    0   libSystem.B.dylib             	0x94f35856 select$DARWIN_EXTSN + 10
-    1   com.apple.CoreFoundation      	0x96f8addd __CFSocketManager + 1085
-    2   libSystem.B.dylib             	0x94f43fbd _pthread_start + 345
-    3   libSystem.B.dylib             	0x94f43e42 thread_start + 34
+    0   libSystem.B.dylib                 0x94f35856 select$DARWIN_EXTSN + 10
+    1   com.apple.CoreFoundation          0x96f8addd __CFSocketManager + 1085
+    2   libSystem.B.dylib                 0x94f43fbd _pthread_start + 345
+    3   libSystem.B.dylib                 0x94f43e42 thread_start + 34
     
     Thread 3:
-    0   libSystem.B.dylib             	0x94f3c182 __workq_kernreturn + 10
-    1   libSystem.B.dylib             	0x94f3c718 _pthread_wqthread + 941
-    2   libSystem.B.dylib             	0x94f3c336 start_wqthread + 30
+    0   libSystem.B.dylib                 0x94f3c182 __workq_kernreturn + 10
+    1   libSystem.B.dylib                 0x94f3c718 _pthread_wqthread + 941
+    2   libSystem.B.dylib                 0x94f3c336 start_wqthread + 30
     
     Thread 4:
-    0   libSystem.B.dylib             	0x94f1693a semaphore_timedwait_signal_trap + 10
-    1   libSystem.B.dylib             	0x94f44445 _pthread_cond_wait + 1066
-    2   libSystem.B.dylib             	0x94f73028 pthread_cond_timedwait_relative_np + 47
-    3   ...ple.CoreServices.CarbonCore	0x903b6235 TSWaitOnConditionTimedRelative + 242
-    4   ...ple.CoreServices.CarbonCore	0x903b5f73 TSWaitOnSemaphoreCommon + 511
-    5   ...ple.CoreServices.CarbonCore	0x903da16b TimerThread + 97
-    6   libSystem.B.dylib             	0x94f43fbd _pthread_start + 345
-    7   libSystem.B.dylib             	0x94f43e42 thread_start + 34
+    0   libSystem.B.dylib                 0x94f1693a semaphore_timedwait_signal_trap + 10
+    1   libSystem.B.dylib                 0x94f44445 _pthread_cond_wait + 1066
+    2   libSystem.B.dylib                 0x94f73028 pthread_cond_timedwait_relative_np + 47
+    3   ...ple.CoreServices.CarbonCore    0x903b6235 TSWaitOnConditionTimedRelative + 242
+    4   ...ple.CoreServices.CarbonCore    0x903b5f73 TSWaitOnSemaphoreCommon + 511
+    5   ...ple.CoreServices.CarbonCore    0x903da16b TimerThread + 97
+    6   libSystem.B.dylib                 0x94f43fbd _pthread_start + 345
+    7   libSystem.B.dylib                 0x94f43e42 thread_start + 34
     
     Thread 5:
-    0   libSystem.B.dylib             	0x94f3c182 __workq_kernreturn + 10
-    1   libSystem.B.dylib             	0x94f3c718 _pthread_wqthread + 941
-    2   libSystem.B.dylib             	0x94f3c336 start_wqthread + 30
+    0   libSystem.B.dylib                 0x94f3c182 __workq_kernreturn + 10
+    1   libSystem.B.dylib                 0x94f3c718 _pthread_wqthread + 941
+    2   libSystem.B.dylib                 0x94f3c336 start_wqthread + 30
     
     Thread 0 crashed with X86 Thread State (32-bit):
       eax: 0x0015c4d0  ebx: 0x96f4af71  ecx: 0x13a946a0  edx: 0x13fcf000

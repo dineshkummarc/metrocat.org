@@ -10,7 +10,8 @@ categories:
 I don't really mean to be contrary (No, really, I don't). But I don't get all this Web 2.0 stuff. Yes, I've read about [Tim Bray's discomfort with the Web 2.0 moniker](http://www.tbray.org/ongoing/When/200x/2005/08/04/Web-2.0). And I've read [Tim O'Reilly's response](http://radar.oreilly.com/archives/2005/08/not_20.html). But I just don't get it.
 
 The Web hasn't reached its second major revision. I'd be generous if I even said it was in the Beta phase of 1.0. Here's what I think we really need before we can claim the Web has *really* become a platform (hence 1.0).
-<!--more-->
+
+
 It seems everyone has an opinion on the whole Web 2.0 meme. Just check the [del.icio.us tag *Web 2.0*](http://del.icio.us/tag/web2.0). Everyone's got something to say about it -- and now I do too.
 
 My buddy Josh over on [Bokardo](http://www.bokardo.com/) has written about the whole thing several times -- he calls it the [Era of Interfaces](http://bokardo.com/archives/web-20-as-the-era-of-interfaces/), which I like rather better than Web 2.0. Josh thinks more about these things that I do -- and his insights are usually better reasoned than mine.
@@ -36,21 +37,21 @@ Yes, lots of server-side frameworks support a MVC-like implementation. But its a
 
 I want to be able to write HTML like the following to define an address book table:
 
-	<table id="userTable" contentKeyPath="applicationState.people">
-		<caption>Address Book</caption>
-		<col displayValueKeyPath="applicationState.people.firstName">
-		<col displayValueKeyPath="applicationState.people.lastName">
-		<col displayValueKeyPath="applicationState.people.emailAddress">
-		<thead>
-			<tr>
-				<th>First Name</th>
-				<th>Last Name</td>
-				<th>Email Address</td>
-			</tr>
-		</thead>
-		<tbody>
-		</tbody>
-	</table>
+    <table id="userTable" contentKeyPath="applicationState.people">
+        <caption>Address Book</caption>
+        <col displayValueKeyPath="applicationState.people.firstName">
+        <col displayValueKeyPath="applicationState.people.lastName">
+        <col displayValueKeyPath="applicationState.people.emailAddress">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</td>
+                <th>Email Address</td>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
 
 I'd expect designers to put sample data into the table while using DreamWeaver or a similar tool, but when it loads in the application it should be filled in automagically.
 

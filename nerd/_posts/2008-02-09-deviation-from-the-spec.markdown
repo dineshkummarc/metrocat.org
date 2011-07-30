@@ -8,7 +8,8 @@ categories:
 ---
 
 As I'm writing the documentation for various parts of the library, I've come across several places where I'm not adhering to the Cocoa spec exactly. In some cases, I think my implementation makes better sense for JavaScript. But in others, it's clear in hind sight why Apple chose to design the API the way it did.
-<!--more-->
+
+
 
 ## Deviant arrays ##
 
@@ -16,9 +17,9 @@ A good example of the differences between JavaScript and Cocoa can be seen with 
 
 In Cocoa, it makes good sense to keep change notifications out of NSMutableArray, because it maximises speed and efficiency. For convenience, you can ask an object for a mutable array that fires KVO change notifications by calling `mutableArrayValueForKey:`. Any changes you make to the array returned will be passed to observers of the array. In Coherent, I chose to extend the Array protoype with additional methods (like `objectsAtIndexes` and `insertObjectAtIndex`) patterned after the similar named methods of NSArray and NSMutableArray, however, because JavaScript lacks the ability to make a subclass of its Array and developers are free to access elements without calling methods, I chose to have the extended methods trigger KVO change notifications directly. The following code will fire two change notifications: one for removing the element and a second for inserting two elements.
 
-	var images= this.images();
-	images.removeObjectAtIndex(5);
-	images.insertObjectsAtIndexes([image1, image2], [2,5]);
+    var images= this.images();
+    images.removeObjectAtIndex(5);
+    images.insertObjectsAtIndexes([image1, image2], [2,5]);
 
 In Cocoa the equivalent code would be:
 
@@ -45,35 +46,35 @@ On the other hand, Cocoa makes no distinction between a null value caused by an 
 
 ### Foo.h ###
 
-	@interface Foo : NSObject
-	{
-		Bar* bar;
-	}
+    @interface Foo : NSObject
+    {
+        Bar* bar;
+    }
 
-	@property (readwrite, assign) Bar* bar;
-	@end
+    @property (readwrite, assign) Bar* bar;
+    @end
 
 ### Bar.h ###
 
-	@interface Bar : NSObject
-	{
-		NSString* name;
-	}
+    @interface Bar : NSObject
+    {
+        NSString* name;
+    }
 
-	@property (readwrite, copy) NSString* name;
-	@end
+    @property (readwrite, copy) NSString* name;
+    @end
 
 ### Foo.m ###
 
-	@implementation Foo
-	@synthesize bar;
+    @implementation Foo
+    @synthesize bar;
 
-	-(id)init
-	{
-		if (![super init])
-			return nil;
-		bar= nil;
-	}
+    -(id)init
+    {
+        if (![super init])
+            return nil;
+        bar= nil;
+    }
 
 Perhaps you already see where I'm going with this: if you have an NSTextField in your UI and its value is bound to `Foo.bar.name` (where `Foo` is an instance of the Foo class created in Interface Builder) there is no way to distinguish between the Foo missing a Bar object and the Bar object not having a name value. The only clue the user gets is that things don't update correctly.
 

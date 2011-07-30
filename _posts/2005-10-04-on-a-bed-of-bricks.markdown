@@ -24,7 +24,7 @@ I received a request from Super 8 Motels to rate our recent stay with them in Ki
 > After informing the supervisor of our ordeal, we were offered a mere 25% discount on our room, in which we had barely been able to sleep. It is my intent to dispute any charges Super 8 Kingston may make to my credit card. They do not deserve a single penny.
 > 
 > I travel regularly on business and I have never encountered such complete disregard for customer satisfaction. Had we merely endured fire alarms, a small discount would have been appropriate. However, to have sleep thwarted at every turn is unacceptable.
-	
+
 I suspect that in the budget hotel category customer loyalty doesn't exist. When I'm picking a hotel for business travel, I always pick one of the Marriott hotels. Not just because they have a rewards program (which I keep meaning to sign up for), but mostly because they're *really* attentive, even in their discount brands. I'll stay at a hotel from a different chain, but only if there's no Marriott nearby (or if my employer won't spring for anything better than the EconoLodge, which was the case when I worked in Manhattan).
 
 I doubt I'll hear anything further from Super 8. Would you contact a customer so thoroughly dissatisfied? Or would you write him off entirely?

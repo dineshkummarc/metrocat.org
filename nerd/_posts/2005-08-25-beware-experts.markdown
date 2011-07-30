@@ -9,10 +9,11 @@ categories:
 
 I'm accustomed to making broad statements without qualification (hey, I was in Sales for a while). But the other day, I was reading the Web site of a somewhat popular Javascript library written by a PhD, and after nearly every article on the site, I had to shake my head and ask, "Is this what they're teaching kids in Computer Science today?"
 
-Just one of the things that made me shake my head: *"The primary mechanism by which most modern OOP languages (such as Java and C#) implement this [Multiple Inheritance] is through the use of interfaces."*
+Just one of the things that made me shake my head: *"The primary mechanism by which most modern OOP languages (such as Java and C#) implement this \[Multiple Inheritance\] is through the use of interfaces."*
 
 Bzzzt! Wrong. And you've got a PhD? In What?
-<!--more-->
+
+
 ## The danger of experts ##
 
 Now I don't really have a problem with some kid standing up on his virtual soap box and making a fool of himself before the ink is even dry on his precious PhD sheepskin. What I really have a problem with is the general calibre of developer using Javascript is such that this sort of mistake will be accepted as gospel.

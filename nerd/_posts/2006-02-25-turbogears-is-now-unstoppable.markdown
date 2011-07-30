@@ -13,7 +13,8 @@ After an aborted attempt to create my own ORM, [I've endorsed SQLAlchemy](http:/
 
 Today marks an important milestone: You can now use [SQLAlchemy](http://sqlalchemy.org) in [TurboGears](http://turbogears.org).
 
-<!--more-->
+
+
 
 ## SQLAlchemy meet TurboGears
 
@@ -98,7 +99,10 @@ And now we can add a creator relation to the `Page` class.
             
             creator= relation( 'User', backref='pages' )
 
-Now the `User` and `Page` classes are linked. Each `Page` has a creator and each `User` has a collection of the pages he has authored. You might notice that SQLAlchemy is quite a bit more explicit than SQLObject. You need to declare the `creator_id` column _and_ the `creator` relation. Some might think this a bit burdensome, however, lots of times I've wanted to override the default SQLObject magic, but I couldn't, because the SQLObject philosophy comes directly from [Henry Ford](http://en.wikipedia.org/wiki/Henry_Ford): "You better like Black, `cause Black is what we got."
+Now the `User` and `Page` classes are linked. Each `Page` has a creator and each `User` has a collection of the pages he has authored. You might notice that SQLAlchemy is quite a bit more explicit than SQLObject. You need to declare the `creator_id` column _and_ the `creator` relation. Some might think this a bit burdensome, however, lots of times I've wanted to override the default SQLObject magic, but I couldn't, because the SQLObject philosophy comes directly from [Henry Ford][1]: "You better like Black, \`cause Black is what we got."
+
+   [1]: http://en.wikipedia.org/wiki/Henry_Ford
+
 
 ## Back-references
 

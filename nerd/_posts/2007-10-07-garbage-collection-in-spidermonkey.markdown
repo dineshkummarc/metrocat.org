@@ -8,25 +8,26 @@ categories:
 ---
 
 So let's say you're using SpiderMonkey (the JavaScript engine from Mozilla) to build a Web application server that naturally uses JavaScript as the server-side language. Naturally, you want to support XML, since you want to be taken seriously and of course, you don't want to write your own XML parser, because [libxml2](http://xmlsoft.org/) is really good. And because you want to be extra cool, you want your XML implementation to support [DOM level 3](http://www.w3.org/TR/2004/REC-DOM-Level-3-Core-20040407/) out of the box.
-<!--more-->
+
+
 
 
 
 All this means you'll be able to write code like the following:
 
-	function setValueOnParent(id) {
-		var doc= XmlDocument("file:///your-xml-file.xml");
-		var node= doc.getElementById(id);
-		node.parentNode.myValue="foo";
-		return node;
-	}
+    function setValueOnParent(id) {
+        var doc= XmlDocument("file:///your-xml-file.xml");
+        var node= doc.getElementById(id);
+        node.parentNode.myValue="foo";
+        return node;
+    }
 
 While this is basically nonsense code, it does exhibit some of the challenges of working with the SpiderMonkey code base. When this function runs, the JavaScript engine creates a total of 3 objects to represent the structure of the XML document: an instance of XmlDocument and two instances of XmlNode. When the function returns, the engine is only holding a reference to one XmlNode.
 
 But what if I have the following code that uses our fictitious `setValueOnParent` function?
 
-	var node= setValueOnParent("foo");
-	print("parent value=" + node.parentNode.myValue);
+    var node= setValueOnParent("foo");
+    print("parent value=" + node.parentNode.myValue);
 
 You'd expect to get `foo` as a result. If your wrapper for the XML library is naive, you won't keep the original JavaScript objects associated with the document and the parent node. Where would you put them? They have to be stored as a value on some other JavaScript object, and unless you want to reflect the entire XML tree in JavaScript, you're out of luck. (I know this example isn't very good, because the JavaScript objects _do_ have references to each other.)
 

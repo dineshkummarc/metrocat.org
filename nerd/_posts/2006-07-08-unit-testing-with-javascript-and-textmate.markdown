@@ -11,7 +11,8 @@ categories:
 If you write lots of JavaScript -- and boy, do I write a bit of JavaScript -- you might be interested in a nice little unit testing library I've put together. There are several other JavaScript unit testing libraries out there, but they all assume you want to execute your scripts in a browser. For gnarly library code, like my implementation of Apple's Cocoa Bindings for the DOM, running from the command line is much more conducive to integration into a _real_ development process.
 
 
-<!--more-->
+
+
 If everything goes well, you get output like the following:
 
     9 tests: 9 passed, 0 failed

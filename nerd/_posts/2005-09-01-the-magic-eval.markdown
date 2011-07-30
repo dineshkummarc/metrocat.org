@@ -13,7 +13,8 @@ of an `XMLHttpRequest`.
 
 But `eval` can be tricky and extremely frustrating. Let's dive into some of
 the most critical aspects...
-<!--more-->
+
+
 ## What is `eval`? ##
 
 Most simply, `eval` is a method on the global object (AKA a global

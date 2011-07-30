@@ -1,5 +1,6 @@
 ---
-title: Home
+title: metrocat
+layout: home
 ---
 
 Roses are red
@@ -14,12 +15,12 @@ Foo this_is_code but this _is_ _silly_.
 
 This is my index
 
-    !js
-    var foo= function()
-    {
-        console.log("foo");
-    };
-
+{% highlight js linenos %}
+var foo= function()
+{
+    console.log("foo");
+};
+{% endhighlight %}
 
 Latest posts:
 

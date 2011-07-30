@@ -8,7 +8,8 @@ categories:
 ---
 
 One of my goals for Coherent 1.1 is the option of using a declarative syntax to set up child widgets. This would greatly simplify the average `init` method and make the code a bit clearer and easier to understand.
-<!--more-->
+
+
 
 Essentially, I'm thinking of something like the following:
 

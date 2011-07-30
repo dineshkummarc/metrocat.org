@@ -24,7 +24,7 @@ The response I received was distinctly underwhelming. Only one person responded,
 >There's a bunch of thread on JavaScript Lint floating around the
 >mailing list already,
 >
->My position regrading JS Lint is that if it requires [us] to go through 160
+>My position regrading JS Lint is that if it requires \[us\] to go through 160
 >warnings to find one that really is an issue, its certainly not the
 >best tool for the job.
 >

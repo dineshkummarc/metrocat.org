@@ -31,15 +31,25 @@ Here are some highlights (click on each highlight for more info):
 
 Molly was able to spend a little time with each family member, plus a little bit extra for the grandparents. She also met Aunt Dianne and Uncle Joe for the first time, along with their incredible bird collection.
 
-<div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=128049126"><img class="photo" src="http://static.flickr.com/1/128049126_34b2973573.jpg" alt="Grumpy With Grandma" border="0"></a> </div> Sorry Grandma. Molly doesn't do "happy".
+<div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=128049126"><img class="photo" src="http://static.flickr.com/1/128049126_34b2973573.jpg" alt="Grumpy With Grandma" border="0"></a> </div>
 
-<div class="figure" align="left"><a href="http://www.flickr.com/photo.gne?id=125704312"><img class="photo" src="http://static.flickr.com/55/125704312_4e6b987661.jpg" alt="Molly &amp; Grandpa W" border="0"></a> </div> Grandpa could never have a serious conversation with his little buddy.
+Sorry Grandma. Molly doesn't do "happy".
 
-<div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=125704297"><img class="photo" src="http://static.flickr.com/36/125704297_037c6decb2.jpg" alt="Grandpa's POV" border="0"></a> </div> Maybe it was hard to do serious in that hat.
+<div class="figure" align="left"><a href="http://www.flickr.com/photo.gne?id=125704312"><img class="photo" src="http://static.flickr.com/55/125704312_4e6b987661.jpg" alt="Molly &amp; Grandpa W" border="0"></a> </div>
 
-<div class="figure" align="right"><a href="http://www.flickr.com/photo.gne?id=128181283"><img class="photo" src="http://static.flickr.com/47/128181283_e29b7e1383.jpg" alt="Easily Entertained" border="0"></a> </div> Who entertained who more?
+Grandpa could never have a serious conversation with his little buddy.
 
-<div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=128050162"><img class="photo" src="http://static.flickr.com/1/128050162_6a87446c0e.jpg" alt="Tired Tourists" border="0"></a> </div> Near the end of the day, Molly both looks and acts like her father in the enthusiasm department.
+<div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=125704297"><img class="photo" src="http://static.flickr.com/36/125704297_037c6decb2.jpg" alt="Grandpa's POV" border="0"></a> </div>
+
+Maybe it was hard to do serious in that hat.
+
+<div class="figure" align="right"><a href="http://www.flickr.com/photo.gne?id=128181283"><img class="photo" src="http://static.flickr.com/47/128181283_e29b7e1383.jpg" alt="Easily Entertained" border="0"></a> </div>
+
+Who entertained who more?
+
+<div class="figure" align="center"><a href="http://www.flickr.com/photo.gne?id=128050162"><img class="photo" src="http://static.flickr.com/1/128050162_6a87446c0e.jpg" alt="Tired Tourists" border="0"></a> </div>
+
+Near the end of the day, Molly both looks and acts like her father in the enthusiasm department.
 
 ##BATH TIME##
 
@@ -63,11 +73,17 @@ Molly managed another first in Florida:
 
 Although Molly seemed to enjoy not having to be thoroughly bundled, she still had to be shaded to protect her fair skin. We didn't want to introduce her to her first sunburn as well.
 
-<div class="figure"><a href="http://www.flickr.com/photo.gne?id=128052605"><img class="photo" src="http://static.flickr.com/51/128052605_46a59bde6b.jpg" alt="Fat Little Tourist" border="0"></a> </div> All she needed was a camera around her neck.
+<div class="figure"><a href="http://www.flickr.com/photo.gne?id=128052605"><img class="photo" src="http://static.flickr.com/51/128052605_46a59bde6b.jpg" alt="Fat Little Tourist" border="0"></a> </div>
 
-<div class="figure"><a href="http://www.flickr.com/photo.gne?id=128196559"><img class="photo" src="http://static.flickr.com/44/128196559_983294ca5d.jpg" alt="Whew, It's Hot!" border="0"></a> </div> 80-something degrees was quite a shock for us northerners.
+All she needed was a camera around her neck.
 
-<div class="figure"><a href="http://www.flickr.com/photo.gne?id=128196383"><img class="photo" src="http://static.flickr.com/1/128196383_15854c9138.jpg" alt="Can We Go Inside Now?" border="0"></a> </div> Molly is rather well insulated, and as she is yet unable to partake of the appropriate amount of lemonade to counter the heat, we decided to head inside.
+<div class="figure"><a href="http://www.flickr.com/photo.gne?id=128196559"><img class="photo" src="http://static.flickr.com/44/128196559_983294ca5d.jpg" alt="Whew, It's Hot!" border="0"></a> </div>
+
+80-something degrees was quite a shock for us northerners.
+
+<div class="figure"><a href="http://www.flickr.com/photo.gne?id=128196383"><img class="photo" src="http://static.flickr.com/1/128196383_15854c9138.jpg" alt="Can We Go Inside Now?" border="0"></a> </div>
+
+Molly is rather well insulated, and as she is yet unable to partake of the appropriate amount of lemonade to counter the heat, we decided to head inside.
 
 ##THE RIDE HOME##
 

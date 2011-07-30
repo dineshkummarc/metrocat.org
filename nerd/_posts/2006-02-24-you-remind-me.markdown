@@ -13,7 +13,8 @@ Just yesterday I noticed something peculiar about Microsoft Outlook:
 
 That just seems wrong.
 
-<!--more-->
+
+
 
 There ought to be a configuration somewhere that allows me to specify my default reminder settings. For example, I'm slow and like to be reminded at least 30 minutes in advance of my next meeting. (I'd also like to be reminded *again* 5 minutes before but that's another story.) On the other hand, someone with a better memory might not want to be reminded at all.
 
