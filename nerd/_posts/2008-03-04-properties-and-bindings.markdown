@@ -145,6 +145,8 @@ This can be reflected in your UI with the following mark up:
 
 And ultimately, this yields the following interaction:
 
+<!-- FIXME: This is totally broken... -->
+{% highlight html linenos %}
 <style>
 .inline-demo fieldset div
 {
@@ -182,6 +184,7 @@ And ultimately, this yields the following interaction:
     coherent.DataModel('person', {name: 'Bozo the Clown'});
     coherent.setupNode($('properties-bindings-demo1'));
 </script>
+{% endhighlight %}
 
 As you modify the value in the input field, the values are pushed into your data model. First the `InputWidget` calls `setValueForKeyPath` to update the data model with the current value of the input field. The `Person` object triggers a change notification, which is observed by the `TextWidget`. The `TextWidget` updates its associated DOM node with the new value.
 
