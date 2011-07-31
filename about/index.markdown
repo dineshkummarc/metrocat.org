@@ -1,10 +1,6 @@
 ---
-layout: post
+layout: page
 title: About Us
-date: 2005-11-26
-author: Jeff Watkins
-categories:
-- Miscellaneous
 ---
 
 Today you crazy kids think nothing of meeting, dating, and even marrying on the internet. But back in 1996, it was much like the wild west, only a lot geekier.

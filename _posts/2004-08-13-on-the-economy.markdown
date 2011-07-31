@@ -23,4 +23,4 @@ Not one of these actions or policies has been good for the American people, and 
 
 Leaving out all together whether George Bush and his Administration lied to the American people in order to bolster support for his personal vendetta against Saddam Hussein, whether George Bush personally endorsed using torture on prisoners in both Cuba and Iraq, and whether the Administration's foreign policy has put our Nation more at risk of terrorism than before George Bush took office (according to the White House's own revised estimate of terrorist activity during 2003), George Bush's policies and actions have had disastrous results for the economy.
 
-<i>Note: I know I owe you some links to support these facts, but I'm heading out the door to work now. I'll add the links later today.</i>
+_Note: I know I owe you some links to support these facts, but I'm heading out the door to work now. I'll add the links later today._

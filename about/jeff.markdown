@@ -1,10 +1,6 @@
 ---
-layout: post
+layout: page
 title: About Jeff
-date: 2005-11-26
-author: Jeff Watkins
-categories:
-- Miscellaneous
 ---
 
 Although born in Florida, I grew up in Setauket, NY -- a small town in semi-rural Long Island, NY. The NY branch of the Watkins clan returned to Florida in 1984, however, I escaped to Atlanta, GA just five years later to pursue a Computer Science degree at Georgia Tech. Recruited away from GA Tech by the now defunct maker of PC Paintbrush for Windows (zSoft), I have developed software for Lotus, Microsoft, Primus, Attachmate, and a host of smaller companies.

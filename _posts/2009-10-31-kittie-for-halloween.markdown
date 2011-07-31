@@ -9,4 +9,4 @@ categories:
 
 We wanted to visit our friends in the Market before heading out for Trick-or-Treating. This is Molly standing in front of the Corner Produce stand:
 
-<div class="figure"><img class="photo" src="/assets/2009/10/p_2048_1536_583E0108-B0D4-498B-9CBE-5E1FE18C2ED6.jpeg" alt=""></div>
+<div class="figure"><a href="http://www.flickr.com/photos/jeffwatkins/5992859058/" title="IMG_0309 by jeffwatkins, on Flickr"><img src="http://farm7.static.flickr.com/6030/5992859058_fffca2971e.jpg"></a></div>

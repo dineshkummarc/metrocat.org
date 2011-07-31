@@ -13,13 +13,13 @@ The highlight of the trip was Rexburg, ID. Aside from the pants drooping down ar
 
 After we shared a personal cheese pizza from Rexburg's own [5 Buck Pizza](http://www.5buckpizza.com/), Molly and I headed over to Porter Park where I'd been lead to believe a carousel might be found. When we lived in Los Gatos, Molly loved riding on the carousel in Porter park. So I thought this would be a great treat. Unfortunately, like a lot of the things on our trip, the carousel was closed for the season. Perhaps it was still running on the weekends, but we weren't going to hang around to find out. Instead, Molly listened to the monkey portion of her genetic makeup and explored the play structures including this jungle gym.
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4991806059" title="View 'IMG_0614' on Flickr.com"><img height="" class="photo" src="http://farm5.static.flickr.com/4147/4991806059_5af8ff0236_m.jpg" width=""/></a></div>
+<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4991806059" title="View 'IMG_0614' on Flickr.com"><img height="" class="photo" src="http://farm5.static.flickr.com/4147/4991806059_5af8ff0236.jpg" width=""/></a></div>
 
 We also held a couple races to see who was faster. To the victor went the promise of a free ice cream after dinner. I'm just as fond of free ice cream as the next guy, but Molly insisted I wasn't permitted to win. So the title of fastest person in the park went to Molly.
 
 Much to soon for Molly, it was time to return to the Miata and get **back** on ID-33 heading east, east, east. We stopped for a few photographs as soon as the Tetons were visible, but there really wasn't much else in the neighbourhood.
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4991753537" title="View 'IMG_0678' on Flickr.com"><img height="180" class="photo" src="http://farm5.static.flickr.com/4109/4991753537_50722b561e_m.jpg" width="240" style="vertical-align:middle;"/></a> &nbsp; <a href="http://www.flickr.com/photos/51164044@N00/4991753113" title="View 'IMG_0677' on Flickr.com"><img height="135" class="photo" src="http://farm5.static.flickr.com/4151/4991753113_9134217c1a_m.jpg" width="240" style="vertical-align:middle;"/></a></div>
+<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4991753537" title="View 'IMG_0678' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4109/4991753537_50722b561e.jpg" style="vertical-align:middle;"/></a> &nbsp; <a href="http://www.flickr.com/photos/51164044@N00/4991753113" title="View 'IMG_0677' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4151/4991753113_9134217c1a.jpg" style="vertical-align:middle;"/></a></div>
 
 The two-lane road made one more name change (from ID-33 to WY-22) before we made our first actual turn (a left) onto WY-191. Molly and I let out a huge cheer. Of course, we were now driving through downtown Jackson, which might bear further investigation at a later date. But my first impression wasn't entirely favourable.
 

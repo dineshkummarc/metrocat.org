@@ -2,3 +2,9 @@
 {
   height: 160px;
 }
+
+/* marker for layout */
+.debug .header h1::after
+{
+  content: '480';
+}

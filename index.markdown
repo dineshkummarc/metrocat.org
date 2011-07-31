@@ -10,7 +10,7 @@ So are you
 
 Foo this_is_code but this _is_ _silly_.
 
-> "I'm a day vampire. I can go out during the day, not at night."
+> I'm a day vampire. I can go out during the day, not at night.<br>
 > -- Molly
 
 This is my index
@@ -22,7 +22,7 @@ var foo= function()
 };
 {% endhighlight %}
 
-Latest posts:
+<h2>Latest posts</h2>
 
 <ul>
 {% for post in site.posts limit:10 %}
@@ -30,7 +30,7 @@ Latest posts:
 {% endfor %}
 </ul>
 
-Categories:
+<h2>Categories</h2>
 
 <ul>
 {% for category in site.categories_sorted %}

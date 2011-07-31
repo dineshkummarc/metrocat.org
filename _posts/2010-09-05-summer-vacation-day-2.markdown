@@ -21,18 +21,18 @@ Then we drove still a bit more until we finally reached this little poopstain of
 
 Then we drove some more. We actually missed the turn for Rt 93 down to Salmon and had to backtrack. I was distracted by Molly's rendition of how boy and girl squirrel dance. It turns out they dance totally different. Neither one of us exactly knows why.
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4992350612" title="View 'IMG_0637' on Flickr.com"><img height="240" class="photo" src="http://farm5.static.flickr.com/4152/4992350612_e7b9ee2124_m.jpg" width="180"/></a></div>
+<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4992350612" title="View 'IMG_0637' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4152/4992350612_e7b9ee2124.jpg" /></a></div>
 
 About an hour away from Salmon, ID we stopped at the Ravalli County Fair Grounds where an amusement park had been set up. When we walked through the gate, we doubled the attendance for the hour. But it was great: no lines and eager attendants.
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4991827805" title="View 'MVI_0641' on Flickr.com"><img height="180" class="photo" src="http://farm5.static.flickr.com/4113/4991827805_fa04da3ca0_m.jpg" width="240"/></a></div>
+<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4991827805" title="View 'MVI_0641' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4113/4991827805_fa04da3ca0.jpg" /></a></div>
 
 Although most of the rides were targeted at younger folks, Molly did manage to get me up in the ferris wheel and into the fun house. The ferris wheel was pretty cool, we were able to see for miles and Molly actually asked why the mountains look like they were broken. Perhaps a budding Geologist in the works...
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4992351936" title="View 'IMG_0642' on Flickr.com"><img height="180" class="photo" src="http://farm5.static.flickr.com/4150/4992351936_8c9e0f315b_m.jpg" width="240"/></a></div>
+<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4992351936" title="View 'IMG_0642' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4150/4992351936_8c9e0f315b.jpg" /></a></div>
 
 And for a finale, Molly enjoyed some cotton candy. Why can't they sell that horrible stuff in small bags? Why must I now cart around a metric tonne of cotton candy? The worst is enduring Molly's constant pleading to have some more.
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4991810661" title="View 'IMG_0667' on Flickr.com"><img height="240" class="photo" src="http://farm5.static.flickr.com/4088/4991810661_fb47742a09_m.jpg" width="240"/></a></div>
+<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4991810661" title="View 'IMG_0667' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4088/4991810661_fb47742a09.jpg" /></a></div>
 
 Tomorrow we're going rafting on the Salmon river, but if the weather continues cold, we may make other plans.

@@ -48,8 +48,12 @@
     
     <link rel="edit" href="txmt://open?url=file://{{page.path}}">
   </head>
-  
+
+{% if site.debug-layout %}  
+  <body class="debug">
+{% else %}
   <body>
+{% endif %}
     <div class="header">
       <h1><a href="/">Metrocat</a></h1>
     </div>

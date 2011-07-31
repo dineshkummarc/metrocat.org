@@ -97,35 +97,42 @@ blockquote
 
 ul, ol
 {
-  margin: 1em 0 1em 1em;
+  margin: 1em 0 1em 2em;
 }
 
 ol li
 {
-  list-style: decimal outside;
+  list-style: decimal;
 }
 
 ul li
 {
-  list-style: disc outside;
+  list-style: disc;
+}
+
+pre
+{
 }
 
 code
 {
   font-family: "menlo", monospace;
+  font-size: 90%;
 }
 
-img.photo
+sup, sub
 {
-  margin: 1em;
+  /* fix awkward line-height changes when a line contains super or sub-script text */
+  line-height: 0;
+  font-size: 90%;
 }
 
-div.figure
+sup
 {
-  margin: 1em;
+  vertical-align: super;
 }
 
-div.figure img.photo
+sub
 {
-  margin: 0;
+  vertical-align: sub;
 }
