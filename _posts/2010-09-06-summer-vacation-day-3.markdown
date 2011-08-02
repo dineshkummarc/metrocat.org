@@ -15,17 +15,17 @@ We arrived a bit early at the Idaho Adventures office -- which seems to double a
 
 At last, it was time to raft.
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4992357782" title="View 'IMG_0668' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4145/4992357782_b8a04962b9.jpg" /></a></div>
+<figure><a href="http://www.flickr.com/photos/51164044@N00/4992357782" title="View 'IMG_0668' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4145/4992357782_b8a04962b9.jpg"></a></figure>
 
 We all donned our life vests. Mine had to be loosened first; I guess that's a slight hint at what awaits me upon my return to Seattle. We put in just under the bridge across the Salmon river and floated downstream. The water was very mild; we barely got wet at all. After seeing some deer and enjoying the rock formations, Martine gave Molly the opportunity to take the oars.
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4992364550" title="View 'IMG_0671' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4104/4992364550_588d376398.jpg" /></a> &nbsp; <a href="http://www.flickr.com/photos/51164044@N00/4992365062" title="View 'IMG_0672' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4090/4992365062_72777724e5.jpg" /></a></div>
+<figure><a href="http://www.flickr.com/photos/51164044@N00/4992364550" title="View 'IMG_0671' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4104/4992364550_588d376398.jpg"></a> &nbsp; <a href="http://www.flickr.com/photos/51164044@N00/4992365062" title="View 'IMG_0672' on Flickr.com"><img class="photo" src="http://farm5.static.flickr.com/4090/4992365062_72777724e5.jpg"></a></figure>
 
 Given what a nut my little sweetie can be, I was surprised that Martine was not only able to keep her patience, but actually maintained a smile the entire time.
 
 In addition to guiding us clear of the deadly Salmon river crocodile, Martine gave us a good suggestion for a short hike tomorrow: Gold bug hot springs. About 30 minutes south on US93 is a collection of natural hot springs. They're a short hike away from the road, but she assured us they were well worth the effort. They're not exactly on our way to the Grand Tetons, but I'll give Molly the option tomorrow.
 
-<div class="figure"><a href="http://www.flickr.com/photos/51164044@N00/4992413198" title="View 'IMG_0675' on Flickr.com"><img height="" class="photo" src="http://farm5.static.flickr.com/4132/4992413198_bdfe0b4499.jpg" width=""/></a></div>
+<figure><a href="http://www.flickr.com/photos/51164044@N00/4992413198" title="View 'IMG_0675' on Flickr.com"><img height="" class="photo" src="http://farm5.static.flickr.com/4132/4992413198_bdfe0b4499.jpg" width=""></a></figure>
 
 After Martine dropped us off back at the office, Molly and I hit the pool and hot tub over at the hotel. Molly showed off her swimming prowess and earned an ice cream by swimming all the way across the pool by herself. She's got a little way to go before she's tapping on Mark Spitz's toes to pass, but it won't be too long.
 

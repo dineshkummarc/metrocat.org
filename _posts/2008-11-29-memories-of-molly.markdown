@@ -15,11 +15,11 @@ One of the things that made (and still makes) Molly special is she's not content
 
 One Saturday morning in July of 2006, Molly and I were playing in her room while Anna slept off one of her more wild nights (you know how she is). Molly decided this just wouldn't do; so she crawled out of her room and down the hall to our bedroom.
 
-<div class="figure"><img class="photo" src="/assets/2008/11/molly-1.png" alt="Molly-1.png" border="0" ></div>
+<figure><img class="photo" src="/assets/2008/11/molly-1.png" alt="Molly-1.png" border="0"></figure>
 
 Although she was disappointed at first that Anna wasn't awake, Molly didn't let that stop her. She crawled into the room making enough racket that Anna didn't stand a chance -- although, truth be told, Anna sleeps with ear plugs in because someone in the next apartment snores.
 
-<div class="figure"><img class="photo" src="/assets/2008/11/molly-2.png" alt="Molly-2.png" border="0" ></div>
+<figure><img class="photo" src="/assets/2008/11/molly-2.png" alt="Molly-2.png" border="0"></figure>
 
 ## Trouble Brewing ##
 

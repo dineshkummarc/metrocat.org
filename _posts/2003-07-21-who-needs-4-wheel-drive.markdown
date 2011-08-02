@@ -9,9 +9,9 @@ categories:
 
 On Sunday, Anna and I went for a drive. We put the top down and headed up to her Cousin Kim's house in Orange Co., NY. After a brief visit with Kim, her Husband. Pumpkin the Cat, and their new puppy Rusty, we drove west into the green woods of Pennsylvania, where we promptly got a little lost. Eventually, we returned to the Delaware River area where we discovered the town of Walpack, NJ.
 
-<div class="figure">
+<figure>
 <img class="photo" src="/photos/walpacknj.jpg" alt="Walpack, NJ">
-</div>
+</figure>
 
 Of course, discovering the town wasn't enough. I saw a small road leading away into the hills and decided we should follow it. This road quickly degraded into a shell-pocked dirt track, which necessitated a drop into second gear for the better part of two miles. After soliciting directions from a passing pickup truck, we found our way (so slowly) to a little waterfall. At the base of the waterfall is a map of the area, complete with a "You are Here" marker. The map didn't make us feel hopeful about pressing on: we were only a tenth of the way down the road.
 

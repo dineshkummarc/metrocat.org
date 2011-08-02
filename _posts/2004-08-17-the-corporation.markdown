@@ -7,7 +7,7 @@ categories:
 - Movies
 ---
 
-<a href="http://www.thecorporation.com"> <img style="float:right" alt="The Corporation" title="The Corporation" src="/images/thecorporation.png" ></a>
+<a href="http://www.thecorporation.com"> <img alt="The Corporation" title="The Corporation" src="/images/thecorporation.png"></a>
 
 If you haven't already gone to see <a href="http://www.thecorporation.com"><i>The Corporation</i></a>, it's playing at <a href="http://www.upstatefilms.com/">Upstate Films</a>. I'm not entirely certain how I feel after seeing it. I'll need to think about it some more, but I know for certain that we will only be buying organic milk from now on.
 

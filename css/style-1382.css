@@ -1,0 +1,10 @@
+.header
+{
+  height: 200px;
+}
+
+/* marker for layout */
+.debug .header h1::after
+{
+  content: '1382';
+}

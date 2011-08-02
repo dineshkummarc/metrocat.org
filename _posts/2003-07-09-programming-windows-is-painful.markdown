@@ -38,7 +38,7 @@ You would think this would be an easy scheme to implement. But once you through 
     class EXPORT Iterator
     {
         public:
-             class <span style="color:red">EXPORT</span> IteratorRep
+             class EXPORT IteratorRep
              {
                   public:
                         virtual ~IteratorRep() {}

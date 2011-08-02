@@ -7,7 +7,7 @@ categories:
 - Life
 ---
 
-<img style="float: right;" alt="Phoenix logo" title="Logo of Phoenix Rising restaurant in Rinebeck, NY" src="/images/phoenix.png">
+<img alt="Phoenix logo" title="Logo of Phoenix Rising restaurant in Rinebeck, NY" src="/images/phoenix.png">
 There's a new-ish restaurant in town, [Phoenix Rising][1]. They serve
 traditional comfort foods like burgers, mac-n-cheese, pastas, etc. But two
 things make them stand out:

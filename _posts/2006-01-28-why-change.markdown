@@ -7,9 +7,9 @@ categories:
 - Life
 ---
 
-<div class="figure">
+<figure>
 <img class="photo" src="/assets/2006/01/teapot.png" alt="Tea pot with Twinings English Breakfast ">
-</div>
+</figure>
 
 Perhaps you know that I drink tea. Lots of tea. Between 10 and 20 cups of tea each day (actually that's really 4-9 mugs of tea, but it takes 10 to 20 cups of water).
 

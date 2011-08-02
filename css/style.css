@@ -73,6 +73,11 @@ article
   margin: 20px;
 }
 
+article p
+{
+  -webkit-hyphens: auto;
+}
+
 header
 {
   display: block;
@@ -99,33 +104,23 @@ article footer
 
 article footer a
 {
-  display: table-cell;
-  width: 50%;
-  margin: 0;
-  padding: 0;
 }
 
 article footer a:first-child::before
 {
-  content: '« ';
-  position: absolute;
-  display: block;
-  left: 0;
-  top: 0;
+  content: 'previous: ';
 }
 
-article footer a:nth-child(2)
+article footer a:nth-child(2)::before
 {
-  text-align: right;
+  content: 'next: ';
 }
 
-article footer a:nth-child(2)::after
+article footer a:first-child::after
 {
-  content: ' »';
-  position: absolute;
+  content: '.';
   display: block;
-  right: 0;
-  top: 0;
+  text-indent: -9999px;
 }
 
 pre
@@ -134,11 +129,10 @@ pre
   max-width: 100%;
 }
 
-div.figure > a
+figure
 {
-  display: inline-block;
-  width: 100%;
   text-align: center;
+  margin: 1em 0;
 }
 
 img.photo
@@ -146,9 +140,13 @@ img.photo
   margin: 1em;
 }
 
-div.figure img.photo
+figure img.photo,
+figure img[src*="flickr.com"]
 {
   margin: 0;
+  border-radius: 10px;
+  box-shadow: rgba(0,0,0,0.5) 0 2px 5px;
+  xvertical-align: middle;
 }
 
 img

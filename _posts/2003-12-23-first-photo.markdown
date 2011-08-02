@@ -9,7 +9,7 @@ categories:
 
 We've been remiss in getting the photographs from our wedding finished. Now I understand what a wedding photographer gets paid several thousand dollars to do: tweak the levels, clone bricks and generally take good raw materials and from them create lasting memories.
 
-<figure >
+<figure>
 <img class="photo" src="/photos/portrait.jpg" border="0" alt="wedding portrait">
 </figure>
 

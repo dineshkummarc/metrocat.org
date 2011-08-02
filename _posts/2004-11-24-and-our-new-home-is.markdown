@@ -9,7 +9,7 @@ categories:
 
 Newburyport, MA!
 
-<div class="figure"><img class="photo" alt="Photo of Newburyport, MA" src="/images/newburyport.jpg"></div>
+<figure><img class="photo" alt="Photo of Newburyport, MA" src="/images/newburyport.jpg"></figure>
 
 What a cute, busy little city near the New Hampshire border! After much searching (and much agonizing), it looks as though we will be moving to our best location yet.
 
