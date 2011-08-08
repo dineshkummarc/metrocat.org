@@ -95,21 +95,6 @@ blockquote
   font-style: italic;
 }
 
-ul, ol
-{
-  margin: 1em 0 1em 2em;
-}
-
-ol li
-{
-  list-style: decimal;
-}
-
-ul li
-{
-  list-style: disc;
-}
-
 pre
 {
 }

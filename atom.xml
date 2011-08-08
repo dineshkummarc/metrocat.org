@@ -1,0 +1,31 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>metrocat</title>
+  <link href="http://metrocat.org/" />
+  <link type="application/atom+xml" rel="self" href="http://metrocat.org/atom.xml" />
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://metrocat.org/</id>
+  <author>
+    <name>Jeff Watkins</name>
+    <email>jeff@metrocat.org</email>
+  </author>
+
+  {% for post in site.posts limit:10 %}
+  <entry>
+    <id>http://metrocat.org{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://metrocat.org{{ post.url }}" />
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>{{ post.author }}</name>
+      <uri>http://metrocat.org/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+ 
+</feed>

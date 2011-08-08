@@ -1,0 +1,23 @@
+<div class="footer">
+  <section>
+    <h2>Latest posts</h2>
+
+    <ul>
+    {% for post in site.posts limit:10 %}
+    <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% endfor %}
+    </ul>
+  </section>
+  
+  <section>
+    <h2>Categories</h2>
+
+    <ul>
+    {% for category in site.categories_sorted %}
+    <li><a href="/{{category[0] | downcase}}">{{category[0]}}
+      <span class="count">({{category[1].size}})</span></a>
+    </li>
+    {% endfor %}
+    </ul>
+  </section>
+</div>

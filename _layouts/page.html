@@ -1,13 +1,11 @@
 ---
 layout: default
 ---
-<article>
-  <header>
-    <h1>{{ page.title }}</h1>
-    {% if page.author %}
-    <p>by {{ page.author }}</p>
-    {% endif %}
-  </header>
-  
-  {{content}}
-</article>
+
+<div class="body">
+{{ content }}
+
+{% if site.debug-layout %}  
+<a class="edit-link" href="txmt://open?url=file://{{page.path}}">Edit</a>
+{% endif %}
+</div>

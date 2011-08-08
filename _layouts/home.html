@@ -2,4 +2,38 @@
 layout: default
 ---
 
-{{content}}
+<div class="body">
+{{ content }}
+
+{% if site.debug-layout %}  
+<a class="edit-link" href="txmt://open?url=file://{{page.path}}">Edit</a>
+{% endif %}
+
+{% assign latest = site.posts.first %}
+<article>
+  <header>
+    <h1>{{ latest.title }}</h1>
+    <p>by {{ latest.author }} on <time pubdate datetime="{{latest.date | date_to_xmlschema}}">{{latest.date | date_to_long_string}}</time></p>
+  </header>
+  
+  {{latest.content}}
+
+  <footer>
+    {% if latest.previous.url %} 
+    <div>
+      Previous: <a class="previous-post" href="{{latest.previous.url}}" title="Previous Post: {{latest.previous.title}}">{{latest.previous.title}}</a> 
+    </div>
+    {% endif %} 
+    {% if latest.next.url %} 
+    <div>
+      Next: <a class="next-post" href="{{latest.next.url}}" title="next Post: {{latest.next.title}}">{{latest.next.title}}</a>
+    </div>
+    {% endif %}
+  </footer>
+</article>
+</div>
+
+{% include flickr.html %}
+
+
+

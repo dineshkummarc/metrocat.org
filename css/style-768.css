@@ -1,10 +1,48 @@
-.header
+body
 {
-  height: 200px;
+  background-color: #ccc;
+}
+
+.header,
+.body,
+.footer
+{
+  width: 728px;
+  margin: 0 auto;
+}
+
+#flickr
+{
+  width: 768px;
+  margin: 0 auto;
 }
 
 /* marker for layout */
 .debug .header h1::after
 {
   content: '768';
+}
+
+.header h1
+{
+  display: inline-block;
+}
+
+.header p
+{
+  display: inline-block;
+  margin: 0 0 0 0.5em;
+}
+
+.footer section
+{
+  display: inline-block;
+  margin-right: 30px;
+  vertical-align: top;
+  width: 344px;
+}
+
+.footer section:last-child
+{
+  margin-right: 0;
 }
