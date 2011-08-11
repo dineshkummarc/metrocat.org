@@ -10,11 +10,11 @@ source:      .
 destination: ./_site
 plugins:     ./_plugins
 
-# future:      false
-# lsi:         false
-# pygments:    true
-# markdown:    maruku
-# permalink:   /:year/:month/:title
+future:      false
+lsi:         false
+pygments:    true
+markdown:    maruku
+permalink:   /:year/:month/:title
 
 # maruku:
 #   use_tex:    false

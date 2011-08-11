@@ -41,9 +41,9 @@ module Jekyll
       end
 
       # in very clear cases, let newlines become <br> tags
-      text.gsub!(/^[\w\<][^\n]*\n+/) do |x|
-        x =~ /\n{2}/ ? x : (x.strip!; x << "  \n")
-      end
+      # text.gsub!(/^[\w\<][^\n]*\n+/) do |x|
+      #   x =~ /\n{2}/ ? x : (x.strip!; x << "  \n")
+      # end
 
       # Insert pre block extractions
       text.gsub!(/\{gfm-extraction-([0-9a-f]{32})\}/) do
