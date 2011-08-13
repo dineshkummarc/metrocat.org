@@ -1,0 +1,12 @@
+---
+layout: photo
+title: Hayden 1
+author: Jeff Watkins
+categories:
+- Faces
+---
+
+<figure><img class="photo" src="/photos/IMG_0720.jpg"></figure>
+
+Little Hayden
+

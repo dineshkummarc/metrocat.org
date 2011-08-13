@@ -1,0 +1,77 @@
+body
+{
+    font: 14px helvetica;
+    line-height: 20px;
+    color: #333;
+    width: 640px;
+    margin: 4em auto;
+}
+
+h1
+{
+    font: bold 24px helvetica;
+    margin: 36px 0 20px 0;
+}
+
+h1 em
+{
+    color: #999;
+    font-style: normal;
+}
+
+h1 small
+{
+    color: #999;
+    font-size: 14px;
+    float: right;
+    line-height: 34px;
+    font-weight: normal;
+}
+
+h1 small a
+{
+    color: #999;
+    text-decoration: none;
+}
+
+h1 small a:hover
+{
+    color: blue;
+}
+
+
+h2
+{
+    font: 22px helvetica;
+    margin: 38px 0 0 0;
+}
+
+h3
+{
+    font: 18px helvetica;
+    margin: 20px 0 0 0;
+}
+
+p
+{
+    margin: 1em 0;
+}
+
+h3 + p,
+h2 + p
+{
+    margin: 0 0 1em 0;
+}
+
+.movie
+{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.movie video,
+.movie img.poster
+{
+    -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.5);
+}
+

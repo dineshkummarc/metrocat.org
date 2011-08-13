@@ -3,11 +3,18 @@ body
   background-color: #ccc;
 }
 
-.header,
-.body,
 .footer
 {
   width: 728px;
+  margin: 0 auto;
+}
+
+.header,
+.body
+{
+  border-right: 1px solid #666;
+  border-left: 1px solid #666;
+  width: 726px;
   margin: 0 auto;
 }
 

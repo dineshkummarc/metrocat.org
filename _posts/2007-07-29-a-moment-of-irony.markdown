@@ -15,5 +15,5 @@ Now where the heck was a pen?
 
 I might need more help than even this book can give...
 
-[1]: http://http://www.amazon.com/Its-All-Too-Much-Living/dp/0743292642/ref=pd_bbs_sr_1/002-0478162-6793605?ie=UTF8&s=books&qid=1185770437&sr=8-1
+[1]: http://www.amazon.com/Its-All-Too-Much-Living/dp/0743292642/ref=pd_bbs_sr_1/002-0478162-6793605?ie=UTF8&s=books&qid=1185770437&sr=8-1
 

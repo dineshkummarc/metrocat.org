@@ -17,4 +17,4 @@ At the top of my list of tweaks and improvements:
 
 I know our site doesn't look right when viewed with Internet Explorer, but MSIE has too many bugs in its support of CSS for me to bother working around all of them. I'm not quite at the point where I'll hide all styling from 5.x versions of MSIE, but then I don't have any machines with older versions of Internet Explorer I can test on.
 
-[rebuild]: /2005/02/26/rebuilding-from-static-files "Why XHTML is your friend"
+[rebuild]: /2005/02/rebuilding-from-static-files "Why XHTML is your friend"

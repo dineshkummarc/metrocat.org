@@ -14,7 +14,7 @@
 
     <ul>
     {% for category in site.categories_sorted %}
-    <li><a href="/{{category[0] | downcase}}">{{category[0]}}
+    <li><a href="/{{category[0] | linkify}}">{{category[0]}}
       <span class="count">({{category[1].size}})</span></a>
     </li>
     {% endfor %}

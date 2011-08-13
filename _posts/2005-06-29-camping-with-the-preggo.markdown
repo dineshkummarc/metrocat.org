@@ -20,5 +20,5 @@ Expect a report.
 
 [smugglers]: http://www.vtstateparks.com/htm/smugglers.cfm
 [gifford]: http://www.vtstateparks.com/htm/gifford.cfm
-[honeymoon]: http://metrocat.org/photography/honeymoon-in-the-cotswolds/index.html
-[sabbatical]: http://metrocat.org/2002/07/15/the-big-update
+[honeymoon]: /honeymoon-in-the-cotswolds/index.html
+[sabbatical]: /2002/07/the-big-update

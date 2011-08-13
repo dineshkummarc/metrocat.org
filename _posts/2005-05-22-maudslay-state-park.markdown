@@ -21,5 +21,5 @@ What a mess.
 
 Of course, the season is still early. Perhaps I'll be able to get into better shape so I can enjoy the natural splendour New England has to offer. All this makes me wonder why I spent most of the winter in the gym.
 
-[cotswolds]:http://metrocat.org/photography/honeymoon-in-the-cotswolds/ "Photos from our honeymoon in the Cottswolds, England"
+[cotswolds]:/honeymoon-in-the-cotswolds/ "Photos from our honeymoon in the Cottswolds, England"
 [maudslay]:http://www.mass.gov/dcr/parks/northeast/maud.htm "Maudslay State Park in Newburyport"

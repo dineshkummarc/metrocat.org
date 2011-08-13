@@ -19,4 +19,4 @@ I went out to find that Magic had muscled Augustus away from the food and was go
 
 Of course, no more than 45 minutes later, I had to get up and feed everyone...
 
-[summer training]: /photography/our-cats/augustus-gives-chase.html "Augustus Gives Chase"
+[summer training]: /2004/09/augustus-gives-chase "Augustus Gives Chase"

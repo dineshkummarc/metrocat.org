@@ -8,8 +8,9 @@ module Jekyll
       if site.layouts.key? 'category_index'
         dir = site.config['category_dir']
         site.categories.keys.each do |category|
-          path= dir ? File.join(dir, category) : category
-          write_category_index(site, path.downcase, category)
+          category_folder_name = category.linkify
+          path= dir ? File.join(dir, category_folder_name) : category_folder_name
+          write_category_index(site, path, category)
         end
       end
     end

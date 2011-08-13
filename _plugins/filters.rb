@@ -1,3 +1,9 @@
+class String
+  def linkify
+    self.downcase.gsub(/\s+/, '-').gsub(/--+/, '-').gsub(/[^a-z0-9\-]+/, '')
+  end
+end
+
 module Jekyll
 
   module Filters
@@ -9,6 +15,10 @@ module Jekyll
     # Fix broken date_to_long_string format.
     def date_to_long_string(date)
       date.strftime("%e %B %Y")
+    end
+    
+    def linkify(string)
+      string.linkify
     end
     
   end

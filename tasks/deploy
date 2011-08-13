@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+jekyll && rsync -avz _site/ jeffw@metrocat.org:web/public
