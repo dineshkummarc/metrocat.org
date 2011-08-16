@@ -1,10 +1,12 @@
-debug-layout: true
+# debug-layout: true
 
 safe:        false
 auto:        false
 server:      false
 server_port: 4000
 base-url:    /
+
+multiviews: true
 sitemap:
   url: http://metrocat.org
   
