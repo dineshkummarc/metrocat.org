@@ -3,7 +3,7 @@ layout: photo
 title: 10 Weeks and Counting...
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/10-Weeks-to-Go.jpg"></figure>

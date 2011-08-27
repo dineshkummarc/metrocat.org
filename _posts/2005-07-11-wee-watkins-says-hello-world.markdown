@@ -3,7 +3,7 @@ layout: photo
 title: Wee Watkins Says Hello World!
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/say-hello.jpg"></figure>

@@ -4,7 +4,7 @@ title: Baby 5000  Batteries Not Included
 date: 2005-07-27
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Since when have babies needed so much stuff? After spending the past few days creating a registry (or few) for our own Wee Watkins, I have nearly lost my mind. And come up with a brilliant plan...

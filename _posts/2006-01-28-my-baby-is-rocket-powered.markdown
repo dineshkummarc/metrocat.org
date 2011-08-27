@@ -4,7 +4,7 @@ title: My Baby Is Rocket Powered
 date: 2006-01-28
 author: Jeff Watkins
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 <figure><a href="http://www.flickr.com/photo.gne?id=92413545"><img class="photo" src="http://static.flickr.com/14/92413545_f07f26549b.jpg" alt="I'm Cold" border="0"></a> </figure>

@@ -3,7 +3,7 @@ layout: photo
 title: 34 Weeks
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/2005-10-30-10-55-19.jpg"></figure>

@@ -5,7 +5,7 @@ date: 2005-06-16
 author: Jeff Watkins
 categories:
 - Family
-- Wee-Watkins
+- Molly
 ---
 
 Monday morning found me squatting on a stool in Anna's midwife's office waiting to listen to the heart beat of [The Bean][bean]. Lisa, the midwife, entered, squirted some cold goo on Anna's belly, and whipped out the doppler radar device (I've not bothered to [figure out how this thing works][spock-doppler]).

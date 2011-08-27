@@ -4,7 +4,7 @@ title: Cool Beans
 date: 2005-12-19
 author: Jeff Watkins
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 This probably doesn't come as a surprise to anyone, but babies don't like to be cold.

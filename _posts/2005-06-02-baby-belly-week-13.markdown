@@ -3,7 +3,7 @@ layout: photo
 title: Baby Belly- Week 13
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/Week-12.jpg"></figure>

@@ -3,7 +3,7 @@ layout: photo
 title: My God! What's That Under Your Skin?
 author: Jeff Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/IMG_2139.jpg"></figure>

@@ -3,7 +3,7 @@ layout: photo
 title: Tasty Toes
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/head-face-foot.jpg"></figure>

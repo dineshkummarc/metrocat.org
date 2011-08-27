@@ -5,7 +5,7 @@ date: 2005-12-09
 author: Jeff Watkins
 categories:
 - Family
-- Wee-Watkins
+- Molly
 ---
 
 We're finally home -- drove home in the middle of a blizzard. Here are a few more photos of our little sea monkey, Molly Elizabeth.

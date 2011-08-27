@@ -4,7 +4,7 @@ title: Molly, Week Two  The Sequel
 date: 2005-12-21
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Less sleep, fewer photos- you do the math. (Click for more info)

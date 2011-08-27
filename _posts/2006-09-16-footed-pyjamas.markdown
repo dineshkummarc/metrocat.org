@@ -4,7 +4,7 @@ title: Footed Pyjamas
 date: 2006-09-16
 author: Jeff Watkins
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 I distinctly recall hating my footed pyjamas when I was a youngster. If my failing memory serves, I had a yellow pair that were just hideous.

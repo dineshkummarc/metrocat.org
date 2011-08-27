@@ -6,7 +6,7 @@ author: Anna
 categories:
 - Family
 - Life
-- Wee-Watkins
+- Molly
 ---
 
 Well, we survived our first week with The Bean, and here are some pictures to prove it (click for further details):

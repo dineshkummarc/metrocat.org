@@ -4,7 +4,7 @@ title: Thank You Daddy
 date: 2009-08-22
 author: Jeff Watkins
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Molly doesn't eat her vegetables. Probably every one of you who are parents have started to laugh. But since I **really** want her to eat her vegetables, I've decided that from now on, dinner will begin with a plate of vegetables. If Molly eats them, she may have her dinner. If she doesn't eat them, she may not have her dinner and will be sent to her room. (She often watches some Loony Tunes or Animaniacs after dinner.)

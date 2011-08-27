@@ -4,7 +4,7 @@ title: Great Suckling Muppets
 date: 2005-12-06
 author: Jeff Watkins
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 We went to the introduction to breast feeding class yesterday evening. Really. Stop laughing. I went.

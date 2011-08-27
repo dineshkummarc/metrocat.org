@@ -3,7 +3,7 @@ layout: photo
 title: Itty Bitty Perfect Profile
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/profile.jpg"></figure>

@@ -2,7 +2,7 @@ body
 {
   margin: 0;
   background-color: #333;
-  color: #333;
+  color: #444;
 }
 
 .header
@@ -71,6 +71,11 @@ body
   color: white;
 }
 
+article + article
+{
+  margin-top: 4em;
+}
+
 article
 {
 }
@@ -119,10 +124,50 @@ article header h1
   margin: 0em;
 }
 
+article h1 a
+{
+  color: inherit;
+}
+
 article header p
 {
   margin: 0;
   font-style: italic;
+}
+
+article.feature
+{
+  border-bottom: 1px solid rgba(0,0,0,0.75);
+  border-top: 1px solid rgba(0,0,0,0.75);
+  margin: 0 -20px;
+  padding: 0 20px 20px;
+}
+
+article.feature:last-child
+{
+  border-bottom-width: 0;
+}
+
+article.feature + article.feature
+{
+  margin-top: 0;
+  border-top-width: 0;
+}
+
+article.feature h1
+{
+  font-family: "cochin", "georgia";
+  font-size: 3em;
+  font-style: italic;
+  margin: 0;
+  color: rgba(255,128,0,0.75);
+}
+
+article.feature h1 + p
+{
+  margin: 0;
+  font-size: 2em;
+  color: #666;
 }
 
 article footer
@@ -141,6 +186,11 @@ figure
 {
   text-align: center;
   margin: 1em 0;
+}
+
+figure > a
+{
+  display: block;
 }
 
 img.photo

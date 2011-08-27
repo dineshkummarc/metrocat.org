@@ -4,7 +4,7 @@ title: The Amazing (But Not Invincible) Molly
 date: 2006-02-25
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 It is incredible to believe, but our little girl is nearly three months old! I felt the need to write this update a wee bit early, as this week and next Jeff and I will each undergo surgery. Jeff is having his deviated septum repaired (or further destroyed, I don't quite understand the details), and I will be having six teeth removed (including two wisdom teeth) in preparation for having braces installed.

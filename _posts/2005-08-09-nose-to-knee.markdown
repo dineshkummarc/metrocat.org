@@ -3,7 +3,7 @@ layout: photo
 title: Nose to Knee
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/Knee-Nose.jpg"></figure>

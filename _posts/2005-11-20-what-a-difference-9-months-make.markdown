@@ -3,7 +3,7 @@ layout: photo
 title: What a Difference 9 Months Make
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/IMG_2734.jpg"></figure>

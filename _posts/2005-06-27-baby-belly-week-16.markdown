@@ -3,7 +3,7 @@ layout: photo
 title: Baby Belly- Week 16
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/Week-16.jpg"></figure>

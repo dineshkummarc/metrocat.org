@@ -3,7 +3,7 @@ layout: photo
 title: Baby Belly- Week 10
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/watch.jpg"></figure>

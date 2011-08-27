@@ -5,7 +5,7 @@ date: 2008-11-22
 author: Jeff Watkins
 categories:
 - Wedding
-- Wee-Watkins
+- Molly
 ---
 
 This morning as Anna was getting ready for a family outing to the movies, she discovered that her rings were missing. She has 3 rings:

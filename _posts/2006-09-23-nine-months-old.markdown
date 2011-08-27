@@ -4,7 +4,7 @@ title: Nine Months Old
 date: 2006-09-23
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Here are Molly's stats as of her 9 month checkup:

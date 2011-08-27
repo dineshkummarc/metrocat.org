@@ -4,7 +4,7 @@ title: Lucky Molly Has Many Toys
 date: 2006-02-25
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 This is her [BebePOD][1], which is a soft support chair that allows babies to sit upright and join the fun. 

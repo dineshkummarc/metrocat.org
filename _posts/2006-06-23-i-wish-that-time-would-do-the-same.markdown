@@ -4,7 +4,7 @@ title: I Wish That Time Would Do the Same
 date: 2006-06-23
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Molly is currently learning to crawl. Let me rephrase that sentence. She is <i>teaching herself</i> to crawl, and like her parents, she is a bit of a perfectionist. She practices day and night, even in her sleep. Really. I actually had to go in and comfort her last night after she knocked her head against the side of the crib numerous times. Her eyes remained closed throughout the whole ordeal.

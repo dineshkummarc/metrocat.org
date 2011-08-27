@@ -4,7 +4,7 @@ title: Eight Months Old
 date: 2006-09-23
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Yes, this post is a little late. Frighteningly, Molly will be 10 months old in two weeks! But, I will do my best to bring everyone up to date before then.

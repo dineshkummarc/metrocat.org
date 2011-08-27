@@ -4,7 +4,7 @@ title: To Scream or Not To Scream?
 date: 2005-12-29
 author: Jeff Watkins
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Sometimes I can fix whatever is making Molly scream. Sometimes her diaper needs to be changed. Sometimes she's hungry. Sometimes her pacifier has become lost.

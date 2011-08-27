@@ -4,7 +4,7 @@ title: Satan Lives In The Bowels of My Daughter
 date: 2005-12-12
 author: Jeff Watkins
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Our day peaked just a little while ago when our daughter finally pooped. Really. This is what my life has come to: I'm excited that a small, squirmy creature has crapped her pants.

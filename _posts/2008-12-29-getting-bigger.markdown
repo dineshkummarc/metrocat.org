@@ -5,7 +5,7 @@ date: 2008-12-29
 author: Jeff Watkins
 categories:
 - Family
-- Wee-Watkins
+- Molly
 ---
 
 Molly seems to be getting bigger and bigger every day. Just this morning, I awoke to discover Molly standing next to my bed dressed in one of her many monkey-themed shirts and a pair of jeans. Nothing too radical or unusual... except, I hadn't dressed her. And it was still too early for Anna to be getting up.

@@ -4,7 +4,7 @@ title: Molly's March Adventures, Part One
 date: 2006-04-09
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Last month (March) was an exciting one around the northernmost Watkins homestead, especially for our newest member. Molly visited all of her grandparents, and experienced some memorable firsts:

@@ -4,7 +4,7 @@ title: Full Circle
 date: 2006-03-17
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 A friend of mine mentioned the other day (pardon my paraphrasing) that the saga of Molly's stomach had come full circle.

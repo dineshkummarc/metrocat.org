@@ -4,7 +4,7 @@ title: Seven Months Old
 date: 2006-07-31
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Here were Molly's stats as of her second-to-last gastroenterologist visit on 7/21:

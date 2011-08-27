@@ -4,7 +4,7 @@ title: Six Months Old- Halfway There!
 date: 2006-06-15
 author: Anna
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 Here were Molly's stats for her "unbirthday":

@@ -4,7 +4,7 @@ title: Memories of Molly
 date: 2008-11-29
 author: Jeff Watkins
 categories:
-- Wee-Watkins
+- Molly
 ---
 
 We just returned from our bi-annual family get together in Mexico. It was our first opportunity to meet Katalin our 8 month old niece. Watching her giggle and smile brought back fond and not-so-fond memories of Molly when she was much smaller.

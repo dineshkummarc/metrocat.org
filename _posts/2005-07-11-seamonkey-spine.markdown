@@ -3,7 +3,7 @@ layout: photo
 title: Seamonkey Spine
 author: Anna Watkins
 categories:
-- Wee Watkins
+- Molly
 ---
 
 <figure><img class="photo" src="/photos/spine.jpg"></figure>

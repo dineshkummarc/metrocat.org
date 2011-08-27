@@ -2,6 +2,7 @@ require 'jekyll/convertible'
 require 'active_support/inflector'
 
 module Jekyll
+  MORE_REGEX = /<!--\s*more\s*-->/i
   
   module Convertible
     alias old_read_yaml read_yaml
@@ -21,6 +22,13 @@ module Jekyll
         self.date = Time.parse(self.data["date"].to_s)
       end
 
+      summary = self.data['summary']
+      body = (self.content || '')
+      
+      if !self.data.has_key?('summary') && body[MORE_REGEX]
+        self.data['summary'] = body.split(MORE_REGEX)[0] || ''
+      end
+      
       self.data
     end
     
