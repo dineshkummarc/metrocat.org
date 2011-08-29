@@ -1,0 +1,28 @@
+{% if post.feature %}
+<article class="feature {{post.feature}}">
+  <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
+
+  {% if post.summary %}
+  {{post.summary}}
+  {% else %}
+  {{post.content}}
+  {% endif %}
+
+</article>
+{% else %}
+<article>
+  <header>
+    <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
+    {% if post.author %}
+    <p>by {{ post.author }} on <time pubdate datetime="{{post.date | date_to_xmlschema}}">{{post.date | date_to_long_string}}</time></p>
+    {% endif %}
+  </header>
+  
+  {% if post.summary %}
+  {{post.summary}}
+  {% else %}
+  {{post.content}}
+  {% endif %}
+
+</article>
+{% endif %}

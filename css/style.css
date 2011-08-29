@@ -159,8 +159,9 @@ article.feature h1
   font-family: "cochin", "georgia";
   font-size: 3em;
   font-style: italic;
-  margin: 0;
+  margin: 0.25em 0;
   color: rgba(255,128,0,0.75);
+  line-height: 1;
 }
 
 article.feature h1 + p

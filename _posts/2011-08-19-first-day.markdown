@@ -7,6 +7,6 @@ categories:
 
 Yesterday was Molly's first day of Kindergarten at Collins Elementary here in Cupertino. She was super excited.
 
-<figure><a href="http://www.flickr.com/photos/jeffwatkins/6057732223/" title="IMG_1017 by jeffwatkins, on Flickr"><img src="http://farm7.static.flickr.com/6197/6057732223_f50631df80.jpg" width="500" height="500" class="photo"></a></figure>
+<figure><a href="http://www.flickr.com/photos/jeffwatkins/6057732223/" title="IMG_1017 by jeffwatkins, on Flickr"><img src="http://farm7.static.flickr.com/6197/6057732223_f50631df80.jpg" class="photo"></a></figure>
 
 
