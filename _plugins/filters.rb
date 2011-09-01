@@ -21,6 +21,11 @@ module Jekyll
       string.linkify
     end
     
+    def hostname(string)
+      uri = URI::parse(string) rescue nil
+      return uri ? uri.host : string
+    end
+    
   end
   
 end

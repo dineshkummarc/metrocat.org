@@ -12,6 +12,11 @@ layout: page
   {{content}}
 
   <footer>
+    {% if page.link %}
+    <div>
+      Link: <a href="{{page.link}}" rel="no-follow">{{page.link | hostname}}</a>
+    </div>
+    {% endif %}
     {% if page.previous.url %} 
     <div>
       Previous: <a class="previous-post" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">{{page.previous.title}}</a> 
