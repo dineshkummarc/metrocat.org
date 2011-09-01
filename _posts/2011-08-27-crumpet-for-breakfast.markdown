@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Crumpet for Breakfast
 author: Jeff Watkins
 categories:

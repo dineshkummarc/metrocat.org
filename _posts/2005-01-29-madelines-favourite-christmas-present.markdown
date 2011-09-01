@@ -3,7 +3,7 @@ layout: photo
 title: Madeline's Favourite Christmas Present
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/IMG_1569.jpg"></figure>

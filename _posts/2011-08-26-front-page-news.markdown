@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Front Page News
 author: Jeff Watkins
 categories:

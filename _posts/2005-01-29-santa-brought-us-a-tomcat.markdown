@@ -3,7 +3,7 @@ layout: photo
 title: Santa Brought Us A Tomcat
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/IMG_1548.jpg"></figure>

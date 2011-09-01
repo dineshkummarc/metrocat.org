@@ -3,7 +3,7 @@ layout: photo
 title: In Your Face, Pinky!
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/IMG_1853.jpg"></figure>

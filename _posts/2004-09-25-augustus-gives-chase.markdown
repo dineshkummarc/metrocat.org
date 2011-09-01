@@ -3,7 +3,7 @@ layout: photo
 title: Augustus Gives Chase
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/augustus-2.jpg"></figure>

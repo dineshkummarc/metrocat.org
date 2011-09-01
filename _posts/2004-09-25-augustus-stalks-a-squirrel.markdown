@@ -3,7 +3,7 @@ layout: photo
 title: Augustus Stalks A Squirrel
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/augustus-1.jpg"></figure>

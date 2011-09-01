@@ -3,7 +3,7 @@ layout: photo
 title: Augustus in a Bag
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/augustus-in-a-bag.jpg"></figure>

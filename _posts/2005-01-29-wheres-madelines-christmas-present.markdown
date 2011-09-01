@@ -3,7 +3,7 @@ layout: photo
 title: Where's Madeline's Christmas Present?
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/IMG_1565.jpg"></figure>

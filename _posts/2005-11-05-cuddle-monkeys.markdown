@@ -3,7 +3,7 @@ layout: photo
 title: Cuddle Monkeys
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/2005-11-05-17-21-37.jpg"></figure>

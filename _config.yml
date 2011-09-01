@@ -9,6 +9,11 @@ base-url:    /
 multiviews: true
 sitemap:
   url: http://metrocat.org
+
+# post:
+#   layout: post
+# page:
+#   layout: page
   
 source:      .
 destination: ./_site

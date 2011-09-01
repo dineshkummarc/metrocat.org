@@ -3,7 +3,7 @@ layout: photo
 title: Alas The Squirrel Gets Away
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/augustus-3.jpg"></figure>

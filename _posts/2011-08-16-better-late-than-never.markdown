@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Better Late than Never
 author: Jeff Watkins
 categories:

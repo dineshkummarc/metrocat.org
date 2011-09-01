@@ -1,5 +1,22 @@
-{% if post.feature %}
-<article class="feature {{post.feature}}">
+{% case post.layout %}
+
+{% when 'aside' %}
+<article class="aside">
+  {{post.content}}
+  
+  {% if post.link %}
+  <h1><a href="{{post.link}}" rel="no-follow">{{post.title}}</a></h1>
+  {% endif %}
+
+  {% if post.author %}
+  <p>by {{ post.author }} on <time pubdate datetime="{{post.date | date_to_xmlschema}}">{{post.date | date_to_long_string}}</time></p>
+  {% else %}
+  <p><time pubdate datetime="{{post.date | date_to_xmlschema}}">{{post.date | date_to_long_string}}</time></p>
+  {% endif %}
+</article>
+
+{% when 'feature' %}
+<article class="feature">
   <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
 
   {% if post.summary %}
@@ -7,8 +24,8 @@
   {% else %}
   {{post.content}}
   {% endif %}
-
 </article>
+
 {% else %}
 <article>
   <header>
@@ -23,6 +40,5 @@
   {% else %}
   {{post.content}}
   {% endif %}
-
 </article>
-{% endif %}
+{% endcase %}

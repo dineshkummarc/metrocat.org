@@ -3,7 +3,7 @@ layout: photo
 title: Tim the Tomcat
 author: Jeff Watkins
 categories:
-- Our Cats
+- Cats
 ---
 
 <figure><img class="photo" src="/photos/tim-the-tomcat.jpg"></figure>

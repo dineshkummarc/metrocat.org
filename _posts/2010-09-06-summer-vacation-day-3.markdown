@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: feature
 title: Summer Vacation Day 3
 date: 2010-09-06
 author: Jeff Watkins
-feature: travel
 summary: |
     Molly and Jeff enjoy rafting down the Salmon river, but only **after** the day warms up.
 categories:

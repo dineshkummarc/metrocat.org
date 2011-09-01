@@ -140,7 +140,7 @@ article.feature
   border-bottom: 1px solid rgba(0,0,0,0.75);
   border-top: 1px solid rgba(0,0,0,0.75);
   margin: 0 -20px;
-  padding: 0 20px 20px;
+  padding: 20px;
 }
 
 article.feature:last-child
@@ -156,12 +156,14 @@ article.feature + article.feature
 
 article.feature h1
 {
-  font-family: "cochin", "georgia";
+  font-family: georgia;
   font-size: 3em;
   font-style: italic;
-  margin: 0.25em 0;
+  font-weight: normal;
+  margin: 0;
   color: rgba(255,128,0,0.75);
   line-height: 1;
+  display: inline;
 }
 
 article.feature h1 + p
@@ -169,6 +171,8 @@ article.feature h1 + p
   margin: 0;
   font-size: 2em;
   color: #666;
+  display: inline;
+  margin-left: 0.5em;
 }
 
 article footer

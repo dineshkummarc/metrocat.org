@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: feature
 title: Summer Vacation Day 4
 date: 2010-09-07
 author: Jeff Watkins
-feature: travel
 summary: |
     Molly and Jeff continue their journey from Salmon, ID to the Grand Tetons National Park.
     

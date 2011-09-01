@@ -1,4 +1,5 @@
 ---
+layout: post
 title: First Day
 author: Jeff Watkins
 categories:
