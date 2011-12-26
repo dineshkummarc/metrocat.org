@@ -18,7 +18,7 @@ Well, here in the Watkins (Northeast Branch) household, we may not yet have a
 little baby from which to learn, but our fur-children are only to happy to
 teach us a lesson in communication. Augustus in particular.
 
-Jeff had written earlier ([here][1] and [here][2])about his buddy Augustus'
+Jeff had written earlier ([here][1] and [here][2]) about his buddy Augustus'
 particularly annoying habit of "singing" to us all night long. He had even
 seemed to figure out a possible [cause][3].
 

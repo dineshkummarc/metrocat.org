@@ -6,7 +6,7 @@ categories:
 - Vermont Vacation
 ---
 
-<figure><img class="photo" src="/photos/IMG_2105.jpg"></figure>
+<figure><img class="photo" src="/photos/IMG_2105a.jpg"></figure>
 
 On our way to Vermont, we stopped several times along the scenic highway
 through New Hampshire’s White Mountains. On one stop we walked up a short path
