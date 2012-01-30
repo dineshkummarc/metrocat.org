@@ -9,7 +9,7 @@ layout: default
 <a class="edit-link" href="txmt://open?url=file://{{page.path}}">Edit</a>
 {% endif %}
 
-{% for post in site.posts limit:5 %}
+{% for post in site.pages limit:5 %}
 {% include post-list-item.html %}
 {% endfor %}
 </div>

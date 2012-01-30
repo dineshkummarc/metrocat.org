@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+<h1>{{ page.year }}</h1>
+
+
+{% for month in page.children %}
+  <h3><a href="{{ month.url }}">{{ month.month | to_month }}</a></h3>
+  
+  <ul>
+    {% for child in month.children %}
+    <li><a href="{{ child.url }}">{{ child.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
+{% endfor %}

@@ -17,6 +17,11 @@ module Jekyll
       date.strftime("%e %B %Y")
     end
     
+    def to_month(string)
+      month = "#{string}".to_i - 1
+      ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"][month]
+    end
+    
     def linkify(string)
       string.linkify
     end

@@ -5,7 +5,7 @@ module Jekyll
     priority :low
     
     def generate(site)
-      if site.layouts.key? 'category_index'
+      if site.layouts.key? 'category-index'
         dir = site.config['category_dir']
         site.categories.keys.each do |category|
           category_folder_name = category.linkify
@@ -35,10 +35,11 @@ module Jekyll
     def initialize(site, base, dir, category)
       @site = site
       @base = base
-      @dir = dir
-      @name = 'index.html'
+      @dir = "" # dir
+      @name = "#{dir}.html" #'index.html'
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'category_index.html')
+      # self.read_yaml(File.join(base, '..', '_layouts'), 'category-index.html')
+      self.read_yaml(File.join(base, '_layouts'), 'category-index.html')
       self.data['category'] = category
       category_title_prefix = site.config['category_title_prefix'] || 'Category: '
       self.data['title'] = "#{category_title_prefix}#{category}"

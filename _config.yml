@@ -6,24 +6,19 @@ server:      false
 server_port: 4000
 base-url:    /
 
-multiviews: true
 sitemap:
   url: http://metrocat.org
-
-# post:
-#   layout: post
-# page:
-#   layout: page
   
 source:      .
 destination: ./_site
 plugins:     ./_plugins
+layouts:     ./_layouts
 
 future:      false
 lsi:         false
 pygments:    true
 markdown:    maruku
-permalink:   /:year/:month/:title
+permalink:   pretty
 
 # maruku:
 #   use_tex:    false

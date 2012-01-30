@@ -1,0 +1,5 @@
+---
+layout: archive-monthly
+year: 2006
+month: 06
+---

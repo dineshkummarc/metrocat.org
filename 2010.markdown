@@ -1,0 +1,4 @@
+---
+layout: archive-annual
+year: 2010
+---
