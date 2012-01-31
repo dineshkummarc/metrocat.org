@@ -1,6 +1,7 @@
 --- 
 author: Jeff Watkins
 title: Plague Victim
+layout: post
 categories: 
 - Molly
 date: 2011-08-28
