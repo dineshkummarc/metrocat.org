@@ -146,6 +146,7 @@ article header p
   color: #888;
   font-family: "HelveticaNeue-Condensed","helvetica neue";
   white-space: nowrap;
+  margin: 0;
 }
 
 article header h1 + p
@@ -374,6 +375,11 @@ Images are wrapped in divs classed "flickr_badge_image" with ids "flickr_badge_i
 .aside header h1 a
 {
   color: rgba(255,128,0,0.75);
+}
+
+.aside header p
+{
+  font-size: 0.9em;
 }
 
 article.aside + article.aside:before

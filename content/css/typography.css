@@ -98,6 +98,8 @@ blockquote
 
 pre
 {
+  padding: 0 25px 0 30px;
+  border-left: 5px solid #eee;
 }
 
 code
