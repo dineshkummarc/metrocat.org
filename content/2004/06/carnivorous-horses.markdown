@@ -9,7 +9,7 @@ date: 2004-06-17
 
 <figure><img class="photo" src="/photos/IMG_0994.jpg"></figure>
 
-This horses had earlier devoured another walker otherwise we wouldn’t have
+These horses had earlier devoured another walker otherwise we wouldn’t have
 been able to walk through their paddock unmolested. Later, we received reports
 that other walkers had spotted them sharpening their fangs.
 

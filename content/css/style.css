@@ -133,6 +133,7 @@ article header h1
 {
   margin: 0em;
   display: inline;
+  line-height: 1em;
 }
 
 article h1 a
