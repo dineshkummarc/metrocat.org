@@ -9,10 +9,11 @@ base-url:    /
 sitemap:
   url: http://metrocat.org
   
-source:      .
+source:      ./content
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
+includes:    ./_includes
 
 future:      false
 lsi:         false

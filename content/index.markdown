@@ -1,4 +1,3 @@
 ---
-title: metrocat
 layout: home
 ---
