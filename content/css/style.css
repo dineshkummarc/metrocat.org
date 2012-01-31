@@ -1,8 +1,7 @@
 body
 {
   margin: 0;
-  background-color: #333;
-  color: #444;
+  color: #333;
 }
 
 .header
@@ -73,11 +72,22 @@ body
 
 article + article
 {
-  margin-top: 4em;
+}
+  
+article + article:before
+{
+  height: 1px;
+  width: 50%;
+  margin: 3em auto;
+  content: '.';
+  display: block;
+  text-indent: -9999px;
 }
 
-article
+article h1
 {
+  font-family: "HelveticaNeue-CondensedBold", "helvetica neue", "helvetica";
+  font-size: 4em;
 }
 
 article p
@@ -134,7 +144,8 @@ article header p
 {
   display: inline;
   color: #888;
-  font-family: "helvetica neue"
+  font-family: "helvetica neue";
+  white-space: nowrap;
 }
 
 article header h1 + p
@@ -225,6 +236,16 @@ img
   max-width: 100%;
 }
 
+.footnotes hr
+{
+  display: none;
+}
+
+.footnotes
+{
+  color: #999;
+}
+
 .footnotes li p:nth-last-of-type(1)
 {
   display: inline;
@@ -233,11 +254,15 @@ img
 
 .footer
 {
-  padding: 20px;
   background-color: #333;
   color: rgba(255,255,255,0.9);
   font-family: "helvetica neue";
   position: relative;
+}
+
+.footer .wrapper
+{
+  padding: 20px;
 }
 
 /*
@@ -296,12 +321,11 @@ Images are wrapped in divs classed "flickr_badge_image" with ids "flickr_badge_i
   background-color: #222;
   color: rgba(255,255,255,0.9);
   font-family: "helvetica neue";
-  padding: 20px 0;
 }
 
 #flickr header
 {
-  padding: 0 20px;
+  padding: 20px;
 }
 
 #flickr h1,
@@ -315,6 +339,7 @@ Images are wrapped in divs classed "flickr_badge_image" with ids "flickr_badge_i
 {
   margin: 20px auto;
   text-align: center;
+  padding: 0 20px 20px 20px;
 }
 
 #flickr .flickr_badge_image
@@ -336,7 +361,7 @@ Images are wrapped in divs classed "flickr_badge_image" with ids "flickr_badge_i
 
 .aside header
 {
-  margin: -1em 0;
+  margin: -1em 0 0 0;
 }
 
 .aside header h1
@@ -348,4 +373,10 @@ Images are wrapped in divs classed "flickr_badge_image" with ids "flickr_badge_i
 .aside header h1 a
 {
   color: rgba(255,128,0,0.75);
+}
+
+article.aside + article.aside:before
+{
+  margin: 1em auto;
+  background-color: #ccc;
 }
