@@ -63,14 +63,14 @@ body
 
 h1, h2, h3, h4
 {
-  font-family: "helvetica neue";
+  font-family: "HelveticaNeue-CondensedBold","helvetica neue";
   font-weight: bold;
   text-rendering: optimizeLegibility !important;
 }
 
 h1
 {
-  font-size: 1.25em;
+  font-size: 2em;
   margin: 1em 0;
 }
 

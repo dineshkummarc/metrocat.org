@@ -26,6 +26,11 @@ body
   margin: 0 auto;
 }
 
+article h1
+{
+  font-size: 4em;
+}
+
 
 /* marker for layout */
 .debug .header h1::after

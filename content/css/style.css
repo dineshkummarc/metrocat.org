@@ -87,7 +87,7 @@ article + article:before
 article h1
 {
   font-family: "HelveticaNeue-CondensedBold", "helvetica neue", "helvetica";
-  font-size: 4em;
+  font-size: 2em;
 }
 
 article p
@@ -142,9 +142,9 @@ article h1 a
 
 article header p
 {
-  display: inline;
+  display: inline-block;
   color: #888;
-  font-family: "helvetica neue";
+  font-family: "HelveticaNeue-Condensed","helvetica neue";
   white-space: nowrap;
 }
 
@@ -288,6 +288,7 @@ img
 .footer h2
 {
   text-shadow: rgba(0,0,0,0.6) 0 1px 2px;
+  font-size: 2em;
 }
 
 .footer .count
@@ -339,7 +340,7 @@ Images are wrapped in divs classed "flickr_badge_image" with ids "flickr_badge_i
 {
   margin: 20px auto;
   text-align: center;
-  padding: 0 20px 20px 20px;
+  padding-bottom: 20px;
 }
 
 #flickr .flickr_badge_image
