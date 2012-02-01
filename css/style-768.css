@@ -1,0 +1,74 @@
+@media only screen and (min-width: 768px) {
+  
+
+  body
+  {
+  }
+
+  .header,
+  .body
+  {
+    width: 728px;
+    margin: 0 auto;
+  }
+
+  .body
+  {
+    margin-bottom: 6em;
+  }
+
+  #flickr header
+  {
+    width: 728px;
+    margin: 0 auto;
+  }
+
+  #flickr .photos
+  {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  article h1
+  {
+    font-size: 4em;
+  }
+
+
+  /* marker for layout */
+  .debug .header h1::after
+  {
+    content: '768';
+  }
+
+  .header h1
+  {
+    display: inline-block;
+  }
+
+  .header p
+  {
+    display: inline-block;
+    margin: 0 0 0 0.5em;
+  }
+
+  .footer .wrapper
+  {
+    width: 728px;
+    margin: 0 auto;
+  }
+
+  .footer section
+  {
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: top;
+    width: 344px;
+  }
+
+  .footer section:last-child
+  {
+    margin-right: 0;
+  }
+
+}

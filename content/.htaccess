@@ -1,0 +1,24 @@
+Options +FollowSymLinks -Indexes +Multiviews
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteBase /
+RewriteRule (.*)/$ $1.html [L]
+</IfModule>
+
+
+# MONTH
+<FilesMatch "\.(flv|gif|jpg|jpeg|png|ico|swf)$">
+Header set Cache-Control "max-age=2592000"
+</FilesMatch>
+
+# WEEK
+<FilesMatch "\.(js|css|pdf|txt)$">
+Header set Cache-Control "max-age=604800"
+</FilesMatch>
+
+# DAY
+<FilesMatch "\.(html|htm)$">
+Header set Cache-Control "max-age=43200"
+</FilesMatch>

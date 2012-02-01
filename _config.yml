@@ -8,7 +8,16 @@ base-url:    /
 
 sitemap:
   url: http://metrocat.org
-  
+css_minify:
+  files:
+    - css/typography.css
+    - css/syntax.css
+    - css/style.css
+    - css/print.css
+    - css/style-480.css
+    - css/style-768.css
+    - css/style-1382.css
+      
 source:      ./content
 destination: ./_site
 plugins:     ./_plugins

@@ -32,19 +32,7 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" href="/css/typography.css" type="text/css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="/css/syntax.css" type="text/css" media="screen" title="no title" charset="utf-8">
-
-    <!-- For all browsers -->
-    <link rel="stylesheet" media="screen" href="/css/style.css">
-    <link rel="stylesheet" media="print" href="/css/print.css">
-    <!-- For progressively larger displays -->
-    <link rel="stylesheet" media="only screen and (min-width: 480px)" href="/css/style-480.css">
-    <link rel="stylesheet" media="only screen and (min-width: 768px)" href="/css/style-768.css">
-    <link rel="stylesheet" media="only screen and (min-width: 992px)" href="/css/style-992.css">
-    <link rel="stylesheet" media="only screen and (min-width: 1382px)" href="/css/style-1382.css">
-    <!-- For Retina displays -->
-    <link rel="stylesheet" media="only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)" href="/css/style-2x.css">
+    <link rel="stylesheet" href="{% minified_css_file %}" type="text/css" title="no title" charset="utf-8">
     
     <link rel="edit" href="txmt://open?url=file://{{page.path}}">
     <link rel="alternate" type="application/atom+xml" href="/atom.xml">
